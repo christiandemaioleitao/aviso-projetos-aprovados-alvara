@@ -8,6 +8,13 @@
   "autor": "UNYT ARQUITETURA DE RESULTADOS S/S ( 23784356000169 )",
   "andamentos": [
     {
+      "sequencia": "14",
+      "data": "03/06/2026 13:06:31",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
       "sequencia": "13",
       "data": "20/04/2026 17:21:19",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -111,5 +118,5 @@
       "data": "13 Mar"
     }
   ],
-  "_salvo_em": "2026-05-11T01:21:08.051399+00:00"
+  "_salvo_em": "2026-06-03T20:55:23.515940+00:00"
 }
