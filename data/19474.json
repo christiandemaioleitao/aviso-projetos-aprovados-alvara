@@ -8,6 +8,13 @@
   "autor": "DENER ALVARES JUSTINO ( 43899374134 )",
   "andamentos": [
     {
+      "sequencia": "38",
+      "data": "11/05/2024 21:48:01",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Conforme documentação anexada e análise realizada, encaminhamos para liberação de taxa.",
+      "situacao": "Fechada",
+      "responsavel": "VALFRAN DE SOUSA RIBEIRO"
+    },
+    {
       "sequencia": "37",
       "data": "10/05/2024 14:38:00",
       "descricao": "Solicitação recebida",
@@ -304,5 +311,5 @@
       "data": "09/05/2024"
     }
   ],
-  "_salvo_em": "2026-06-03T21:00:58.501037+00:00"
+  "_salvo_em": "2026-06-03T21:05:51.601285+00:00"
 }
