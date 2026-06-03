@@ -1,6 +1,7 @@
 """Testes do scraper (parsing de HTML estático, sem rede)."""
 
 from src.scraper import _parse_andamentos, _parse_anexos, _pagina_de_erro
+from src.notificador import montar_mensagem_aprovacao
 from bs4 import BeautifulSoup
 
 
@@ -81,3 +82,32 @@ def test_pagina_de_erro_detecta_404():
 
 def test_pagina_de_erro_pagina_normal():
     assert _pagina_de_erro("<html>OK</html>") is False
+
+
+def test_mensagem_aprovacao_escapa_caracteres_markdownv2():
+    """Garante que `>`, `.`, `<`, `&` etc. da descrição são escapados pro MarkdownV2."""
+    msg = montar_mensagem_aprovacao(
+        nome="Projeto X (teste)",
+        projeto_id=123,
+        url="https://exemplo",
+        numero_licenca="99",
+        ultimo_andamento={
+            "sequencia": "1",
+            "data": "01/01/2024",
+            "descricao": "Taxa do projeto gerada. > com <tag> & coisa.",
+            "situacao": "Fechada",
+            "responsavel": "RESP",
+        },
+        diffs=[],
+    )
+    # `>` precisa estar escapado como `\>` (não pode aparecer solto no texto)
+    # Exceto nos marcadores intencionais (negrito, código, link)
+    # Vamos checar que NÃO existe "  > " (blockquote solto)
+    assert "  > " not in msg
+    # E que existe `\\>` (escapado)
+    assert "\\>" in msg
+    # O ponto final da frase também tem que estar escapado
+    assert "\\." in msg
+    # Não pode quebrar o link markdown `[texto](url)` que também usa colchetes/parênteses
+    assert "[Ver no AlvaráFácil](https://exemplo)" in msg
+

@@ -102,8 +102,9 @@ def montar_mensagem_aprovacao(
         )
         desc = (ultimo_andamento.get("descricao") or "").strip()
         if desc:
-            # Trunca descrições muito longas para não estourar o limite do Telegram
-            corpo_linhas.append(f"  > {_escape(desc[:500])}")
+            # Trunca descrições muito longas para não estourar o limite do Telegram.
+            # O `>` (blockquote do MarkdownV2) é escapado para `\\>` para não quebrar o parse_mode.
+            corpo_linhas.append(f"  {_escape('>')} {_escape(desc[:500])}")
         if ultimo_andamento.get("situacao"):
             corpo_linhas.append(
                 f"  • Situação: `{_escape(ultimo_andamento['situacao'])}`"
