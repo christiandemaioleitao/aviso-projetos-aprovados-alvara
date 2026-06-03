@@ -1,0 +1,92 @@
+{
+  "projeto_id": 44686,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44686&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "49659",
+  "tipo": "Aprovação de Projeto",
+  "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
+  "andamentos": [
+    {
+      "sequencia": "9",
+      "data": "06/04/2026 14:05:02",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "8",
+      "data": "06/04/2026 13:46:55",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "7",
+      "data": "13/03/2026 15:28:09",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "GPL ENGENHARIA LTDA"
+    },
+    {
+      "sequencia": "6",
+      "data": "19/09/2025 09:49:46",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: DOCUMENTAÇÃO",
+      "situacao": "Aguardando",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "5",
+      "data": "18/09/2025 11:17:24",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "4",
+      "data": "05/08/2025 11:49:20",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "GPL ENGENHARIA LTDA"
+    },
+    {
+      "sequencia": "3",
+      "data": "29/07/2025 09:59:24",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "2",
+      "data": "29/07/2025 08:28:28",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "1",
+      "data": "07/06/2025 07:33:19",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "CENTRO R24 EMPREENDIMENTO IMOBILIARIO SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - CENTRO R24 EMPREENDIMENTO IMOBILIARIO SPE - 44686.pdf",
+      "descricao": "Aprovacao de Projeto - CENTRO R24 EMPREENDIMENTO IMOBILIARIO SPE - 44686.pdf",
+      "data": "29/07/2025"
+    },
+    {
+      "nome": "CENTRO R24 EMPREENDIMENTO IMOBILIÁRIO SPE LTDA APROVAÇÃO DE PROJETO.pdf",
+      "descricao": "CENTRO R24 EMPREENDIMENTO IMOBILIARIO SPE LTDA APROVACAO DE PROJETO.pdf",
+      "data": "19/09/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - CENTRO R24 EMPREENDIMENTO IMOBILIARIO SPE LTDA - 44686.pdf",
+      "descricao": "Aprovacao de Projeto - CENTRO R24 EMPREENDIMENTO IMOBILIARIO SPE LTDA - 44686.pdf",
+      "data": "6 Abr"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:19.803147+00:00"
+}

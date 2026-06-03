@@ -1,0 +1,66 @@
+{
+  "projeto_id": 44102,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44102&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "49019",
+  "tipo": "Aprovação de Projeto",
+  "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
+  "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "03/03/2026 09:42:51",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "02/03/2026 10:49:06",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "15/01/2026 18:49:58",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "JOÃO GABRIEL TOMÉ OLIVEIRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "22/07/2025 09:31:01",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "2",
+      "data": "23/05/2025 15:34:03",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "1",
+      "data": "25/04/2025 07:32:51",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE RESIDENCIAL CITY 39 EMPREENDIMENTOS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - SPE RESIDENCIAL CITY 39 EMPREENDIMENTOS LTDA - 44102.pdf",
+      "descricao": "Aprovacao de Projeto - SPE RESIDENCIAL CITY 39 EMPREENDIMENTOS LTDA - 44102.pdf",
+      "data": "22/07/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - SPE RESIDENCIAL CITY 39 EMPREENDIMENTOS LTDA - 44102ok.pdf",
+      "descricao": "Aprovacao de Projeto - SPE RESIDENCIAL CITY 39 EMPREENDIMENTOS LTDA - 44102ok.pdf",
+      "data": "3 Mar"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:24.064743+00:00"
+}

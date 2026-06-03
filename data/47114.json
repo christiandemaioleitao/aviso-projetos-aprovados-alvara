@@ -1,0 +1,87 @@
+{
+  "projeto_id": 47114,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47114&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "47712",
+  "tipo": "Aprovação de Projeto",
+  "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
+  "andamentos": [
+    {
+      "sequencia": "9",
+      "data": "19/05/2026 17:31:33",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "8",
+      "data": "30/01/2026 13:58:40",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Ver despacho 306_2026",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "7",
+      "data": "19/01/2026 12:09:13",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "6",
+      "data": "07/01/2026 12:10:09",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "5",
+      "data": "02/12/2025 16:45:38",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROJETO ARQUITETÔNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "02/12/2025 16:44:21",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "01/12/2025 14:59:41",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "01/12/2025 14:36:13",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "05/11/2025 07:34:12",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "ALR ELETRICA LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  ALR ELETRICA LTDA - 47114.pdf",
+      "descricao": "Aprovacao de Projeto - ALR ELETRICA LTDA - 47114.pdf",
+      "data": "01/12/2025"
+    },
+    {
+      "nome": "OS 1761309 PROJETO 47114 ALR ELETRICA LTDA_306_2026.pdf",
+      "descricao": "Despacho primeira análise - PROJETO 47114 ALR ELETRICA LTDA_306_2026",
+      "data": "30 Jan"
+    }
+  ],
+  "_salvo_em": "2026-05-20T13:45:36.734746+00:00"
+}

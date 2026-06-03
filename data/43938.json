@@ -1,0 +1,115 @@
+{
+  "projeto_id": 43938,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=43938&TipoAlvara=2",
+  "situacao": "Publicado",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "DENER ALVARES JUSTINO ( 43899374134 )",
+  "andamentos": [
+    {
+      "sequencia": "13",
+      "data": "23/05/2025 09:16:35",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Alvara Liberado",
+      "situacao": "Fechada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "12",
+      "data": "23/05/2025 09:16:07",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "11",
+      "data": "22/05/2025 22:49:04",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "10",
+      "data": "22/05/2025 22:45:34",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "9",
+      "data": "20/05/2025 13:49:41",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "GISELE NUNES CARVALHO GILL"
+    },
+    {
+      "sequencia": "8",
+      "data": "20/05/2025 13:49:28",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "GISELE NUNES CARVALHO GILL"
+    },
+    {
+      "sequencia": "7",
+      "data": "20/05/2025 13:49:17",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: PROCESSO DE DEMOLIÇÃO APTO.",
+      "situacao": "Encaminhada",
+      "responsavel": "GISELE NUNES CARVALHO GILL"
+    },
+    {
+      "sequencia": "6",
+      "data": "19/05/2025 15:40:51",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "GISELE NUNES CARVALHO GILL"
+    },
+    {
+      "sequencia": "5",
+      "data": "16/05/2025 10:49:22",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "16/05/2025 10:48:56",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "09/05/2025 17:43:35",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "SHANADA ANDRESSA SILVA DE RESENDE"
+    },
+    {
+      "sequencia": "2",
+      "data": "07/05/2025 13:57:48",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "SHANADA ANDRESSA SILVA DE RESENDE"
+    },
+    {
+      "sequencia": "1",
+      "data": "17/04/2025 07:33:04",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "INCORPORACAO OPUS 93 SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "006-INCORPORACAO OPUS 93 SPE LTDA- 43938- ALVARÁ DE DEMOLIÇÃO -DIRAAP.pdf",
+      "descricao": "006-INCORPORACAO OPUS 93 SPE LTDA- 43938- ALVARA DE DEMOLICAO -DIRAAP.pdf",
+      "data": "09/05/2025"
+    },
+    {
+      "nome": "OS 1.652.442 PROJETO 43938 - INC OPUS 93 - LAUDO.pdf",
+      "descricao": "OS 1.652.442 PROJETO 43938 - INC OPUS 93 - LAUDO.pdf",
+      "data": "20/05/2025"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:47.271767+00:00"
+}

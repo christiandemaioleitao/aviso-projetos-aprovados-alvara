@@ -1,0 +1,40 @@
+{
+  "projeto_id": 43815,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=43815&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "FR INCORPORADORA LTDA ( 04222898000101 )",
+  "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "23/07/2025 11:04:17",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "2",
+      "data": "23/05/2025 15:36:22",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "1",
+      "data": "02/05/2025 07:32:46",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "FUAD RASSI ENGENHARIA INDUSTRIA E COMERCIO LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "APROVAÇÃO DE PROJETO - FUAD RASSI ENGENHARIA INDUSTRIA E COMERCIO LTDA - 43815.pdf",
+      "descricao": "APROVACAO DE PROJETO - FUAD RASSI ENGENHARIA INDUSTRIA E COMERCIO LTDA - 43815.pdf",
+      "data": "23/07/2025"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:21.417030+00:00"
+}

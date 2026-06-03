@@ -1,0 +1,54 @@
+{
+  "projeto_id": 49627,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49627&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "50047",
+  "tipo": "Aprovação de Projeto",
+  "autor": "A F SILVA ARQUITETURA ( 33923500000154 )",
+  "andamentos": [
+    {
+      "sequencia": "5",
+      "data": "15/05/2026 10:52:02",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PRJETO ARQUITETÔNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "15/05/2026 10:50:40",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "27/04/2026 09:10:12",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "27/04/2026 08:18:37",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "1",
+      "data": "11/04/2026 07:36:22",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE RUA 21 CENTRO EMPREENDIMENTO IMOBILIARIO LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "APROVAÇÃO DE PROJETO SPE RUA 21 CENTRO EMPREENDIMENTO IMOBILIARIO LTDA.pdf",
+      "descricao": "APROVACAO DE PROJETO SPE RUA 21 CENTRO EMPREENDIMENTO IMOBILIARIO LTDA.pdf",
+      "data": "27 Abr (3 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-05-16T11:59:43.192567+00:00"
+}

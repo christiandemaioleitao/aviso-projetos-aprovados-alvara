@@ -1,0 +1,70 @@
+name: Monitor AlvaráFácil
+
+on:
+  # Diário às 08:00 horário de Brasília (UTC-3 = 11:00 UTC)
+  schedule:
+    - cron: '7 11 * * *'
+  # Permite rodar manualmente
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (não envia Telegram)'
+        required: false
+        default: 'false'
+        type: boolean
+      only_ids:
+        description: 'Filtrar por IDs (separados por vírgula)'
+        required: false
+        default: ''
+        type: string
+
+permissions:
+  contents: write  # necessário para commitar o estado em data/
+
+jobs:
+  monitor:
+    name: Verificar projetos
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar monitor
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+          ONLY_IDS: ${{ github.event.inputs.only_ids || '' }}
+          MAX_WORKERS: '6'
+          LOG_LEVEL: INFO
+        run: python main.py
+
+      - name: Rodar testes
+        run: python -m pytest tests/ -q
+
+      - name: Commitar estado atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Nenhuma mudança nos arquivos de estado."
+          else
+            git commit -m "chore: estado dos projetos atualizado em $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
+            git push
+            echo "Estado commitado com sucesso."
+          fi

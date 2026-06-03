@@ -1,0 +1,225 @@
+{
+  "projeto_id": 43603,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=43603&TipoAlvara=2",
+  "situacao": "Publicado",
+  "numero_licenca": "47921",
+  "tipo": "Aprovação de Projeto",
+  "autor": "FR INCORPORADORA LTDA ( 04222898000101 )",
+  "andamentos": [
+    {
+      "sequencia": "23",
+      "data": "24/04/2026 16:37:16",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Documentação e projeto deferidos, apto à emissão de taxa final.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "22",
+      "data": "24/04/2026 16:33:54",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "21",
+      "data": "24/04/2026 16:32:27",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "20",
+      "data": "24/04/2026 15:31:28",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "19",
+      "data": "24/04/2026 15:17:44",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "18",
+      "data": "24/04/2026 15:16:34",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "17",
+      "data": "24/04/2026 15:10:26",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: PROJETO APTO PARA APROVAÇÃO",
+      "situacao": "Encaminhada",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "16",
+      "data": "24/04/2026 13:47:02",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "15",
+      "data": "24/04/2026 13:42:37",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "FR INCORPORADORA LTDA"
+    },
+    {
+      "sequencia": "14",
+      "data": "24/04/2026 13:12:38",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ver despacho 1008/2026",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "13",
+      "data": "24/04/2026 11:13:48",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "12",
+      "data": "24/04/2026 11:10:31",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "11",
+      "data": "24/04/2026 07:01:27",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "FR INCORPORADORA LTDA"
+    },
+    {
+      "sequencia": "10",
+      "data": "19/01/2026 08:15:35",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Ver despacho 223/2026",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "9",
+      "data": "23/12/2025 09:34:06",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "8",
+      "data": "15/12/2025 14:16:33",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise;",
+      "situacao": "Encaminhada",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "7",
+      "data": "15/12/2025 14:14:20",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "6",
+      "data": "15/12/2025 11:46:54",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "15/12/2025 11:20:15",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "07/11/2025 17:30:11",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "FR INCORPORADORA LTDA"
+    },
+    {
+      "sequencia": "3",
+      "data": "23/07/2025 14:21:54",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "2",
+      "data": "23/05/2025 15:36:22",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "1",
+      "data": "02/05/2025 07:32:44",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "GOIA 3A EMPREENDIMENTOS IMOBILIARIOS SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "APROVAÇÃO DE PROJETO - GOIA 3A EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 43603.pdf",
+      "descricao": "APROVACAO DE PROJETO - GOIA 3A EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 43603.pdf",
+      "data": "23/07/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - GOIA 3A EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 43603.pdf",
+      "descricao": "Aprovacao de Projeto - GOIA 3A EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 43603.pdf",
+      "data": "15/12/2025"
+    },
+    {
+      "nome": "OS 1658739 PROJETO 43603 GOIA 3A EMPREENDIMENTOS IMOBILIÁRIOS .pdf",
+      "descricao": "Despacho primeira análise - 223/2026",
+      "data": "19 Jan"
+    },
+    {
+      "nome": "OS 1658739 PROJETO 43603 GOIA 3A EMPREENDIMENTOS IMOBILIÁRIOS _1008_2026.pdf",
+      "descricao": "Despacho de Primeira Reanálise 1008_2026",
+      "data": "24 Abr"
+    },
+    {
+      "nome": "LAUDO APTO - OS 1658739 PROJETO 43603 GOIA 3A EMPREENDIMENTOS IMOBILIÁRIOS.pdf",
+      "descricao": "Laudo para  liberação de taxa",
+      "data": "24 Abr"
+    },
+    {
+      "nome": "PROJETO APTO - OS 1658739 PROJETO 43603 GOIA 3A EMPREENDIMENTOS IMOBILIÁRIOS_01.pdf",
+      "descricao": "Projeto apto para aprovação _1",
+      "data": "24 Abr"
+    },
+    {
+      "nome": "PROJETO APTO - OS 1658739 PROJETO 43603 GOIA 3A EMPREENDIMENTOS IMOBILIÁRIOS_02.pdf",
+      "descricao": "Projeto apto para aprovação_2",
+      "data": "24 Abr"
+    },
+    {
+      "nome": "PROJETO APTO - OS 1658739 PROJETO 43603 GOIA 3A EMPREENDIMENTOS IMOBILIÁRIOS_03.pdf",
+      "descricao": "Projeto apto para aprovação_3",
+      "data": "24 Abr"
+    },
+    {
+      "nome": "PROJETO APTO - OS 1658739 PROJETO 43603 GOIA 3A EMPREENDIMENTOS IMOBILIÁRIOS_04.pdf",
+      "descricao": "Projeto apto para aprovação_4",
+      "data": "24 Abr"
+    },
+    {
+      "nome": "PROJETO APTO - OS 1658739 PROJETO 43603 GOIA 3A EMPREENDIMENTOS IMOBILIÁRIOS_05.pdf",
+      "descricao": "Projeto apto para aprovação_5",
+      "data": "24 Abr"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:14:06.067595+00:00"
+}

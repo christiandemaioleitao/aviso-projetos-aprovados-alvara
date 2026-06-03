@@ -1,0 +1,252 @@
+{
+  "projeto_id": 47070,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47070&TipoAlvara=2",
+  "situacao": "Publicado",
+  "numero_licenca": "47221",
+  "tipo": "Aprovação de Projeto",
+  "autor": "CONSTRUTORA CENTRAL DO BRASIL SA ( 02156313000169 )",
+  "andamentos": [
+    {
+      "sequencia": "29",
+      "data": "12/12/2025 15:38:06",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Documentação e projeto deferidos.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "28",
+      "data": "12/12/2025 15:26:39",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "27",
+      "data": "12/12/2025 15:13:33",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "26",
+      "data": "12/12/2025 15:12:25",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "25",
+      "data": "12/12/2025 13:03:05",
+      "descricao": "Laudo anexado. Encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "24",
+      "data": "12/12/2025 13:00:48",
+      "descricao": "Laudo anexado. Encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "23",
+      "data": "12/12/2025 13:00:33",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "22",
+      "data": "12/12/2025 13:00:28",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo. Motivo: PROJETO ENCAMINHADO À GERÊNCIA PARA LIBERAÇÃO DA TAXA FINAL",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "21",
+      "data": "11/12/2025 18:42:54",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "20",
+      "data": "09/12/2025 08:39:11",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "CONSTRUTORA CENTRAL DO BRASIL SA"
+    },
+    {
+      "sequencia": "19",
+      "data": "05/12/2025 18:14:42",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 2422/2025 - 1ª REANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "18",
+      "data": "05/12/2025 18:13:30",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "17",
+      "data": "04/12/2025 10:27:22",
+      "descricao": "Projeto encaminhado para analista. Motivo: O projeto foi devolvido para apresentação de relatório técnico fotográfico, esclarecendo tratar-se de projeto de modificação sem acréscimo de área, nos termos do art. 284, §§5º e 6º, da LC nº 349/2022.\n\nAdmite-se a solicitação de aprovação de projeto as built, na modalidade de modificação sem acréscimo, para regularização das pequenas intervenções executadas durante a obra, ainda dentro da validade do Alvará de Construção nº 23064, mantendo-se a data de início de obra da aprovação primitiva (31/01/2022).\n\nO carimbo do projeto deverá identificar o assunto: “MODIFICAÇÃO SEM ACRÉSCIMO – As Built, nos termos do art. 284, §§5º e 6º, da LC 349/2022”.",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "16",
+      "data": "03/12/2025 11:03:33",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "15",
+      "data": "02/12/2025 17:07:54",
+      "descricao": "Laudo anexado. Encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "14",
+      "data": "02/12/2025 17:07:37",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "13",
+      "data": "02/12/2025 17:07:31",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo. Motivo: PROJETO APTO, ENCAMINHADO À GERÊNCIA PARA LIBERAÇÃO DE TAXA.",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "12",
+      "data": "02/12/2025 16:01:40",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "11",
+      "data": "26/11/2025 09:22:12",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "CONSTRUTORA CENTRAL DO BRASIL SA"
+    },
+    {
+      "sequencia": "10",
+      "data": "24/11/2025 17:10:58",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 2417/2025 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "9",
+      "data": "24/11/2025 13:56:32",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "8",
+      "data": "30/10/2025 18:13:52",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "30/10/2025 18:13:17",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "28/10/2025 15:12:30",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "28/10/2025 15:07:43",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "23/10/2025 17:41:59",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "CONSTRUTORA CENTRAL DO BRASIL SA"
+    },
+    {
+      "sequencia": "3",
+      "data": "22/10/2025 15:37:50",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "22/10/2025 11:47:45",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "22/10/2025 07:32:51",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "PERIMETRAL INCORPORACAO SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Modificação de Projeto Sem Acrescimo - PERIMETRAL INCORPORACAO SPE LTDA - 47070.pdf",
+      "descricao": "Modificacao de Projeto Sem Acrescimo - PERIMETRAL INCORPORACAO SPE LTDA - 47070.pdf",
+      "data": "22/10/2025"
+    },
+    {
+      "nome": "Modificação de Projeto Sem Acrescimo - PERIMETRAL INCORPORACAO SPE LTDA - 47070--ok.pdf",
+      "descricao": "Modificacao de Projeto Sem Acrescimo - PERIMETRAL INCORPORACAO SPE LTDA - 47070--ok.pdf",
+      "data": "28/10/2025"
+    },
+    {
+      "nome": "OS 1754523_47070 PERIMETRAL INCORPORAÇÃO SPE LTDA 2417_2025.pdf",
+      "descricao": "DESPACHO Nº 2417/2025 - 1ª ANÁLISE",
+      "data": "24/11/2025"
+    },
+    {
+      "nome": "OS 1754523_47070 PERIMETRAL INCORPORAÇÃO SPE LTDA 2417_2025.pdf",
+      "descricao": "DESPACHO Nº 2417/2025 - 1ª ANÁLISE",
+      "data": "24/11/2025"
+    },
+    {
+      "nome": "OS 1754523_47070 PERIMETRAL INCORPORAÇÃO SPE LTDA_LAUDO TAXA_02-12-2025.pdf",
+      "descricao": "LAUDO DE TAXA - 02/12/2025",
+      "data": "02/12/2025"
+    },
+    {
+      "nome": "OS 1754523_47070 PERIMETRAL INCORPORAÇÃO SPE LTDA 2422_2025.pdf",
+      "descricao": "DESPACHO Nº 2422/2025 - 1ª REANÁLISE",
+      "data": "05/12/2025"
+    },
+    {
+      "nome": "OS 1754523_47070 PERIMETRAL INCORPORAÇÃO SPE LTDA_LAUDO TAXA_12-12-2025.pdf",
+      "descricao": "LAUDO DE TAXA 12/12/2025",
+      "data": "12/12/2025"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:18.157342+00:00"
+}

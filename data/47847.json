@@ -1,0 +1,99 @@
+{
+  "projeto_id": 47847,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47847&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "48089",
+  "tipo": "Aprovação de Projeto",
+  "autor": "CONSTRUTORA SURYA LTDA ( 07432765000140 )",
+  "andamentos": [
+    {
+      "sequencia": "10",
+      "data": "20/05/2026 12:33:29",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER AO DESPACHO. PROJETO NÃO APTO.",
+      "situacao": "Aguardando",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "9",
+      "data": "19/05/2026 09:47:34",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "8",
+      "data": "10/04/2026 16:42:40",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "CONSTRUTORA SURYA LTDA"
+    },
+    {
+      "sequencia": "7",
+      "data": "23/02/2026 19:10:33",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER AO DESPACHO. PROJETO NÃO APTO.",
+      "situacao": "Aguardando",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "6",
+      "data": "03/02/2026 09:43:54",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "5",
+      "data": "07/01/2026 11:56:56",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "07/01/2026 11:56:07",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "29/12/2025 11:22:44",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "29/12/2025 11:12:49",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "27/12/2025 07:34:06",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "BRASIL INCORPORACAO 269 SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  BRASIL INCORPORAÇÃO 269 SPE LTDA - 47847.pdf",
+      "descricao": "Aprovacao de Projeto - BRASIL INCORPORACAO 269 SPE LTDA - 47847.pdf",
+      "data": "29/12/2025"
+    },
+    {
+      "nome": "OS 1791403 PROJETO 47847 BRASIL INCORPORAÇÃO 269 SPE LTDA 272_2026.pdf",
+      "descricao": "ATENDER AO DESPACHO Nº 272/ 2026 - 1ª ANÁLISE",
+      "data": "23 Fev"
+    },
+    {
+      "nome": "OS 1791403 PROJETO 47847 BRASIL INCORPORAÇÃO 269 SPE LTDA 1040_2026.pdf",
+      "descricao": "ATENDER AO DESPACHO Nº 1040/ 2026 - 2ª ANÁLISE",
+      "data": "20 Mai (9 dias atrás)"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:14:10.678955+00:00"
+}

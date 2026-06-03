@@ -1,0 +1,87 @@
+{
+  "projeto_id": 44105,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44105&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "47406",
+  "tipo": "Aprovação de Projeto",
+  "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
+  "andamentos": [
+    {
+      "sequencia": "9",
+      "data": "12/01/2026 18:17:07",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "8",
+      "data": "09/01/2026 12:04:06",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "09/01/2026 12:03:35",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "10/11/2025 11:43:40",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "10/11/2025 11:33:25",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "08/10/2025 19:33:31",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "JOÃO GABRIEL TOMÉ OLIVEIRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "22/07/2025 10:17:45",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "2",
+      "data": "23/05/2025 15:34:03",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "1",
+      "data": "25/04/2025 07:32:52",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE RESIDENCIAL CITY 35 EMPREENDIMENTOS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - SPE RESIDENCIAL CITY 35 EMPREENDIMENTOS LTDA - 44105.pdf",
+      "descricao": "Aprovacao de Projeto - SPE RESIDENCIAL CITY 35 EMPREENDIMENTOS LTDA - 44105.pdf",
+      "data": "22/07/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto -  SPE RESIDENCIAL CITY 35 EMPREENDIMENTOS LTDA - 44105.pdf",
+      "descricao": "Aprovacao de Projeto - SPE RESIDENCIAL CITY 35 EMPREENDIMENTOS LTDA - 44105.pdf",
+      "data": "10/11/2025"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:37.545720+00:00"
+}

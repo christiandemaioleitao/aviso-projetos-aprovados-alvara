@@ -1,0 +1,99 @@
+{
+  "projeto_id": 48853,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=48853&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "49034",
+  "tipo": "Aprovação de Projeto",
+  "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
+  "andamentos": [
+    {
+      "sequencia": "10",
+      "data": "25/05/2026 14:29:12",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 1147/2026 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "9",
+      "data": "21/05/2026 18:24:50",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "8",
+      "data": "06/04/2026 18:00:01",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "06/04/2026 17:59:24",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "03/03/2026 16:06:04",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "03/03/2026 15:57:46",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "03/03/2026 14:04:17",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "3",
+      "data": "03/03/2026 09:20:16",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: \nResolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "03/03/2026 08:59:10",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "24/02/2026 07:34:41",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "LENIR DAS GRACAS NUNES"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  LENIR DAS GRACAS NUNES - 48853.pdf",
+      "descricao": "Aprovacao de Projeto - LENIR DAS GRACAS NUNES - 48853.pdf",
+      "data": "3 Mar"
+    },
+    {
+      "nome": "Aprovação de Projeto -  LENIR DAS GRACAS NUNES - 48853ok.pdf",
+      "descricao": "Aprovacao de Projeto - LENIR DAS GRACAS NUNES - 48853ok.pdf",
+      "data": "3 Mar"
+    },
+    {
+      "nome": "OS 1830765_48853 LENIR DAS GRAÇAS NUNES 1147_2026.pdf",
+      "descricao": "DESPACHO Nº 1147/2026 - 1ª ANÁLISE",
+      "data": "ontem"
+    }
+  ],
+  "_salvo_em": "2026-05-26T14:10:14.704420+00:00"
+}

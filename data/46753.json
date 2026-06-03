@@ -1,0 +1,262 @@
+{
+  "projeto_id": 46753,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=46753&TipoAlvara=2",
+  "situacao": "Publicado",
+  "numero_licenca": "48191",
+  "tipo": "Aprovação de Projeto",
+  "autor": "NORTE DESIGN ARQUITETOS ASSOCIADOS S/S ( 26900903000112 )",
+  "andamentos": [
+    {
+      "sequencia": "29",
+      "data": "17/04/2026 18:33:38",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Documentação e projeto deferidos, apto à emissão de taxa final.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "28",
+      "data": "17/04/2026 18:31:06",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "27",
+      "data": "17/04/2026 18:30:36",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "26",
+      "data": "17/04/2026 18:30:25",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "25",
+      "data": "17/04/2026 18:30:17",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "24",
+      "data": "17/04/2026 18:30:04",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "23",
+      "data": "17/04/2026 18:29:55",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: PROJETO APTO.",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "22",
+      "data": "17/04/2026 16:23:52",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "21",
+      "data": "17/04/2026 15:58:09",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "20",
+      "data": "13/04/2026 12:58:49",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "GISELE NUNES CARVALHO GILL"
+    },
+    {
+      "sequencia": "19",
+      "data": "01/04/2026 18:47:35",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "NORTE DESIGN ARQUITETOS ASSOCIADOS S/S"
+    },
+    {
+      "sequencia": "18",
+      "data": "27/03/2026 14:39:11",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: REANÁLISE 01: ATENDER AO DESPACHO Nº 834/2026 E CONFERIR ANOTAÇÕES EM PRANCHA.",
+      "situacao": "Aguardando",
+      "responsavel": "GISELE NUNES CARVALHO GILL"
+    },
+    {
+      "sequencia": "17",
+      "data": "24/03/2026 16:19:05",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "GISELE NUNES CARVALHO GILL"
+    },
+    {
+      "sequencia": "16",
+      "data": "02/03/2026 19:08:47",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "NORTE DESIGN ARQUITETOS ASSOCIADOS S/S"
+    },
+    {
+      "sequencia": "15",
+      "data": "25/02/2026 17:37:02",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte",
+      "situacao": "Aguardando",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "14",
+      "data": "25/02/2026 17:36:31",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte",
+      "situacao": "Aguardando",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "13",
+      "data": "06/02/2026 15:22:46",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "GISELE NUNES CARVALHO GILL"
+    },
+    {
+      "sequencia": "12",
+      "data": "13/01/2026 10:24:20",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "11",
+      "data": "13/01/2026 10:22:05",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise;",
+      "situacao": "Encaminhada",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "10",
+      "data": "13/01/2026 10:21:29",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "9",
+      "data": "09/01/2026 11:25:53",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "8",
+      "data": "09/01/2026 11:19:24",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "7",
+      "data": "09/01/2026 11:14:05",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "NORTE DESIGN ARQUITETOS ASSOCIADOS S/S"
+    },
+    {
+      "sequencia": "6",
+      "data": "09/01/2026 09:23:45",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "5",
+      "data": "08/01/2026 16:40:53",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "4",
+      "data": "17/12/2025 15:04:18",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "NORTE DESIGN ARQUITETOS ASSOCIADOS S/S"
+    },
+    {
+      "sequencia": "3",
+      "data": "09/12/2025 15:19:58",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "2",
+      "data": "09/12/2025 14:43:27",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "1",
+      "data": "21/10/2025 07:32:43",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "VRT CASTEL INCORPORACAO 01 SPE"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "DESPACHO 2.674 - APROVAÇÃO DE PROJETO - VRT CASTEL INCORPORACAO 01 SPE - 46753.pdf",
+      "descricao": "DESPACHO 2.674 - APROVACAO DE PROJETO - VRT CASTEL INCORPORACAO 01 SPE - 46753.pdf",
+      "data": "09/12/2025"
+    },
+    {
+      "nome": "DESPACHO 65-2026 - APROVAÇÃO DE PROJETO - VRT CASTEL INCORPORACAO 01 SPE - 46753.pdf",
+      "descricao": "DESPACHO 65-2026 - APROVACAO DE PROJETO - VRT CASTEL INCORPORACAO 01 SPE - 46753.pdf",
+      "data": "9 Jan"
+    },
+    {
+      "nome": "Aprovação de Projeto - VRT CASTEL INCORPORACAO 01 SPE - 46753.pdf",
+      "descricao": "Aprovacao de Projeto - VRT CASTEL INCORPORACAO 01 SPE - 46753.pdf",
+      "data": "9 Jan"
+    },
+    {
+      "nome": "OS 1.753.656 PROJETO COMENTADO 46753 - VRT CAS INC -391_2026.pdf",
+      "descricao": "OS 1.753.656 PROJETO COMENTADO 46753 - VRT CAS INC -391_2026.pdf",
+      "data": "25 Fev"
+    },
+    {
+      "nome": "OS 1.753.656 PROJETO 46753 - VRT CAS INC - 391_2026.pdf",
+      "descricao": "OS 1.753.656 PROJETO 46753 - VRT CAS INC - 391_2026.pdf",
+      "data": "25 Fev"
+    },
+    {
+      "nome": "OS 1.753.656 PROJETO 46753 - VRT CAS INC - PROJ 834_2026.pdf",
+      "descricao": "OS 1.753.656 PROJETO 46753 - VRT CAS INC - PROJ 834_2026.pdf",
+      "data": "27 Mar"
+    },
+    {
+      "nome": "OS 1.753.656 PROJETO 46753 - VRT CAS INC - 834_2026.pdf",
+      "descricao": "DESPACHO Nº 834 | 2026",
+      "data": "27 Mar"
+    },
+    {
+      "nome": "Laudo_projeto aprovado.pdf",
+      "descricao": "LAUDO APTO",
+      "data": "17 Abr"
+    },
+    {
+      "nome": "Projeto aprovado.rar",
+      "descricao": "PROJETO APTO",
+      "data": "17 Abr"
+    }
+  ],
+  "_salvo_em": "2026-06-03T20:05:43.498095+00:00"
+}

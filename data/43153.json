@@ -1,0 +1,233 @@
+{
+  "projeto_id": 43153,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=43153&TipoAlvara=2",
+  "situacao": "Publicado",
+  "numero_licenca": "43610",
+  "tipo": "Aprovação de Projeto",
+  "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
+  "andamentos": [
+    {
+      "sequencia": "27",
+      "data": "13/08/2025 17:34:30",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Documentação e Projeto deferidos, apto a emissão de taxa final.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "26",
+      "data": "13/08/2025 17:30:16",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "25",
+      "data": "13/08/2025 17:05:42",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "24",
+      "data": "13/08/2025 12:35:45",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "23",
+      "data": "13/08/2025 12:34:43",
+      "descricao": "Transferência de Responsável\nMotivo: Para conferência de Laudo",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "22",
+      "data": "12/08/2025 18:30:41",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "21",
+      "data": "12/08/2025 18:29:57",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "20",
+      "data": "12/08/2025 18:29:51",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: PROJETO APTO, ENCAMINHADO À GERÊNCIA",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "19",
+      "data": "12/08/2025 17:08:19",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "18",
+      "data": "11/08/2025 16:53:13",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "17",
+      "data": "11/08/2025 14:34:54",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 1512/2025 - 1ª REANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "16",
+      "data": "08/08/2025 10:18:38",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "15",
+      "data": "28/07/2025 08:52:33",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "14",
+      "data": "19/05/2025 17:53:24",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 668/2025 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "13",
+      "data": "12/05/2025 17:42:07",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "12",
+      "data": "01/04/2025 13:34:11",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROJETO ARQUITETONICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "11",
+      "data": "01/04/2025 13:26:17",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROJETO ARQUITETÔNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "10",
+      "data": "01/04/2025 13:24:28",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "9",
+      "data": "19/03/2025 15:09:34",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "VERONICA EMIDIO DA SILVA"
+    },
+    {
+      "sequencia": "8",
+      "data": "19/03/2025 15:01:13",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VERONICA EMIDIO DA SILVA"
+    },
+    {
+      "sequencia": "7",
+      "data": "19/03/2025 14:40:09",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "6",
+      "data": "19/03/2025 11:12:17",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver as pendências do despacho de nº 707.",
+      "situacao": "Aguardando",
+      "responsavel": "VERONICA EMIDIO DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "19/03/2025 10:21:19",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VERONICA EMIDIO DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "12/03/2025 17:53:54",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "3",
+      "data": "06/03/2025 16:20:38",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver as pendências do despacho de nº 541.",
+      "situacao": "Aguardando",
+      "responsavel": "VERONICA EMIDIO DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "25/02/2025 14:29:46",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VERONICA EMIDIO DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "13/02/2025 07:33:21",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "FREI GALVAO EMPREENDIMENTOS IMOBILIARIOS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "541-FREI GALVAO EMPREENDIMENTOS IMOBILIARIOS LTDA- 43153-APROVAÇÃO DE PROJETO- INTERESSADO.pdf",
+      "descricao": "541-FREI GALVAO EMPREENDIMENTOS IMOBILIARIOS LTDA- 43153-APROVACAO DE PROJETO- INTERESSADO.pdf",
+      "data": "06/03/2025"
+    },
+    {
+      "nome": "707-FREI GALVAO EMPREENDIMENTOS IMOBILIARIOS LTDA- 43153-APROVAÇÃO DE PROJETO- INTERESSADO.pdf",
+      "descricao": "707-FREI GALVAO EMPREENDIMENTOS IMOBILIARIOS LTDA- 43153-APROVACAO DE PROJETO- INTERESSADO.pdf",
+      "data": "19/03/2025"
+    },
+    {
+      "nome": "708-FREI GALVAO EMPREENDIMENTOS IMOBILIARIOS LTDA-43153-APROVAÇÃO DE PROJETO-DIRAAP.pdf",
+      "descricao": "708-FREI GALVAO EMPREENDIMENTOS IMOBILIARIOS LTDA-43153-APROVACAO DE PROJETO-DIRAAP.pdf",
+      "data": "19/03/2025"
+    },
+    {
+      "nome": "OS 1597661_43153 FREI GALVÃO EMPREENDIMENTOS IMOBILIÁRIOS LTDA 0668_2025.pdf",
+      "descricao": "DESPACHO Nº 668/2025 - 1ª ANÁLISE",
+      "data": "19/05/2025"
+    },
+    {
+      "nome": "OS 1597661_43153 FREI GALVÃO EMPREENDIMENTOS IMOBILIÁRIOS LTDA 1512_2025.pdf",
+      "descricao": "DESPACHO Nº 1512/2025 - 1ª REANÁLISE",
+      "data": "11/08/2025"
+    },
+    {
+      "nome": "OS 1597661_43153 FREI GALVÃO EMPREENDIMENTOS IMOBILIÁRIOS LTDA_LAUDO TAXA_12-08-2025.pdf",
+      "descricao": "LAUDO DE TAXA - 12/08/2025",
+      "data": "12/08/2025"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:14:07.240622+00:00"
+}

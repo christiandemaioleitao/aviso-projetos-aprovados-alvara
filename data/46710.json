@@ -1,0 +1,106 @@
+{
+  "projeto_id": 46710,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=46710&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "47249",
+  "tipo": "Aprovação de Projeto",
+  "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
+  "andamentos": [
+    {
+      "sequencia": "11",
+      "data": "26/01/2026 17:19:42",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 235/2026 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "10",
+      "data": "23/01/2026 14:28:45",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "9",
+      "data": "07/01/2026 12:10:41",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "8",
+      "data": "02/12/2025 16:23:04",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA  A ANÁLISE DO PROJETO ARQUITETÔNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "02/12/2025 16:20:57",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "30/10/2025 14:19:30",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "30/10/2025 13:56:56",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "28/10/2025 16:48:41",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "3",
+      "data": "28/10/2025 10:45:37",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "28/10/2025 10:16:02",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "23/10/2025 07:32:59",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "KAIROS SOLUCOES EM TECNOLOGIA LTDA - ME"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  KAIROS SOLUCOES EM TECNOLOGIA LTDA - ME - 46710.pdf",
+      "descricao": "Aprovacao de Projeto - KAIROS SOLUCOES EM TECNOLOGIA LTDA - ME - 46710.pdf",
+      "data": "28/10/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto -  KAIROS SOLUCOES EM TECNOLOGIA LTDA - ME - 46710-ok.pdf",
+      "descricao": "Aprovacao de Projeto - KAIROS SOLUCOES EM TECNOLOGIA LTDA - ME - 46710-ok.pdf",
+      "data": "30/10/2025"
+    },
+    {
+      "nome": "OS 1755287_46710 KAIROS SOLUÇÕES EM TECNOLOGIA LTDA-ME 0235_2026.pdf",
+      "descricao": "DESPACHO Nº 235/2026 - 1ª ANÁLISE",
+      "data": "26 Jan"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:38.924554+00:00"
+}

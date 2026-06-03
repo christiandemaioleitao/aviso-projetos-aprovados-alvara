@@ -1,0 +1,99 @@
+{
+  "projeto_id": 49536,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49536&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "50118",
+  "tipo": "Aprovação de Projeto",
+  "autor": "CAROLINA FRANCA LACERDA ( 00679778128 )",
+  "andamentos": [
+    {
+      "sequencia": "10",
+      "data": "12/05/2026 09:27:55",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Primeira análise. Segue despacho n. 951/2026 em anexo.",
+      "situacao": "Aguardando",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
+    {
+      "sequencia": "9",
+      "data": "04/05/2026 11:49:36",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
+    {
+      "sequencia": "8",
+      "data": "04/05/2026 10:59:10",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "04/05/2026 10:57:58",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "30/04/2026 06:38:15",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "5",
+      "data": "29/04/2026 09:56:37",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "4",
+      "data": "15/04/2026 15:46:46",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAROLINA FRANCA LACERDA"
+    },
+    {
+      "sequencia": "3",
+      "data": "13/04/2026 14:45:57",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "13/04/2026 14:36:04",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "11/04/2026 07:36:17",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "NB URBANISMO LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - NB URBANISMO LTDA - 49536.pdf",
+      "descricao": "Aprovacao de Projeto - NB URBANISMO LTDA - 49536.pdf",
+      "data": "13 Abr (4 semanas atrás)"
+    },
+    {
+      "nome": "aprovação de projeto NB URBANISMO LTDA.pdf",
+      "descricao": "aprovacao de projeto NB URBANISMO LTDA.pdf",
+      "data": "30 Abr (12 dias atrás)"
+    },
+    {
+      "nome": "OS 1863568 PROJETO 49536 NB URBANISMO LTDA 951_2026.pdf",
+      "descricao": "Primeira análise. Segue despacho 951/2026 em anexo.",
+      "data": "hoje"
+    }
+  ],
+  "_salvo_em": "2026-05-12T13:11:05.844424+00:00"
+}

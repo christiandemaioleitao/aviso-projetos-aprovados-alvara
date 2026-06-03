@@ -1,0 +1,130 @@
+{
+  "projeto_id": 47494,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47494&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "47602",
+  "tipo": "Aprovação de Projeto",
+  "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
+  "andamentos": [
+    {
+      "sequencia": "13",
+      "data": "23/04/2026 15:36:53",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO 921/2026 - 1ª REANÁLISE E VER OBSERVAÇÕES EM PRANCHAS",
+      "situacao": "Aguardando",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
+    {
+      "sequencia": "12",
+      "data": "09/04/2026 13:51:49",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
+    {
+      "sequencia": "11",
+      "data": "06/04/2026 17:04:30",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "10",
+      "data": "24/03/2026 17:20:29",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "9",
+      "data": "12/03/2026 17:28:34",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA"
+    },
+    {
+      "sequencia": "8",
+      "data": "26/01/2026 14:10:02",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO 286/2026 - 1ª ANÁLISE E VER OBSERVAÇÕES EM PROJETO",
+      "situacao": "Aguardando",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
+    {
+      "sequencia": "7",
+      "data": "08/01/2026 17:33:16",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
+    {
+      "sequencia": "6",
+      "data": "18/12/2025 11:14:54",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "5",
+      "data": "02/12/2025 16:34:57",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANA´LISE DO PROJETO ARQUITETÔNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "02/12/2025 16:33:47",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "24/11/2025 16:09:26",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "24/11/2025 15:58:16",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "24/11/2025 07:36:37",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "PORTO BELVEDERE II SPE EMP IMOBILIARIOS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  PORTO BELVEDERE II SPE EMP IMOBILIARIOS LTDA - 47494.pdf",
+      "descricao": "Aprovacao de Projeto - PORTO BELVEDERE II SPE EMP IMOBILIARIOS LTDA - 47494.pdf",
+      "data": "24/11/2025"
+    },
+    {
+      "nome": "PROJETO 1ª ANÁLISE.pdf",
+      "descricao": "VER OBSERVAÇÕES EM PROJETO",
+      "data": "26 Jan"
+    },
+    {
+      "nome": "OS 1772255 PROJETO 47494 PORTO BELVEDERE II SPE EMP IMOBILIARIOS_286_2026.pdf",
+      "descricao": "ATENDER DESPACHO 286/2026 - 1ª ANÁLISE",
+      "data": "26 Jan"
+    },
+    {
+      "nome": "PROJETO 1ª REANÁLISE.pdf",
+      "descricao": "VER OBSERVAÇÕES EM PRANCHAS",
+      "data": "23 Abr (2 semanas atrás)"
+    },
+    {
+      "nome": "OS 1772255 PROJETO 47494 PORTO BELVEDERE II SPE EMP IMOBILIARIOS_921_2026.pdf",
+      "descricao": "ATENDER DESPACHO 921/2026 - 1ª REANÁLISE",
+      "data": "23 Abr (2 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:15.574295+00:00"
+}

@@ -1,0 +1,268 @@
+{
+  "projeto_id": 47378,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47378&TipoAlvara=2",
+  "situacao": "Publicado",
+  "numero_licenca": "47861",
+  "tipo": "Aprovação de Projeto",
+  "autor": "MARCELO BORGES SILVA ( 50712888187 )",
+  "andamentos": [
+    {
+      "sequencia": "32",
+      "data": "04/03/2026 16:23:01",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Documentação e Projeto deferidos, apto à emissão de taxa final.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "31",
+      "data": "04/03/2026 16:18:49",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "30",
+      "data": "04/03/2026 16:11:05",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "29",
+      "data": "04/03/2026 16:04:17",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "28",
+      "data": "04/03/2026 15:50:07",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "27",
+      "data": "04/03/2026 15:49:47",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "26",
+      "data": "04/03/2026 15:49:42",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: PROJETO ENCAMINHADO PARA A GERÊNCIA",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "25",
+      "data": "04/03/2026 15:41:09",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "24",
+      "data": "04/03/2026 09:44:41",
+      "descricao": "Projeto encaminhado para analista Motivo: Projeto devolvido para identificação da áreas de embarque e desembarque e da (s) respectiva (s) vaga (s).",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "23",
+      "data": "03/03/2026 16:16:21",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "22",
+      "data": "03/03/2026 12:11:48",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "21",
+      "data": "03/03/2026 12:11:32",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "20",
+      "data": "03/03/2026 12:11:26",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: PROJETO ENCAMINHADO À GERÊNCIA PARA LIBERAÇÃO DA TAXA FINAL",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "19",
+      "data": "02/03/2026 16:44:18",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "18",
+      "data": "14/02/2026 15:06:34",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "MARCELO BORGES SILVA"
+    },
+    {
+      "sequencia": "17",
+      "data": "10/02/2026 15:51:04",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 339/2026 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "16",
+      "data": "04/02/2026 17:05:43",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "15",
+      "data": "04/02/2026 16:54:43",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "14",
+      "data": "02/02/2026 10:36:06",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "13",
+      "data": "02/02/2026 08:51:43",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "12",
+      "data": "17/01/2026 11:51:05",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "11",
+      "data": "13/01/2026 11:45:57",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "10",
+      "data": "19/12/2025 17:34:45",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "MARCELO BORGES SILVA"
+    },
+    {
+      "sequencia": "9",
+      "data": "12/12/2025 16:16:44",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte",
+      "situacao": "Aguardando",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "8",
+      "data": "12/12/2025 16:16:14",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte",
+      "situacao": "Aguardando",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "12/12/2025 16:14:00",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "10/12/2025 11:41:22",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "10/12/2025 11:35:16",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "17/11/2025 18:06:20",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "MARCELO BORGES SILVA"
+    },
+    {
+      "sequencia": "3",
+      "data": "13/11/2025 14:54:29",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "13/11/2025 10:55:31",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "11/11/2025 07:34:02",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "TERRAL 141 GO EMPREENDIMENTOS IMOBILIARIOS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - TERRAL 141 GO EMPREENDIMENTOS IMOBILIARIOS LTDA - 47378.pdf",
+      "descricao": "Aprovacao de Projeto - TERRAL 141 GO EMPREENDIMENTOS IMOBILIARIOS LTDA - 47378.pdf",
+      "data": "13/11/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - TERRAL 141 GO EMPREENDIMENTOS IMOBILIARIOS LTDA - 47378--ok.pdf",
+      "descricao": "Aprovacao de Projeto - TERRAL 141 GO EMPREENDIMENTOS IMOBILIARIOS LTDA - 47378--ok.pdf",
+      "data": "10/12/2025"
+    },
+    {
+      "nome": "OS 1764292_47378 TERRAL 141 GO EMPREENDIMENTOS IMOBILIÁRIOS LTDA 0339_2026.pdf",
+      "descricao": "DESPACHO Nº 339/2026 - 1ª ANÁLISE",
+      "data": "10 Fev"
+    },
+    {
+      "nome": "OS 1764292_47378 TERRAL 141 GO EMPREENDIMENTOS IMOBILIÁRIOS LTDA_LAUDO TAXA_03-03-2026.pdf",
+      "descricao": "LAUDO DE TAXA 03/03/2026",
+      "data": "3 Mar"
+    },
+    {
+      "nome": "OS 1764292_1ªREANÁLISE_PROJETO APTO.pdf",
+      "descricao": "PROJETO ENCAMINHADO PARA LIBERAÇÃO DE TAXA",
+      "data": "3 Mar"
+    },
+    {
+      "nome": "OS 1764292_1ªREANÁLISE_PROJETO APTO.pdf",
+      "descricao": "PROJETO ENCAMINHADO PARA APROVAÇÃO EM 04/03/2026",
+      "data": "4 Mar"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:13:57.690531+00:00"
+}

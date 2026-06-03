@@ -1,0 +1,87 @@
+{
+  "projeto_id": 48477,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=48477&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "49655",
+  "tipo": "Aprovação de Projeto",
+  "autor": "FERNANDO PALMERSTON DE ALMEIDA ( 01037171101 )",
+  "andamentos": [
+    {
+      "sequencia": "9",
+      "data": "01/06/2026 08:40:07",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CRISTIANE MOTA NOBREGA ANDRADE"
+    },
+    {
+      "sequencia": "8",
+      "data": "12/05/2026 09:41:45",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "12/05/2026 09:40:02",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "06/04/2026 11:55:16",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "06/04/2026 11:50:38",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "16/03/2026 16:24:36",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "FERNANDO PALMERSTON DE ALMEIDA"
+    },
+    {
+      "sequencia": "3",
+      "data": "12/03/2026 11:38:37",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "2",
+      "data": "12/03/2026 11:21:31",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "1",
+      "data": "30/01/2026 07:34:22",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "RP015 CONSTRUTORA E INCORPORADORA SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "DESPACHO 670-2026 - APROVAÇÃO DE PROJETO -  RP015 CONSTRUTORA E INCORPORADORA SPE LTDA - 48477.pdf",
+      "descricao": "DESPACHO 670-2026 - APROVACAO DE PROJETO - RP015 CONSTRUTORA E INCORPORADORA SPE LTDA - 48477.pdf",
+      "data": "12 Mar"
+    },
+    {
+      "nome": "Aprovação de Projeto - RP015 CONSTRUTORA E INCORPORADORA SPE LTDA - 48477.pdf",
+      "descricao": "Aprovacao de Projeto - RP015 CONSTRUTORA E INCORPORADORA SPE LTDA - 48477.pdf",
+      "data": "6 Abr"
+    }
+  ],
+  "_salvo_em": "2026-06-01T16:45:45.050688+00:00"
+}

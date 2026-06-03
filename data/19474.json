@@ -1,0 +1,315 @@
+{
+  "projeto_id": 19474,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=19474&TipoAlvara=2",
+  "situacao": "Publicado",
+  "numero_licenca": "30244",
+  "tipo": "Aprovação de Projeto",
+  "autor": "DENER ALVARES JUSTINO ( 43899374134 )",
+  "andamentos": [
+    {
+      "sequencia": "38",
+      "data": "11/05/2024 21:48:01",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Conforme documentação anexada e análise realizada, encaminhamos para liberação de taxa.",
+      "situacao": "Fechada",
+      "responsavel": "VALFRAN DE SOUSA RIBEIRO"
+    },
+    {
+      "sequencia": "37",
+      "data": "10/05/2024 14:38:00",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VALFRAN DE SOUSA RIBEIRO"
+    },
+    {
+      "sequencia": "36",
+      "data": "10/05/2024 11:42:39",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS LETTIERI KATOPODIS"
+    },
+    {
+      "sequencia": "35",
+      "data": "10/05/2024 11:42:01",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCAS LETTIERI KATOPODIS"
+    },
+    {
+      "sequencia": "34",
+      "data": "09/05/2024 17:54:14",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "DOUGLAS BRANQUINHO"
+    },
+    {
+      "sequencia": "33",
+      "data": "09/05/2024 17:54:05",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "DOUGLAS BRANQUINHO"
+    },
+    {
+      "sequencia": "32",
+      "data": "09/05/2024 17:53:59",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: PROJETO APTO PARA APROVAÇÃO. ENCAMINHADO PARA REVISÃO E LIBERAÇÃO DE TAXA. LAUDO ANEXADO.",
+      "situacao": "Encaminhada",
+      "responsavel": "DOUGLAS BRANQUINHO"
+    },
+    {
+      "sequencia": "31",
+      "data": "09/05/2024 17:50:46",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "DOUGLAS BRANQUINHO"
+    },
+    {
+      "sequencia": "30",
+      "data": "29/04/2024 09:14:51",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "DENER ALVARES JUSTINO"
+    },
+    {
+      "sequencia": "29",
+      "data": "17/11/2023 11:48:43",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação",
+      "situacao": "Aguardando",
+      "responsavel": "LUCAS LETTIERI KATOPODIS"
+    },
+    {
+      "sequencia": "28",
+      "data": "13/11/2023 12:03:51",
+      "descricao": "Transferência de Responsável\nMotivo: A PEDIDO DO INTERESSADO QUE INFORMOU TER ANEXADO PROJETO INDEVIDO.",
+      "situacao": "Encaminhada",
+      "responsavel": "DOUGLAS BRANQUINHO"
+    },
+    {
+      "sequencia": "27",
+      "data": "10/11/2023 20:49:09",
+      "descricao": "Recurso encaminhado. Documento em anexo. Justificativa: Projeto ainda tem que ter a 3º análise. \nO projeto em anexo esta sendo enviado em fase de recurso pois o mesmo foi devolvido anteriormente sem efetivamente ser realizado a 2º análise do projeto.",
+      "situacao": "Encaminhada",
+      "responsavel": "DENER ALVARES JUSTINO"
+    },
+    {
+      "sequencia": "26",
+      "data": "31/10/2023 16:18:55",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: PROJETO DESCONFORME. ATENDER DESPACHO 2325-DB-02 QUE SOLICITA ANEXAR DOCUMENTOS E CORREÇÕES EM PROJETO DE SEGUNDA ANÁLISE.",
+      "situacao": "Aguardando",
+      "responsavel": "DOUGLAS BRANQUINHO"
+    },
+    {
+      "sequencia": "25",
+      "data": "27/10/2023 16:27:43",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "DOUGLAS BRANQUINHO"
+    },
+    {
+      "sequencia": "24",
+      "data": "22/10/2023 18:06:10",
+      "descricao": "Transferência de Responsável\nMotivo: DEVOLVIDO APOS MANIFESTAÇÃO CHEADV",
+      "situacao": "Encaminhada",
+      "responsavel": "KAMILLA ROSA DE FATIMA REIS ABOULHOSN"
+    },
+    {
+      "sequencia": "23",
+      "data": "05/10/2023 10:39:08",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "KAMILLA ROSA DE FATIMA REIS ABOULHOSN"
+    },
+    {
+      "sequencia": "22",
+      "data": "25/09/2023 18:00:56",
+      "descricao": "Transferência de Responsável\nMotivo: Para esclarecimentos sobre a afirmação constante no Despacho 1822, de 15 de agosto de 2023, que aduz que a \"expectativa futura de aprovação do referido projeto será objeto de abertura de novo processo\".",
+      "situacao": "Encaminhada",
+      "responsavel": "DOUGLAS BRANQUINHO"
+    },
+    {
+      "sequencia": "21",
+      "data": "25/09/2023 16:46:07",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "DOUGLAS BRANQUINHO"
+    },
+    {
+      "sequencia": "20",
+      "data": "14/09/2023 10:04:59",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VALFRAN DE SOUSA RIBEIRO"
+    },
+    {
+      "sequencia": "19",
+      "data": "28/08/2023 15:30:47",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "DENER ALVARES JUSTINO"
+    },
+    {
+      "sequencia": "18",
+      "data": "15/08/2023 13:25:14",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: DESPACHO Nº1822/2023 - NÃO ATENDE A REQUISITOS",
+      "situacao": "Aguardando",
+      "responsavel": "JANAMAINA COSTA BEZERRA DE AZEVEDO"
+    },
+    {
+      "sequencia": "17",
+      "data": "15/08/2023 13:22:19",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "JANAMAINA COSTA BEZERRA DE AZEVEDO"
+    },
+    {
+      "sequencia": "16",
+      "data": "08/08/2023 07:53:04",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VALFRAN DE SOUSA RIBEIRO"
+    },
+    {
+      "sequencia": "15",
+      "data": "17/07/2023 11:09:43",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARIA HELOISA LIMA DE MORAES MORUE"
+    },
+    {
+      "sequencia": "14",
+      "data": "16/06/2023 20:10:57",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "DENER ALVARES JUSTINO"
+    },
+    {
+      "sequencia": "13",
+      "data": "04/06/2023 22:05:58",
+      "descricao": "Pedido arquivado por não atendimento dos requisitos.",
+      "situacao": "Fechada",
+      "responsavel": "VALFRAN DE SOUSA RIBEIRO"
+    },
+    {
+      "sequencia": "12",
+      "data": "06/08/2022 15:37:01",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: DESPACHO PARA CORREÇÃO Nº 1438/2022",
+      "situacao": "Aguardando",
+      "responsavel": "MARIA HELOISA LIMA DE MORAES MORUE"
+    },
+    {
+      "sequencia": "11",
+      "data": "14/07/2022 11:05:17",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARIA HELOISA LIMA DE MORAES MORUE"
+    },
+    {
+      "sequencia": "10",
+      "data": "14/07/2022 00:01:49",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise do projeto arquitetônico.",
+      "situacao": "Encaminhada",
+      "responsavel": "VALFRAN DE SOUSA RIBEIRO"
+    },
+    {
+      "sequencia": "9",
+      "data": "12/07/2022 11:10:10",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VALFRAN DE SOUSA RIBEIRO"
+    },
+    {
+      "sequencia": "8",
+      "data": "12/07/2022 11:04:42",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "KAMILLA ROSA DE FATIMA REIS ABOULHOSN"
+    },
+    {
+      "sequencia": "7",
+      "data": "08/07/2022 08:32:49",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "KAMILLA ROSA DE FATIMA REIS ABOULHOSN"
+    },
+    {
+      "sequencia": "6",
+      "data": "07/07/2022 10:33:48",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "DENER ALVARES JUSTINO"
+    },
+    {
+      "sequencia": "5",
+      "data": "04/07/2022 09:32:57",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: ATENDER DESPACHO Nº 3140 - PENDÊNCIAS DE DOCUMENTAÇÃO.",
+      "situacao": "Aguardando",
+      "responsavel": "SUZE PONTES LEITE"
+    },
+    {
+      "sequencia": "4",
+      "data": "04/07/2022 08:51:15",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "SUZE PONTES LEITE"
+    },
+    {
+      "sequencia": "3",
+      "data": "04/07/2022 08:16:11",
+      "descricao": "Transferência de Responsável\nMotivo: TRANSFERENCIA PARA RESPONSAVEL : SUZE",
+      "situacao": "Encaminhada",
+      "responsavel": "KAMILLA ROSA DE FATIMA REIS ABOULHOSN"
+    },
+    {
+      "sequencia": "2",
+      "data": "04/07/2022 08:14:31",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "KAMILLA ROSA DE FATIMA REIS ABOULHOSN"
+    },
+    {
+      "sequencia": "1",
+      "data": "02/07/2022 07:30:29",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "EMPREENDIMENTOS IMOBILIARIOS RIO VERMELHO LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "3140 - EMPREENDIMENTOS IMOBILIARIOS RIO VERMELHO LTDA - 19474 - APROVAÇÃO DE PROJETO - INTERESSADO.pdf",
+      "descricao": "DESPACHO Nº 3140 - PENDÊNCIAS DE DOCUMENTAÇÃO",
+      "data": "04/07/2022"
+    },
+    {
+      "nome": "3246 -EMPREENDIMENTOS IMOBILIARIOS RIO VERMELHO- 19474- APROVAÇÃO DE PROJETO - DIRAAP -.pdf",
+      "descricao": "3246 -EMPREENDIMENTOS IMOBILIARIOS RIO VERMELHO- 19474- APROVAÇÃO DE PROJETO - DIRAAP -",
+      "data": "12/07/2022"
+    },
+    {
+      "nome": "DESPACHO Nº 1438-22 OS N. 768616 PROJETO N. 19474 EMPREENDIMENTOS IMOBILIÁRIOS RIO VERMELHO.pdf",
+      "descricao": "DESPACHO PARA CORREÇÃO Nº 1438/2022",
+      "data": "06/08/2022"
+    },
+    {
+      "nome": "DESPACHO Nº 1822_2023 OS N. 768616 PROJETO N. 19474 EMPREENDIMENTOS IMOBILIÁRIOS RIO VERMELHO.pdf",
+      "descricao": "DESPACHO Nº1822/2023 - NÃO ATENDE A REQUISITOS",
+      "data": "15/08/2023"
+    },
+    {
+      "nome": "6227- EMPREENDIMENTOS IMOBILIARIOS RIO VERMELHO LTDA-19474-APROVAÇÃO DE PROJETO - INTERESSADO -.pdf",
+      "descricao": "6227- EMPREENDIMENTOS IMOBILIARIOS RIO VERMELHO LTDA-19474-APROVAÇÃO DE PROJETO - INTERESSADO -",
+      "data": "22/10/2023"
+    },
+    {
+      "nome": "2023 10 31 - 129 - 768616_19474 - Emp Imob Rio Verm 4 - DP_2325-DB-02.pdf",
+      "descricao": "ATENDER DESPACHO 2325-DB-02, QUE SOLICITA ANEXAR DOCUMENTOS E CORREÇÕES EM PROJETO DE SEGUNDA ANÁLISE.",
+      "data": "31/10/2023"
+    },
+    {
+      "nome": "129 - 768616_19474 - Emp Imob Rio Verm 4 - LAUDO ANALISE APROVACAO.pdf",
+      "descricao": "PROJETO APTO PARA APROVAÇÃO. ENCAMINHADO PARA REVISÃO E LIBERAÇÃO DE TAXA. LAUDO ANEXADO.",
+      "data": "09/05/2024"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:00:19.717975+00:00"
+}

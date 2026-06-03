@@ -1,0 +1,249 @@
+{
+  "projeto_id": 27067,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=27067&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "27192",
+  "tipo": "Aprovação de Projeto",
+  "autor": "LUCAS PEDRO DE FARIA ( 03066395138 )",
+  "andamentos": [
+    {
+      "sequencia": "30",
+      "data": "17/07/2024 09:07:36",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Atender ao Despacho 3",
+      "situacao": "Aguardando",
+      "responsavel": "GLENNE BATISTA BARBOSA"
+    },
+    {
+      "sequencia": "29",
+      "data": "17/07/2024 07:59:28",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "GLENNE BATISTA BARBOSA"
+    },
+    {
+      "sequencia": "28",
+      "data": "17/07/2024 07:54:06",
+      "descricao": "Transferência de Responsável\nMotivo: Devolver processo para o interessado solicitando documentação faltante.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS LETTIERI KATOPODIS"
+    },
+    {
+      "sequencia": "27",
+      "data": "04/03/2024 11:03:38",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCAS LETTIERI KATOPODIS"
+    },
+    {
+      "sequencia": "26",
+      "data": "01/03/2024 10:54:50",
+      "descricao": "Transferência de Responsável\nMotivo: Aguardando o interessando mandar um email com a Certidão de Limites e confrontações e a Certidão de matricula atualizada e o projeto em Pdf com a nomenclatura das vagas de visitante de  PCD e  idoso.",
+      "situacao": "Encaminhada",
+      "responsavel": "GLENNE BATISTA BARBOSA"
+    },
+    {
+      "sequencia": "25",
+      "data": "28/02/2024 12:03:14",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "GLENNE BATISTA BARBOSA"
+    },
+    {
+      "sequencia": "24",
+      "data": "06/02/2024 18:30:49",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS PEDRO DE FARIA"
+    },
+    {
+      "sequencia": "23",
+      "data": "11/08/2023 11:02:04",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Atender ao Despacho 2",
+      "situacao": "Aguardando",
+      "responsavel": "GLENNE BATISTA BARBOSA"
+    },
+    {
+      "sequencia": "22",
+      "data": "09/08/2023 09:09:25",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "GLENNE BATISTA BARBOSA"
+    },
+    {
+      "sequencia": "21",
+      "data": "08/08/2023 07:59:09",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VALFRAN DE SOUSA RIBEIRO"
+    },
+    {
+      "sequencia": "20",
+      "data": "17/07/2023 11:09:43",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARIA HELOISA LIMA DE MORAES MORUE"
+    },
+    {
+      "sequencia": "19",
+      "data": "16/06/2023 12:19:24",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS PEDRO DE FARIA"
+    },
+    {
+      "sequencia": "18",
+      "data": "14/03/2022 11:11:32",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: DESPACHO PARA CORREÇÃO Nº 442/2022",
+      "situacao": "Aguardando",
+      "responsavel": "MARIA HELOISA LIMA DE MORAES MORUE"
+    },
+    {
+      "sequencia": "17",
+      "data": "25/01/2022 18:05:04",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARIA HELOISA LIMA DE MORAES MORUE"
+    },
+    {
+      "sequencia": "16",
+      "data": "24/01/2022 15:23:52",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "GRAZIELLI BRUNO BELLORIO"
+    },
+    {
+      "sequencia": "15",
+      "data": "13/01/2022 12:40:21",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HANS LATINON TORRICO SALAZAR"
+    },
+    {
+      "sequencia": "14",
+      "data": "13/01/2022 08:38:22",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise do projeto arquitetônico.",
+      "situacao": "Encaminhada",
+      "responsavel": "GRAZIELLI BRUNO BELLORIO"
+    },
+    {
+      "sequencia": "13",
+      "data": "13/01/2022 08:36:11",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "GRAZIELLI BRUNO BELLORIO"
+    },
+    {
+      "sequencia": "12",
+      "data": "13/01/2022 08:35:38",
+      "descricao": "Transferência de Responsável\nMotivo: TranferÊncia para a diretora da DIRAAP",
+      "situacao": "Encaminhada",
+      "responsavel": "HANS LATINON TORRICO SALAZAR"
+    },
+    {
+      "sequencia": "11",
+      "data": "13/01/2022 08:34:46",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HANS LATINON TORRICO SALAZAR"
+    },
+    {
+      "sequencia": "10",
+      "data": "12/01/2022 17:32:00",
+      "descricao": "Transferência de Responsável\nMotivo: Para análise do projeto arquitetônico.",
+      "situacao": "Encaminhada",
+      "responsavel": "GRAZIELLI BRUNO BELLORIO"
+    },
+    {
+      "sequencia": "9",
+      "data": "12/01/2022 17:26:58",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "GRAZIELLI BRUNO BELLORIO"
+    },
+    {
+      "sequencia": "8",
+      "data": "10/01/2022 14:57:35",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "JOSE EMILIO CASTRO SILVA JUNIOR"
+    },
+    {
+      "sequencia": "7",
+      "data": "07/01/2022 15:23:41",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "JOSE EMILIO CASTRO SILVA JUNIOR"
+    },
+    {
+      "sequencia": "6",
+      "data": "07/01/2022 14:38:31",
+      "descricao": "Transferência de Responsável\nMotivo: TRANSFERENCIA PARA ANALISTA RESPONSAVEL",
+      "situacao": "Encaminhada",
+      "responsavel": "KAMILLA ROSA DE FATIMA REIS ABOULHOSN"
+    },
+    {
+      "sequencia": "5",
+      "data": "07/01/2022 11:29:35",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS PEDRO DE FARIA"
+    },
+    {
+      "sequencia": "4",
+      "data": "30/12/2021 08:19:32",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: VER DESPACHO Nº 6013 - RESIDENCIAL T8 EMP IMOBILIARIOS SPE LTDA - APROVAÇÃO DE PROJETO - 27067 - INTERESSADO",
+      "situacao": "Aguardando",
+      "responsavel": "JOSE EMILIO CASTRO SILVA JUNIOR"
+    },
+    {
+      "sequencia": "3",
+      "data": "29/12/2021 09:20:11",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "JOSE EMILIO CASTRO SILVA JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "29/12/2021 08:50:42",
+      "descricao": "Transferência de Responsável\nMotivo: TRANSFERENCIA PARA ANALISTA RESPONSAVEL",
+      "situacao": "Encaminhada",
+      "responsavel": "KAMILLA ROSA DE FATIMA REIS ABOULHOSN"
+    },
+    {
+      "sequencia": "1",
+      "data": "29/12/2021 07:30:53",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "RESIDENCIAL T8 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "6013 - RESIDENCIAL T8 EMP IMOBILIARIOS SPE LTDA - APROVAÇÃO DE PROJETO - 27067 - INTERESSADO.pdf",
+      "descricao": "6013 - RESIDENCIAL T8 EMP IMOBILIARIOS SPE LTDA - APROVAÇÃO DE PROJETO - 27067 - INTERESSADO.pdf",
+      "data": "30/12/2021"
+    },
+    {
+      "nome": "271 - RESIDENCIAL T8 EMP IMOBILIARIOS SPE LTDA - 27067- APROVAÇÃO DE PROJETO - DIRAAP.pdf",
+      "descricao": "271 - RESIDENCIAL T8 EMP IMOBILIARIOS SPE LTDA - 27067- APROVAÇÃO DE PROJETO - DIRAAP.pdf",
+      "data": "10/01/2022"
+    },
+    {
+      "nome": "DESPACHO N. 442-22 OS N. 575367 PROJETO N. 27067 RESIDENCIAL T8 EMP. IMOBILIÁRIOS SPE LTDA.pdf",
+      "descricao": "DESPACHO PARA CORREÇÃO Nº 442/2022",
+      "data": "14/03/2022"
+    },
+    {
+      "nome": "OS 575367 - 27067 RESIDENCIAL T8 EMP. IMOBILIÁRIOS SPE LTDA.pdf",
+      "descricao": "Despacho 2",
+      "data": "11/08/2023"
+    },
+    {
+      "nome": "OS 575367 - 27067 RESIDENCIAL T8 EMP. IMOBILIÁRIOS SPE LTDA 3.pdf",
+      "descricao": "DESPACHO 3 - 3º ANALISE",
+      "data": "17/07/2024"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:30.994760+00:00"
+}

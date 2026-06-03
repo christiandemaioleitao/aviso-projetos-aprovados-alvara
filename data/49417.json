@@ -1,0 +1,87 @@
+{
+  "projeto_id": 49417,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49417&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "49679",
+  "tipo": "Aprovação de Projeto",
+  "autor": "FR INCORPORADORA LTDA ( 04222898000101 )",
+  "andamentos": [
+    {
+      "sequencia": "9",
+      "data": "06/05/2026 16:21:58",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "8",
+      "data": "04/05/2026 11:46:15",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "04/05/2026 11:40:52",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "07/04/2026 13:20:37",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "07/04/2026 13:15:58",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "07/04/2026 10:05:52",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "FR INCORPORADORA LTDA"
+    },
+    {
+      "sequencia": "3",
+      "data": "06/04/2026 15:56:37",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "06/04/2026 15:37:44",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "28/03/2026 07:34:18",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "JARDIM ATLANTICO 01 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - JARDIM ATLANTICO 01 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 49417.pdf",
+      "descricao": "Aprovacao de Projeto - JARDIM ATLANTICO 01 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 49417.pdf",
+      "data": "6 Abr"
+    },
+    {
+      "nome": "Aprovação de Projeto - JARDIM ATLANTICO 01 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 49417 ok.pdf",
+      "descricao": "Aprovacao de Projeto - JARDIM ATLANTICO 01 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 49417 ok.pdf",
+      "data": "7 Abr"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:13:58.771011+00:00"
+}

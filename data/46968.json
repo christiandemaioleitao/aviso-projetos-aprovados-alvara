@@ -1,0 +1,165 @@
+{
+  "projeto_id": 46968,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=46968&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "47298",
+  "tipo": "Aprovação de Projeto",
+  "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
+  "andamentos": [
+    {
+      "sequencia": "18",
+      "data": "08/04/2026 17:25:17",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO 919/2026 - 1ª REANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
+    {
+      "sequencia": "17",
+      "data": "08/04/2026 16:08:12",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
+    {
+      "sequencia": "16",
+      "data": "21/01/2026 09:00:58",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "15",
+      "data": "14/01/2026 16:49:17",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO 184/2026 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
+    {
+      "sequencia": "14",
+      "data": "13/01/2026 14:24:40",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
+    {
+      "sequencia": "13",
+      "data": "01/12/2025 11:27:02",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROJETO ARQUITETÔNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "12",
+      "data": "01/12/2025 11:25:55",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "11",
+      "data": "03/11/2025 15:16:59",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "10",
+      "data": "03/11/2025 14:58:19",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "9",
+      "data": "30/10/2025 17:46:51",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "8",
+      "data": "30/10/2025 15:02:21",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "7",
+      "data": "30/10/2025 14:48:12",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "6",
+      "data": "30/10/2025 14:44:42",
+      "descricao": "Transferência de Responsável\nMotivo: Tratativa",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "5",
+      "data": "30/10/2025 11:38:10",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "4",
+      "data": "28/10/2025 16:24:51",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "3",
+      "data": "28/10/2025 11:47:56",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "28/10/2025 10:52:47",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "23/10/2025 07:33:01",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "CAMPOS VERDES  EMPREENDIMENTOS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - CAMPOS VERDES  EMPREENDIMENTOS LTDA - 46968.pdf",
+      "descricao": "Aprovacao de Projeto - CAMPOS VERDES EMPREENDIMENTOS LTDA - 46968.pdf",
+      "data": "28/10/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - CAMPOS VERDES  EMPREENDIMENTOS LTDA - 46968-.pdf",
+      "descricao": "Aprovacao de Projeto - CAMPOS VERDES EMPREENDIMENTOS LTDA - 46968-.pdf",
+      "data": "30/10/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - CAMPOS VERDES  EMPREENDIMENTOS LTDA - 46968 ok.pdf",
+      "descricao": "Aprovacao de Projeto - CAMPOS VERDES EMPREENDIMENTOS LTDA - 46968 ok.pdf",
+      "data": "03/11/2025"
+    },
+    {
+      "nome": "OS 1455288 PROJETO 46968 CAMPOS VERDES  EMPREENDIMENTOS LTDA_184_2026.pdf",
+      "descricao": "ATENDER DESPACHO 184/2026 - 1ª ANÁLISE",
+      "data": "14 Jan"
+    },
+    {
+      "nome": "OS 1455288 PROJETO 46968 CAMPOS VERDES  EMPREENDIMENTOS LTDA_919_2026.pdf",
+      "descricao": "ATENDER DESPACHO 919/2026 - 1ª REANÁLISE",
+      "data": "8 Abr"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:43.187097+00:00"
+}

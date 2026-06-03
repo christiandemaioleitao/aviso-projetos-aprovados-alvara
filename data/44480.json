@@ -1,0 +1,54 @@
+{
+  "projeto_id": 44480,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44480&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "47228",
+  "tipo": "Aprovação de Projeto",
+  "autor": "CMO CONSTRUTORA SA ( 02802833000100 )",
+  "andamentos": [
+    {
+      "sequencia": "5",
+      "data": "16/12/2025 16:25:48",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte",
+      "situacao": "Aguardando",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "16/12/2025 16:25:17",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte",
+      "situacao": "Aguardando",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "29/10/2025 11:00:10",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "29/10/2025 10:44:49",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "24/09/2025 07:32:38",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "CMO CONSTRUTORA SA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  CMO CONSTRUTORA SA - 44480.pdf",
+      "descricao": "Aprovacao de Projeto - CMO CONSTRUTORA SA - 44480.pdf",
+      "data": "29/10/2025"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:14:09.536214+00:00"
+}

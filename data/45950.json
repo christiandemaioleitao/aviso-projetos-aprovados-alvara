@@ -1,0 +1,183 @@
+{
+  "projeto_id": 45950,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=45950&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "46625",
+  "tipo": "Aprovação de Projeto",
+  "autor": "MARTINS SOARES CONSTRUTORA LTDA ( 12487794000149 )",
+  "andamentos": [
+    {
+      "sequencia": "22",
+      "data": "11/05/2026 11:26:32",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "21",
+      "data": "11/05/2026 06:39:08",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "20",
+      "data": "07/05/2026 21:35:53",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "MARTINS SOARES CONSTRUTORA LTDA"
+    },
+    {
+      "sequencia": "19",
+      "data": "17/04/2026 15:28:14",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 755/2026 - 1ª REANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "18",
+      "data": "15/04/2026 16:25:05",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "17",
+      "data": "15/04/2026 16:19:53",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "16",
+      "data": "15/04/2026 15:44:00",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "15",
+      "data": "30/03/2026 10:43:33",
+      "descricao": "Transferência de Responsável\nMotivo: perdeu o fluxo, segue para a analise.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "14",
+      "data": "24/03/2026 15:46:57",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "13",
+      "data": "24/02/2026 11:26:15",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "MARTINS SOARES CONSTRUTORA LTDA"
+    },
+    {
+      "sequencia": "12",
+      "data": "30/01/2026 19:16:19",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 335/2026 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "11",
+      "data": "29/01/2026 16:45:21",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "10",
+      "data": "23/01/2026 18:28:53",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "9",
+      "data": "23/01/2026 18:28:21",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "8",
+      "data": "19/01/2026 22:32:09",
+      "descricao": "Transferência de Responsável\nMotivo: tratativa",
+      "situacao": "Encaminhada",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "7",
+      "data": "19/11/2025 11:25:22",
+      "descricao": "Transferência de Responsável\nMotivo: Conforme",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "6",
+      "data": "19/11/2025 11:22:26",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "13/11/2025 19:15:28",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "MARTINS SOARES CONSTRUTORA LTDA"
+    },
+    {
+      "sequencia": "4",
+      "data": "31/10/2025 17:01:50",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte",
+      "situacao": "Aguardando",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "25/09/2025 07:47:21",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "25/09/2025 07:39:47",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "1",
+      "data": "19/08/2025 07:34:01",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE 20 MARISTA LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "SPE 20 MARISTA LTDA APROVAÇÃO DE PROJETO.pdf",
+      "descricao": "SPE 20 MARISTA LTDA APROVACAO DE PROJETO.pdf",
+      "data": "25/09/2025"
+    },
+    {
+      "nome": "OS 1713343_45950 SPE 20 MARISTA LTDA 0335_2026.pdf",
+      "descricao": "DESPACHO Nº 335/2026 - 1ª ANÁLISE",
+      "data": "30 Jan"
+    },
+    {
+      "nome": "OS 1713343_45950 SPE 20 MARISTA LTDA 0755_2026.pdf",
+      "descricao": "DESPACHO Nº 755/2026 - 1ª REANÁLISE",
+      "data": "17 Abr (4 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-05-12T13:10:22.804896+00:00"
+}

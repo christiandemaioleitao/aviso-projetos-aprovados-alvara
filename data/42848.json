@@ -1,0 +1,125 @@
+{
+  "projeto_id": 42848,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=42848&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "43363",
+  "tipo": "Aprovação de Projeto",
+  "autor": "BRASAL INCORPORACOES SA ( 00323063000340 )",
+  "andamentos": [
+    {
+      "sequencia": "13",
+      "data": "16/01/2026 16:28:30",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 228/2026 - 1ª REANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "12",
+      "data": "15/01/2026 15:19:50",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "11",
+      "data": "20/10/2025 09:30:28",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "BRASAL INCORPORACOES SA"
+    },
+    {
+      "sequencia": "10",
+      "data": "08/05/2025 19:35:20",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 664/2025 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "9",
+      "data": "07/05/2025 16:08:08",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "8",
+      "data": "06/05/2025 16:36:03",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "06/05/2025 16:35:05",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "25/02/2025 09:22:07",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "VERONICA EMIDIO DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "18/02/2025 13:58:39",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VERONICA EMIDIO DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "17/02/2025 14:29:12",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "BRASAL INCORPORACOES SA"
+    },
+    {
+      "sequencia": "3",
+      "data": "10/02/2025 14:18:50",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver as pendências do despacho de nº 427.",
+      "situacao": "Aguardando",
+      "responsavel": "VERONICA EMIDIO DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "04/02/2025 13:01:36",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VERONICA EMIDIO DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "01/02/2025 07:32:55",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "INC42 BRASAL INCORPORACOES IMOBILIARIAS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "427-INC42 BRASAL INCORPORACOES IMOBILIARIAS LTDA-42848-APROVAÇÃO DE PROJETO-INTERESSADO.pdf",
+      "descricao": "427-INC42 BRASAL INCORPORACOES IMOBILIARIAS LTDA-42848-APROVACAO DE PROJETO-INTERESSADO.pdf",
+      "data": "10/02/2025"
+    },
+    {
+      "nome": "516-INC42 BRASAL INCORPORACOES IMOBILIARIAS LTDA-42848-APROVAÇÃO DE PROJETO-DIRAAP.pdf",
+      "descricao": "516-INC42 BRASAL INCORPORACOES IMOBILIARIAS LTDA-42848-APROVACAO DE PROJETO-DIRAAP.pdf",
+      "data": "25/02/2025"
+    },
+    {
+      "nome": "OS 1584923_42848 INC42 BRASAL INCORPORAÇÕES IMOBILIÁRIAS LTDA 0664_2025.pdf",
+      "descricao": "DESPACHO Nº 664/2025 - 1ª ANÁLISE",
+      "data": "08/05/2025"
+    },
+    {
+      "nome": "OS 1584923_42848 INC42 BRASAL INCORPORAÇÕES IMOBILIÁRIAS LTDA 0228_2026.pdf",
+      "descricao": "DESPACHO Nº 228/2026 - 1ª REANÁLISE",
+      "data": "16 Jan"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:25.368990+00:00"
+}

@@ -1,0 +1,182 @@
+{
+  "projeto_id": 44965,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44965&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "47773",
+  "tipo": "Aprovação de Projeto",
+  "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
+  "andamentos": [
+    {
+      "sequencia": "19",
+      "data": "04/05/2026 10:19:03",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: PROJETO NAO APTO. ATENDER AO DESPACHO N. 1003-2026",
+      "situacao": "Aguardando",
+      "responsavel": "CRISTIANE MOTA NOBREGA ANDRADE"
+    },
+    {
+      "sequencia": "18",
+      "data": "24/04/2026 08:17:49",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CRISTIANE MOTA NOBREGA ANDRADE"
+    },
+    {
+      "sequencia": "17",
+      "data": "13/04/2026 10:18:04",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA"
+    },
+    {
+      "sequencia": "16",
+      "data": "16/03/2026 15:05:49",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: PROJETO NAO APTO.",
+      "situacao": "Aguardando",
+      "responsavel": "CRISTIANE MOTA NOBREGA ANDRADE"
+    },
+    {
+      "sequencia": "15",
+      "data": "10/03/2026 15:39:20",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CRISTIANE MOTA NOBREGA ANDRADE"
+    },
+    {
+      "sequencia": "14",
+      "data": "02/02/2026 11:37:52",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "13",
+      "data": "29/01/2026 09:47:19",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: PROJETO NAO APTO. A APRESENTAR NOVO USO DO SOLO",
+      "situacao": "Aguardando",
+      "responsavel": "CRISTIANE MOTA NOBREGA ANDRADE"
+    },
+    {
+      "sequencia": "12",
+      "data": "23/01/2026 16:04:25",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CRISTIANE MOTA NOBREGA ANDRADE"
+    },
+    {
+      "sequencia": "11",
+      "data": "04/12/2025 16:06:37",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA A ANÁLISE DO PRJETO ARQUITETÔNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "10",
+      "data": "04/12/2025 16:05:12",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "9",
+      "data": "03/12/2025 16:40:14",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "8",
+      "data": "03/12/2025 15:41:28",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "7",
+      "data": "02/12/2025 16:29:01",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA"
+    },
+    {
+      "sequencia": "6",
+      "data": "02/12/2025 10:19:02",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "02/12/2025 09:30:58",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "01/12/2025 15:30:29",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA"
+    },
+    {
+      "sequencia": "3",
+      "data": "02/07/2025 10:48:08",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências despacho n° 941/2025",
+      "situacao": "Aguardando",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "2",
+      "data": "02/07/2025 08:54:20",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "1",
+      "data": "01/07/2025 07:33:41",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "TRIPOLI CONSTRUTORA LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - TRIPOLI CONSTRUTORA LTDA - 44965.pdf",
+      "descricao": "Aprovacao de Projeto - TRIPOLI CONSTRUTORA LTDA - 44965.pdf",
+      "data": "02/07/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - TRIPOLI CONSTRUTORA LTDA - 44965---.pdf",
+      "descricao": "Aprovacao de Projeto - TRIPOLI CONSTRUTORA LTDA - 44965---.pdf",
+      "data": "02/12/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto -  TRIPOLI CONSTRUTORA LTDA - 44965.pdf",
+      "descricao": "Aprovacao de Projeto - TRIPOLI CONSTRUTORA LTDA - 44965.pdf",
+      "data": "03/12/2025"
+    },
+    {
+      "nome": "OS 1687712 - PROJETO 44965 TRIPOLI CONSTRUTORA LTDA 290-2026.pdf",
+      "descricao": "1ª ANALISE - ATUALIZAR USO DO SOLO",
+      "data": "29 Jan"
+    },
+    {
+      "nome": "OS 1687712 - 44965 TRIPOLI CONSTRUTORA LTDA 713-2026.pdf",
+      "descricao": "1ª reanalise - atender despacho n. 713-2026",
+      "data": "16 Mar"
+    },
+    {
+      "nome": "TERMO DE RESPONSABILIDADE E DECLARAÇÃO PARA FINS DE ENQUADRAMENTO COMO HABITAÇÃO DE INTERESSE SOCIAL.pdf",
+      "descricao": "ASSINAR DOCUMENTO",
+      "data": "16 Mar"
+    },
+    {
+      "nome": "OS 1687712 - 44965 TRIPOLI CONSTRUTORA LTDA 1003-2026.pdf",
+      "descricao": "2ª REANALISE",
+      "data": "4 Mai (4 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:14:02.551754+00:00"
+}

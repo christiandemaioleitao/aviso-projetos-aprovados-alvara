@@ -1,0 +1,66 @@
+{
+  "projeto_id": 44101,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44101&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "49017",
+  "tipo": "Aprovação de Projeto",
+  "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
+  "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "03/03/2026 09:38:34",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "02/03/2026 10:49:06",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "15/01/2026 19:26:14",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "JOÃO GABRIEL TOMÉ OLIVEIRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "21/07/2025 10:14:54",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "2",
+      "data": "23/05/2025 15:34:03",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "1",
+      "data": "25/04/2025 07:32:51",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE RESIDENCIAL CITY 27 EMPREENDIMENTOS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - SPE RESIDENCIAL CITY 27 EMPREENDIMENTOS - 44101.pdf",
+      "descricao": "Aprovacao de Projeto - SPE RESIDENCIAL CITY 27 EMPREENDIMENTOS - 44101.pdf",
+      "data": "21/07/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - SPE RESIDENCIAL CITY 27 EMPREENDIMENTOS LTDA - 44101.pdf",
+      "descricao": "Aprovacao de Projeto - SPE RESIDENCIAL CITY 27 EMPREENDIMENTOS LTDA - 44101.pdf",
+      "data": "3 Mar"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:29.617215+00:00"
+}

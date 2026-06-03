@@ -1,0 +1,80 @@
+{
+  "projeto_id": 47310,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47310&TipoAlvara=2",
+  "situacao": "Apto para Reanálise",
+  "numero_licenca": "48085",
+  "tipo": "Aprovação de Projeto",
+  "autor": "NORTE DESIGN ARQUITETOS ASSOCIADOS S/S ( 26900903000112 )",
+  "andamentos": [
+    {
+      "sequencia": "8",
+      "data": "27/04/2026 09:25:19",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "NORTE DESIGN ARQUITETOS ASSOCIADOS S/S"
+    },
+    {
+      "sequencia": "7",
+      "data": "27/03/2026 17:10:48",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 744/2026 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "6",
+      "data": "16/03/2026 16:56:02",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "5",
+      "data": "25/02/2026 15:46:11",
+      "descricao": "Projeto encaminhado para analista. Motivo: PARA ANÁLISE DO PROJETO ARQUITETÔNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "25/02/2026 15:42:25",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "29/12/2025 10:00:41",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "17/12/2025 10:16:38",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "26/11/2025 07:34:52",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE RESIDENCIAL FUTURO 04"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Modificação de Projeto Com Acrescimo -  SPE RESIDENCIAL FUTURO 04 - 47310.pdf",
+      "descricao": "Modificacao de Projeto Com Acrescimo - SPE RESIDENCIAL FUTURO 04 - 47310.pdf",
+      "data": "29/12/2025"
+    },
+    {
+      "nome": "OS 1774344_47310 SPE RESIDENCIAL FUTURO 04 0744_2026.pdf",
+      "descricao": "DESPACHO Nº 744/2026 - 1ª ANÁLISE",
+      "data": "27 Mar"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:26.670928+00:00"
+}

@@ -1,0 +1,73 @@
+{
+  "projeto_id": 49404,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49404&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "49916",
+  "tipo": "Aprovação de Projeto",
+  "autor": "MARINA MATOS GOMES JUNQUEIRA ( 01068979186 )",
+  "andamentos": [
+    {
+      "sequencia": "7",
+      "data": "28/05/2026 16:48:17",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 1148/2026 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "6",
+      "data": "25/05/2026 14:29:35",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "5",
+      "data": "21/05/2026 22:07:03",
+      "descricao": "Projeto encaminhado para analista. Motivo: Para análise",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "21/05/2026 21:37:52",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "17/04/2026 15:25:17",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "30/03/2026 16:49:31",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "27/03/2026 07:35:25",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE INCORPORACAO URLE C8 LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  SPE INCORPORACAO URLE C8 LTDA - 49404.pdf",
+      "descricao": "Aprovacao de Projeto - SPE INCORPORACAO URLE C8 LTDA - 49404.pdf",
+      "data": "17 Abr"
+    },
+    {
+      "nome": "OS 1854091_49404 SPE INCORPORAÇÃO URLE C8 LTDA 1148_2026.pdf",
+      "descricao": "DESPACHO Nº 1148/2026 - 1ª ANÁLISE",
+      "data": "ontem"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:13:33.636452+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "projeto_id": 46320,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=46320&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "ANDRE LUIZ ALVES DE CAMPOS JUNIOR ( 31502255820 )",
+  "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "31/03/2026 10:06:05",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "5",
+      "data": "31/03/2026 09:34:23",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "4",
+      "data": "05/03/2026 17:37:38",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "ANDRE LUIZ ALVES DE CAMPOS JUNIOR"
+    },
+    {
+      "sequencia": "3",
+      "data": "16/12/2025 10:33:27",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Devolvido conforme solicitação do interessado.",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "16/12/2025 10:29:27",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "02/12/2025 07:33:31",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "GPE CONSTRUTORA LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "DESPACHO 885-2026 - APROVAÇÃO DE PROJETO - GPE CONSTRUTORA LTDA - 46320.pdf",
+      "descricao": "DESPACHO 885-2026 - APROVACAO DE PROJETO - GPE CONSTRUTORA LTDA - 46320.pdf",
+      "data": "31 Mar"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:40.303237+00:00"
+}

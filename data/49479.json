@@ -1,0 +1,66 @@
+{
+  "projeto_id": 49479,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49479&TipoAlvara=2",
+  "situacao": "Apto para Reanálise",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
+  "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "16/04/2026 06:48:56",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "5",
+      "data": "16/04/2026 06:37:45",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "4",
+      "data": "14/04/2026 15:56:43",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "GPL ENGENHARIA LTDA"
+    },
+    {
+      "sequencia": "3",
+      "data": "06/04/2026 09:58:56",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: documentação",
+      "situacao": "Aguardando",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "06/04/2026 09:55:10",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "1",
+      "data": "01/04/2026 07:34:37",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "JARDIM AMERICA RC240 EMPREENDIMENTO IMOBILIARIO SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "alvará demolição JARDIM AMERICA RC240 EMPREENDIMENTO IMOBILIARIO SPE LTDA..pdf",
+      "descricao": "alvara demolicao JARDIM AMERICA RC240 EMPREENDIMENTO IMOBILIARIO SPE LTDA..pdf",
+      "data": "6 Abr"
+    },
+    {
+      "nome": "alvará demolição JARDIM AMERICA RC240 EMPREENDIMENTO IMOBILIARIO SPE LTDA,..pdf",
+      "descricao": "alvara demolicao JARDIM AMERICA RC240 EMPREENDIMENTO IMOBILIARIO SPE LTDA,..pdf",
+      "data": "16 Abr (3 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:00:21.100028+00:00"
+}

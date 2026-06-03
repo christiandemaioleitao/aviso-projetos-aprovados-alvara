@@ -1,0 +1,146 @@
+{
+  "projeto_id": 45716,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=45716&TipoAlvara=2",
+  "situacao": "Publicado",
+  "numero_licenca": "45851",
+  "tipo": "Aprovação de Projeto",
+  "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
+  "andamentos": [
+    {
+      "sequencia": "16",
+      "data": "24/11/2025 12:18:33",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Documentação e Projeto deferidos, apto à emissão de taxa final.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "15",
+      "data": "24/11/2025 12:11:11",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "14",
+      "data": "24/11/2025 09:44:10",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "13",
+      "data": "19/11/2025 12:17:53",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "12",
+      "data": "18/11/2025 20:09:42",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "ANA MARIA DANTAS MARQUEZ"
+    },
+    {
+      "sequencia": "11",
+      "data": "18/11/2025 20:08:37",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ANA MARIA DANTAS MARQUEZ"
+    },
+    {
+      "sequencia": "10",
+      "data": "18/11/2025 20:08:25",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: PROJETO CONSIDERADO APTO PARA APROVAÇÃO. ENCAMINHAR PARA ANEXAR LAUDO E REVISAR TAXA",
+      "situacao": "Encaminhada",
+      "responsavel": "ANA MARIA DANTAS MARQUEZ"
+    },
+    {
+      "sequencia": "9",
+      "data": "18/11/2025 09:02:26",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ANA MARIA DANTAS MARQUEZ"
+    },
+    {
+      "sequencia": "8",
+      "data": "07/11/2025 18:06:48",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA"
+    },
+    {
+      "sequencia": "7",
+      "data": "10/10/2025 11:49:59",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER AS SOLICITAÇÕES CONTIDAS NO DESPACHO 2020/2025.",
+      "situacao": "Aguardando",
+      "responsavel": "ANA MARIA DANTAS MARQUEZ"
+    },
+    {
+      "sequencia": "6",
+      "data": "13/08/2025 12:48:53",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ANA MARIA DANTAS MARQUEZ"
+    },
+    {
+      "sequencia": "5",
+      "data": "13/08/2025 09:07:55",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "13/08/2025 09:06:35",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "11/08/2025 11:48:30",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "2",
+      "data": "11/08/2025 11:38:13",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "1",
+      "data": "07/08/2025 07:33:43",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "EMPREENDIMENTOS IMOBILIARIOS RIO VERMELHO LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - EMPREENDIMENTOS IMOBILIARIOS RIO VERMELHO LTDA - 45716.pdf",
+      "descricao": "Aprovacao de Projeto - EMPREENDIMENTOS IMOBILIARIOS RIO VERMELHO LTDA - 45716.pdf",
+      "data": "11/08/2025"
+    },
+    {
+      "nome": "OS 1706415 PROJETO 45716 EMPREENDIMENTOS IMOBILIÁRIOS RIO VERMELHO 2020_2025.pdf",
+      "descricao": "DESPACHO DE 1ª ANÁLISE",
+      "data": "10/10/2025"
+    },
+    {
+      "nome": "PROJETO_PRIMEIRA_REANALISE_assinado.pdf",
+      "descricao": "PROJETO FINAL APROVADO E ASSINADO",
+      "data": "18/11/2025"
+    },
+    {
+      "nome": "OS 1706415 PROJETO 45716 EMPREENDIMENTOS IMOBILIÁRIOS RIO VERMELHO_LAUDO DE ANÁLISE FINAL.pdf",
+      "descricao": "LAUDO DE ANÁLISE FINAL",
+      "data": "18/11/2025"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:14:01.412169+00:00"
+}

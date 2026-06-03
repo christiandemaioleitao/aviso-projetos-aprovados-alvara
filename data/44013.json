@@ -1,0 +1,190 @@
+{
+  "projeto_id": 44013,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44013&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "45293",
+  "tipo": "Aprovação de Projeto",
+  "autor": "CMO CONSTRUTORA SA ( 02802833000100 )",
+  "andamentos": [
+    {
+      "sequencia": "23",
+      "data": "25/03/2026 16:51:56",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "22",
+      "data": "26/02/2026 12:24:52",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "CMO CONSTRUTORA SA"
+    },
+    {
+      "sequencia": "21",
+      "data": "16/12/2025 18:35:20",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ver despacho 2762_2025",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "20",
+      "data": "12/12/2025 18:06:13",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "19",
+      "data": "03/11/2025 10:53:18",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "18",
+      "data": "28/10/2025 18:08:04",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "CMO CONSTRUTORA SA"
+    },
+    {
+      "sequencia": "17",
+      "data": "17/10/2025 15:19:50",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Despacho de primeira análise 2238_2025",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "16",
+      "data": "08/10/2025 14:29:38",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "15",
+      "data": "08/10/2025 14:27:59",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "14",
+      "data": "08/10/2025 14:19:08",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER SOLICITÇÕES DO DESPACHO 2237_2025 E PRANCHAS EM ANEXO",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "13",
+      "data": "05/10/2025 21:08:10",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "12",
+      "data": "02/10/2025 14:12:51",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "11",
+      "data": "29/09/2025 10:33:25",
+      "descricao": "Transferência de Responsável\nMotivo: Documentos ok",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "10",
+      "data": "29/09/2025 10:31:47",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "9",
+      "data": "26/09/2025 16:05:02",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: Documentação ok, considerando ultimo anexo do contribuinte que compõe processo de remembramento dos demais lotes informados.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "8",
+      "data": "26/09/2025 08:33:39",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "7",
+      "data": "25/09/2025 11:26:01",
+      "descricao": "Transferência de Responsável\nMotivo: CONFORME SOLICITAÇÃO DO INTERESSADO VIA E-MAIL EM ANEXO, ENCAMINHO AO CHEADV PARA MANIFESTAÇÃO.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "24/07/2025 16:18:54",
+      "descricao": "Transferência de Responsável\nMotivo: Conforme solicitado por EMAIL, retornar processo para CHEADV ( juridico) devido a documentação relativa ao lote 04.",
+      "situacao": "Encaminhada",
+      "responsavel": "CRISTIANE MOTA NOBREGA ANDRADE"
+    },
+    {
+      "sequencia": "5",
+      "data": "23/07/2025 17:28:20",
+      "descricao": "Projeto encaminhado para analista Motivo: para análise;",
+      "situacao": "Encaminhada",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "4",
+      "data": "23/07/2025 09:04:50",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "3",
+      "data": "08/07/2025 11:41:02",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "2",
+      "data": "23/05/2025 15:34:23",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "1",
+      "data": "30/04/2025 07:34:48",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "CMO RESIDENCIAL UNA AREIAO SPE LTDA."
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - CMO EMPREENDIMENTOS IMOBILIARIOS SPE 022 - 44013 (1).pdf",
+      "descricao": "Aprovacao de Projeto - CMO EMPREENDIMENTOS IMOBILIARIOS SPE 022 - 44013 (1).pdf",
+      "data": "08/07/2025"
+    },
+    {
+      "nome": "OS 1657941 PROJETO 44013 CMO EMPREENDIMENTOS IMOBILIÁRIOS SPE 22_2238_2025.pdf",
+      "descricao": "Despacho de Primeira análise- OS 165794_PROJETO 44013_SPE 22_DESPACHO 2238_2025",
+      "data": "17/10/2025"
+    },
+    {
+      "nome": "OS 1657941 PROJETO 44013 CMO EMPREENDIMENTOS IMOBILIÁRIOS SPE 22_2762_2025.pdf",
+      "descricao": "Despacho primeira reanálise -  Despacho 2762_2025",
+      "data": "16/12/2025"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:13:13.672789+00:00"
+}

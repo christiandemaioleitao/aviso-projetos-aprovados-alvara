@@ -1,0 +1,54 @@
+{
+  "projeto_id": 49046,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49046&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "49246",
+  "tipo": "Aprovação de Projeto",
+  "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
+  "andamentos": [
+    {
+      "sequencia": "5",
+      "data": "06/04/2026 18:01:32",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "06/04/2026 18:00:28",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "13/03/2026 15:54:42",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "13/03/2026 15:49:22",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "12/03/2026 07:34:24",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "AMAZONIA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - AMAZONIA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 49046.pdf",
+      "descricao": "Aprovacao de Projeto - AMAZONIA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 49046.pdf",
+      "data": "13 Mar"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:41.789243+00:00"
+}

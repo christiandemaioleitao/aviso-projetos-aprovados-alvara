@@ -1,0 +1,271 @@
+{
+  "projeto_id": 44338,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44338&TipoAlvara=2",
+  "situacao": "Publicado",
+  "numero_licenca": "45562",
+  "tipo": "Aprovação de Projeto",
+  "autor": "FERNANDO PALMERSTON DE ALMEIDA ( 01037171101 )",
+  "andamentos": [
+    {
+      "sequencia": "31",
+      "data": "02/02/2026 11:50:46",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Documentação e projeto deferidos, apto à emissão de taxa final.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "30",
+      "data": "02/02/2026 11:49:06",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "29",
+      "data": "02/02/2026 11:38:10",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "28",
+      "data": "02/02/2026 11:32:07",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "27",
+      "data": "27/01/2026 15:43:39",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "26",
+      "data": "27/01/2026 15:43:26",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "25",
+      "data": "27/01/2026 15:43:21",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: PROJETO ENCAMINHADO À GERÊNCIA PARA REVISÃO DA TAXA FINAL",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "24",
+      "data": "27/01/2026 14:30:21",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "23",
+      "data": "26/01/2026 12:07:03",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "FERNANDO PALMERSTON DE ALMEIDA"
+    },
+    {
+      "sequencia": "22",
+      "data": "20/01/2026 17:02:01",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 232/2026 - 2ª REANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "21",
+      "data": "20/01/2026 16:10:11",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "20",
+      "data": "07/01/2026 09:41:08",
+      "descricao": "Projeto encaminhado para analista Motivo: Projeto devolvido para correções: apresentar quadro de aberturas para todas as aberturas das áreas comuns; representar a porta no sanitário normal da academia; representar a área de aproximação no acesso ao sanitário acessível da churrasqueira (NBR 9050); atender ao artigo 110 do Código de Obras, parágrafo  5º para o cálculo de vagas exigidas: 2% do total acessível.",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "19",
+      "data": "05/01/2026 20:46:05",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "18",
+      "data": "30/12/2025 17:08:36",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "17",
+      "data": "30/12/2025 17:08:14",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "16",
+      "data": "30/12/2025 17:08:07",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: PROJETO ENCAMINHADO À GERÊNCIA PARA REVISÃO DA TAXA FINAL.",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "15",
+      "data": "29/12/2025 16:35:23",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "14",
+      "data": "24/11/2025 19:02:55",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "FERNANDO PALMERSTON DE ALMEIDA"
+    },
+    {
+      "sequencia": "13",
+      "data": "11/11/2025 16:04:39",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 2412/2025 - 1ª REANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "12",
+      "data": "10/11/2025 13:52:44",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "11",
+      "data": "10/10/2025 12:59:51",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "FERNANDO PALMERSTON DE ALMEIDA"
+    },
+    {
+      "sequencia": "10",
+      "data": "10/09/2025 17:23:19",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 1523/2025 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "9",
+      "data": "05/09/2025 15:42:38",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "8",
+      "data": "13/08/2025 14:31:28",
+      "descricao": "Projeto encaminhado para analista Motivo: para análise;",
+      "situacao": "Encaminhada",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "7",
+      "data": "13/08/2025 09:56:16",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "6",
+      "data": "24/07/2025 16:45:48",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "5",
+      "data": "24/07/2025 16:21:08",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "4",
+      "data": "03/07/2025 14:13:40",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "FERNANDO PALMERSTON DE ALMEIDA"
+    },
+    {
+      "sequencia": "3",
+      "data": "25/06/2025 11:38:02",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Documentações não conforme, segue anexo para retificação.",
+      "situacao": "Aguardando",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "2",
+      "data": "23/05/2025 15:37:30",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "1",
+      "data": "15/05/2025 07:33:16",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "RP016 CONSTRUTORA E INCORPORADORA SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - RP016 CONSTRUTORA E INCORPORADORA - 44338.pdf",
+      "descricao": "Aprovacao de Projeto - RP016 CONSTRUTORA E INCORPORADORA - 44338.pdf",
+      "data": "25/06/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - RP016 CONSTRUTORA E INCORPORADORA SPE LTDA - 44338.pdf",
+      "descricao": "Aprovacao de Projeto - RP016 CONSTRUTORA E INCORPORADORA SPE LTDA - 44338.pdf",
+      "data": "24/07/2025"
+    },
+    {
+      "nome": "OS 1665076_44338 RP016 CONSTRUTORA E INCORPORADORA SPE LTDA 1523_2025.pdf",
+      "descricao": "DESPACHO Nº 1523/2025 - 1ª ANÁLISE",
+      "data": "10/09/2025"
+    },
+    {
+      "nome": "OS 1665076_44338 RP016 CONSTRUTORA E INCORPORADORA SPE LTDA 2412_2025.pdf",
+      "descricao": "DESPACHO Nº 2412/2025 - 1ª REANÁLISE",
+      "data": "11/11/2025"
+    },
+    {
+      "nome": "OS 1665076_44338 RP016 CONSTRUTORA E INCORPORADORA SPE LTDA_LAUDO TAXA_30-12-2025.pdf",
+      "descricao": "LAUDO DE TAXA - 30/12/2025",
+      "data": "30/12/2025"
+    },
+    {
+      "nome": "OS 1665076_44338 RP016 CONSTRUTORA E INCORPORADORA SPE LTDA 0232_2026.pdf",
+      "descricao": "DESPACHO Nº 232/2026 - 2ª REANÁLISE",
+      "data": "20 Jan"
+    },
+    {
+      "nome": "OS 1665076_44338 RP016 CONSTRUTORA E INCORPORADORA SPE LTDA_LAUDO TAXA_27-01-2026.pdf",
+      "descricao": "LAUDO DE TAXA 27/01/2026",
+      "data": "27 Jan"
+    },
+    {
+      "nome": "OS 1665076_3ªREANÁLISE PROJETO APROVADO.pdf",
+      "descricao": "PROJETO ENCAMINHADO PARA LIBERAÇÃO DE TAXA",
+      "data": "27 Jan"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:14:04.940245+00:00"
+}

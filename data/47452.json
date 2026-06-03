@@ -1,0 +1,125 @@
+{
+  "projeto_id": 47452,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47452&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "47745",
+  "tipo": "Aprovação de Projeto",
+  "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
+  "andamentos": [
+    {
+      "sequencia": "13",
+      "data": "28/05/2026 09:59:46",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Primeira reanálise. Segue despacho 808/2026 em anexo.",
+      "situacao": "Aguardando",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
+    {
+      "sequencia": "12",
+      "data": "25/05/2026 08:33:06",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
+    {
+      "sequencia": "11",
+      "data": "24/03/2026 16:49:32",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA"
+    },
+    {
+      "sequencia": "10",
+      "data": "15/01/2026 12:26:14",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Primeira análise. Segue despacho 34/2026 em anexo.",
+      "situacao": "Aguardando",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
+    {
+      "sequencia": "9",
+      "data": "12/01/2026 09:22:10",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
+    {
+      "sequencia": "8",
+      "data": "18/12/2025 11:14:45",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROJETO ARQUITETÔNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "18/12/2025 11:14:02",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "02/12/2025 15:48:11",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "02/12/2025 15:44:30",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "02/12/2025 09:01:36",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA"
+    },
+    {
+      "sequencia": "3",
+      "data": "01/12/2025 14:35:30",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "01/12/2025 11:23:40",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "26/11/2025 07:34:56",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SELMA AUXILIADORA PEREIRA E OUTROS"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  SELMA AUXILIADORA PEREIRA E OUTROS - 47452.pdf",
+      "descricao": "Aprovacao de Projeto - SELMA AUXILIADORA PEREIRA E OUTROS - 47452.pdf",
+      "data": "01/12/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - SELMA AUXILIADORA PEREIRA E OUTROS - 47452.pdf",
+      "descricao": "Aprovacao de Projeto - SELMA AUXILIADORA PEREIRA E OUTROS - 47452.pdf",
+      "data": "02/12/2025"
+    },
+    {
+      "nome": "OS 1774345 PROJETO 47452 SELMA AUXILIADORA PEREIRA E OUTROS 34_2026.pdf",
+      "descricao": "PRIMEIRA ANALISE, SEGUE DESPACHO 34/2026 EM ANEXO.",
+      "data": "15 Jan"
+    },
+    {
+      "nome": "OS 1774345 PROJETO 47452 SELMA AUXILIADORA PEREIRA E OUTROS 808_2026.pdf",
+      "descricao": "Primeira reanálise. Segue despacho 808/2026 em anexo.",
+      "data": "hoje"
+    }
+  ],
+  "_salvo_em": "2026-05-28T14:44:07.611816+00:00"
+}

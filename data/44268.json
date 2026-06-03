@@ -1,0 +1,80 @@
+{
+  "projeto_id": 44268,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44268&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
+  "andamentos": [
+    {
+      "sequencia": "8",
+      "data": "16/03/2026 16:14:22",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "7",
+      "data": "16/03/2026 15:54:23",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "6",
+      "data": "04/02/2026 12:11:05",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "JOÃO GABRIEL TOMÉ OLIVEIRA"
+    },
+    {
+      "sequencia": "5",
+      "data": "05/08/2025 09:39:30",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "04/08/2025 14:01:45",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "3",
+      "data": "04/08/2025 09:09:36",
+      "descricao": "Transferência de Responsável\nMotivo: tratativa",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "2",
+      "data": "23/05/2025 15:37:08",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "1",
+      "data": "09/05/2025 07:33:18",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE RESIDENCIAL CITY 32 EMPREENDIMENTOS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - SPE RESIDENCIAL CITY 32 EMPREENDIMENTOS - 44268.pdf",
+      "descricao": "Aprovacao de Projeto - SPE RESIDENCIAL CITY 32 EMPREENDIMENTOS - 44268.pdf",
+      "data": "05/08/2025"
+    },
+    {
+      "nome": "DESPACHO 711-2026 - APROVAÇÃO DE PROJETO - SPE RESIDENCIAL CITY 32 EMPREENDIMENTOS LTDA - 44268.pdf",
+      "descricao": "DESPACHO 711-2026 - APROVACAO DE PROJETO - SPE RESIDENCIAL CITY 32 EMPREENDIMENTOS LTDA - 44268.pdf",
+      "data": "16 Mar"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:14:08.489610+00:00"
+}

@@ -1,0 +1,99 @@
+{
+  "projeto_id": 48743,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=48743&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "48969",
+  "tipo": "Aprovação de Projeto",
+  "autor": "PRIME INCORPORACOES E CONSTRUCOES SA ( 00409834000317 )",
+  "andamentos": [
+    {
+      "sequencia": "10",
+      "data": "18/05/2026 14:05:38",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 1142/2026 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "9",
+      "data": "29/04/2026 14:40:00",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "8",
+      "data": "06/03/2026 10:05:16",
+      "descricao": "Projeto encaminhado para analista Motivo: Para Análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "06/03/2026 08:54:40",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "26/02/2026 15:41:29",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "26/02/2026 09:44:26",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "26/02/2026 08:14:00",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "PRIME INCORPORACOES E CONSTRUCOES SA"
+    },
+    {
+      "sequencia": "3",
+      "data": "24/02/2026 16:44:15",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "24/02/2026 16:16:01",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "19/02/2026 07:34:17",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "MRV PRIME INCORPORACOES MATO GROSSO DO SUL LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - MRV PRIME INCORPORACOES MATO GROSSO DO SUL LTDA - 48743.pdf",
+      "descricao": "Aprovacao de Projeto - MRV PRIME INCORPORACOES MATO GROSSO DO SUL LTDA - 48743.pdf",
+      "data": "24 Fev"
+    },
+    {
+      "nome": "Aprovação de Projeto - MRV PRIME INCORPORACOES MATO GROSSO DO SUL LTDA - 48743ok.pdf",
+      "descricao": "Aprovacao de Projeto - MRV PRIME INCORPORACOES MATO GROSSO DO SUL LTDA - 48743ok.pdf",
+      "data": "26 Fev"
+    },
+    {
+      "nome": "OS 1827457_48743 MRV PRIME INCORPORAÇÕES MATO GRASSO DO SUL LTDA 1142_2026.pdf",
+      "descricao": "DESPACHO Nº 1142/2026 - 1ª ANÁLISE",
+      "data": "ontem"
+    }
+  ],
+  "_salvo_em": "2026-05-19T13:59:06.347550+00:00"
+}

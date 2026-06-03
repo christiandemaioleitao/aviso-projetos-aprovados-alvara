@@ -1,0 +1,73 @@
+{
+  "projeto_id": 47778,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47778&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "48153",
+  "tipo": "Aprovação de Projeto",
+  "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
+  "andamentos": [
+    {
+      "sequencia": "7",
+      "data": "23/01/2026 10:33:16",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Primeira análise. Segue despacho 35/2026 em anexo.",
+      "situacao": "Aguardando",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "16/01/2026 10:49:13",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
+    {
+      "sequencia": "5",
+      "data": "09/01/2026 16:55:41",
+      "descricao": "Projeto encaminhado para analista Motivo: Para Análise - HIS.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "09/01/2026 16:54:39",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "07/01/2026 09:34:09",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "07/01/2026 09:18:07",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "11/12/2025 07:34:20",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SELMA AUXILIADORA PEREIRA E OUTROS"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  SELMA AUXILIADORA PEREIRA E OUTROS - 47778.pdf",
+      "descricao": "Aprovacao de Projeto - SELMA AUXILIADORA PEREIRA E OUTROS - 47778.pdf",
+      "data": "7 Jan"
+    },
+    {
+      "nome": "OS 1783886 PROJETO 47778 SELMA AUXILIADORA PEREIRA E OUTROS 35_2026.pdf",
+      "descricao": "PRIMEIRA ANALISE SEGUE DESPACHO 35/2026 EM ANEXO",
+      "data": "23 Jan"
+    }
+  ],
+  "_salvo_em": "2026-05-11T01:21:13.614965+00:00"
+}

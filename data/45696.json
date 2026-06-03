@@ -1,0 +1,153 @@
+{
+  "projeto_id": 45696,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=45696&TipoAlvara=2",
+  "situacao": "Publicado",
+  "numero_licenca": "45785",
+  "tipo": "Aprovação de Projeto",
+  "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
+  "andamentos": [
+    {
+      "sequencia": "17",
+      "data": "16/01/2026 14:28:18",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Alvara Liberado",
+      "situacao": "Fechada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "16",
+      "data": "16/01/2026 14:27:55",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "15",
+      "data": "16/01/2026 11:51:48",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "14",
+      "data": "16/01/2026 11:51:23",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "13",
+      "data": "16/01/2026 11:51:08",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "12",
+      "data": "16/01/2026 11:48:46",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "11",
+      "data": "16/01/2026 11:48:31",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: Projeto apto.",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "10",
+      "data": "13/01/2026 11:20:14",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "9",
+      "data": "07/01/2026 12:02:28",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "8",
+      "data": "24/11/2025 15:05:08",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA"
+    },
+    {
+      "sequencia": "7",
+      "data": "16/09/2025 13:16:04",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER AS SOLICITAÇÕES CONTIDAS NO DESPACHO 1900/2025.",
+      "situacao": "Aguardando",
+      "responsavel": "ANA MARIA DANTAS MARQUEZ"
+    },
+    {
+      "sequencia": "6",
+      "data": "01/09/2025 09:47:16",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ANA MARIA DANTAS MARQUEZ"
+    },
+    {
+      "sequencia": "5",
+      "data": "13/08/2025 09:10:59",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "13/08/2025 09:09:03",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "06/08/2025 15:01:42",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "06/08/2025 14:33:54",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "05/08/2025 07:33:46",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "MARTA LOPES DO VALE FILHA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - MARTA LOPES DO VALE FILHA - 45696.pdf",
+      "descricao": "Aprovacao de Projeto - MARTA LOPES DO VALE FILHA - 45696.pdf",
+      "data": "06/08/2025"
+    },
+    {
+      "nome": "OS 1704479 PROJETO 45696 MARTA LOPES DO VALE FILHA 1900_2025.pdf",
+      "descricao": "DESPACHO DE 1ª ANÁLISE",
+      "data": "16/09/2025"
+    },
+    {
+      "nome": "LAUDO APTO.pdf",
+      "descricao": "Laudo apto",
+      "data": "16 Jan"
+    },
+    {
+      "nome": "PROJETO APTO.pdf",
+      "descricao": "Projeto apto",
+      "data": "16 Jan"
+    }
+  ],
+  "_salvo_em": "2026-05-29T14:14:00.108444+00:00"
+}

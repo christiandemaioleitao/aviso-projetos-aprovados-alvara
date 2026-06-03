@@ -1,0 +1,87 @@
+{
+  "projeto_id": 45753,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=45753&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "49665",
+  "tipo": "Aprovação de Projeto",
+  "autor": "ANDRE LUIZ ALVES DE CAMPOS JUNIOR ( 31502255820 )",
+  "andamentos": [
+    {
+      "sequencia": "9",
+      "data": "18/05/2026 11:25:14",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "8",
+      "data": "08/05/2026 17:41:16",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "08/05/2026 17:34:50",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "06/04/2026 15:36:19",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "06/04/2026 15:29:16",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "19/03/2026 18:04:50",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "ANDRE LUIZ ALVES DE CAMPOS JUNIOR"
+    },
+    {
+      "sequencia": "3",
+      "data": "02/10/2025 11:03:37",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: DOCUMENTAÇÃO",
+      "situacao": "Aguardando",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "02/10/2025 10:49:24",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "1",
+      "data": "30/08/2025 07:33:27",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "IVONE APARECIDA VACCARO"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "IVONE APARECIDA VACCARO APROVAÇÃO DE PROJETO.pdf",
+      "descricao": "IVONE APARECIDA VACCARO APROVACAO DE PROJETO.pdf",
+      "data": "02/10/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - GPE SPE 05 RESIDENCIAL LTDA - 45753.pdf",
+      "descricao": "Aprovacao de Projeto - GPE SPE 05 RESIDENCIAL LTDA - 45753.pdf",
+      "data": "6 Abr"
+    }
+  ],
+  "_salvo_em": "2026-06-03T20:05:43.500096+00:00"
+}
