@@ -1,0 +1,47 @@
+{
+  "projeto_id": 50096,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50096&TipoAlvara=2",
+  "situacao": "Apto para Reanálise",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "BRUNO VERAS PINTO CORDEIRO ( 02146439726 )",
+  "andamentos": [
+    {
+      "sequencia": "4",
+      "data": "03/06/2026 10:30:59",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "BRUNO VERAS PINTO CORDEIRO"
+    },
+    {
+      "sequencia": "3",
+      "data": "19/05/2026 14:30:10",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "19/05/2026 11:15:49",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "15/05/2026 07:35:01",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "ESCOLA ETHOS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Modificação de Projeto Com Acrescimo - ESCOLA ETHOS LTDA - 50096.pdf",
+      "descricao": "Modificacao de Projeto Com Acrescimo - ESCOLA ETHOS LTDA - 50096.pdf",
+      "data": "19 Mai (2 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:07.472622+00:00"
+}

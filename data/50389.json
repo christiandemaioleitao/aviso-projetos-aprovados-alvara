@@ -1,0 +1,66 @@
+{
+  "projeto_id": 50389,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50389&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "50557",
+  "tipo": "Aprovação de Projeto",
+  "autor": "SEBASTIAO MARTINS DE SOUSA FILHO ( 35550430134 )",
+  "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "21/05/2026 09:19:44",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "21/05/2026 09:15:55",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "18/05/2026 17:02:59",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "SEBASTIAO MARTINS DE SOUSA FILHO"
+    },
+    {
+      "sequencia": "3",
+      "data": "18/05/2026 10:47:55",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "18/05/2026 10:10:55",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "14/05/2026 07:35:23",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "THIAGO VINICIUS SILVA LEITE"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - THIAGO VINICIUS SILVA LEITE - 50389.pdf",
+      "descricao": "Aprovacao de Projeto - THIAGO VINICIUS SILVA LEITE - 50389.pdf",
+      "data": "18 Mai (3 semanas atrás)"
+    },
+    {
+      "nome": "Aprovação de Projeto -   THIAGO VINICIUS SILVA LEITE  - 50389.pdf",
+      "descricao": "Aprovacao de Projeto - THIAGO VINICIUS SILVA LEITE - 50389.pdf",
+      "data": "21 Mai (2 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:18.064755+00:00"
+}

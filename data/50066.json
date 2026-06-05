@@ -1,0 +1,66 @@
+{
+  "projeto_id": 50066,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50066&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "50534",
+  "tipo": "Aprovação de Projeto",
+  "autor": "DOIS ARQUITETURA S/S LTDA ( 10475821000138 )",
+  "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "20/05/2026 11:08:19",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "20/05/2026 09:35:01",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "15/05/2026 18:00:21",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "DOIS ARQUITETURA S/S LTDA"
+    },
+    {
+      "sequencia": "3",
+      "data": "06/05/2026 16:43:52",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "2",
+      "data": "06/05/2026 16:27:23",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "1",
+      "data": "29/04/2026 07:35:14",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SIENNA HOME EMPREENDIMENTOS LTD"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "DESPACHO 1.214-2026 - APROVAÇÃO DE PROJETO - SIENNA HOME EMPREENDIMENTOS LTD - 50066.pdf",
+      "descricao": "DESPACHO 1.214-2026 - APROVACAO DE PROJETO - SIENNA HOME EMPREENDIMENTOS LTD - 50066.pdf",
+      "data": "6 Mai (4 semanas atrás)"
+    },
+    {
+      "nome": "Aprovação de Projeto -  SIENNA HOME EMPREENDIMENTOS LTD - 50066.pdf",
+      "descricao": "Aprovacao de Projeto - SIENNA HOME EMPREENDIMENTOS LTD - 50066.pdf",
+      "data": "20 Mai (2 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:06.370762+00:00"
+}

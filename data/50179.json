@@ -1,0 +1,80 @@
+{
+  "projeto_id": 50179,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50179&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "50495",
+  "tipo": "Aprovação de Projeto",
+  "autor": "ADEMALDO CONSTRUCOES E PROJETOS EIRELI ( 03284445000139 )",
+  "andamentos": [
+    {
+      "sequencia": "8",
+      "data": "01/06/2026 15:54:03",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROJETO ARQUITETÕNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "01/06/2026 15:52:18",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "18/05/2026 16:19:49",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "18/05/2026 16:07:10",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "15/05/2026 09:00:14",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "ADEMALDO CONSTRUCOES E PROJETOS EIRELI"
+    },
+    {
+      "sequencia": "3",
+      "data": "12/05/2026 14:45:22",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "12/05/2026 13:48:29",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "06/05/2026 07:34:17",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "DJL INVESTIMENTOS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  DJL INVESTIMENTOS LTDA - 50179.pdf",
+      "descricao": "Aprovacao de Projeto - DJL INVESTIMENTOS LTDA - 50179.pdf",
+      "data": "12 Mai (3 semanas atrás)"
+    },
+    {
+      "nome": "Aprovação de Projeto - DJL INVESTIMENTOS LTDA - 50179.pdf",
+      "descricao": "Aprovacao de Projeto - DJL INVESTIMENTOS LTDA - 50179.pdf",
+      "data": "18 Mai (3 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:13.370496+00:00"
+}

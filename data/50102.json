@@ -1,0 +1,146 @@
+{
+  "projeto_id": 50102,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50102&TipoAlvara=2",
+  "situacao": "Publicado",
+  "numero_licenca": "50236",
+  "tipo": "Aprovação de Projeto",
+  "autor": "NORTE DESIGN ARQUITETOS ASSOCIADOS S/S ( 26900903000112 )",
+  "andamentos": [
+    {
+      "sequencia": "16",
+      "data": "15/05/2026 09:22:33",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Alvara Liberado",
+      "situacao": "Fechada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "15",
+      "data": "15/05/2026 09:22:05",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "14",
+      "data": "15/05/2026 09:14:38",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "13",
+      "data": "15/05/2026 09:14:24",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "12",
+      "data": "15/05/2026 09:14:17",
+      "descricao": "Laudo anexado. Encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "11",
+      "data": "15/05/2026 09:11:35",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "10",
+      "data": "15/05/2026 09:11:29",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo. Motivo: Projeto apto a aprovação.",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "9",
+      "data": "12/05/2026 09:01:19",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "8",
+      "data": "08/05/2026 14:40:26",
+      "descricao": "Projeto encaminhado para analista.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "08/05/2026 14:38:55",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "06/05/2026 10:43:10",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "06/05/2026 09:51:32",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "04/05/2026 16:55:24",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "NORTE DESIGN ARQUITETOS ASSOCIADOS S/S"
+    },
+    {
+      "sequencia": "3",
+      "data": "04/05/2026 11:25:43",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "04/05/2026 10:44:32",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "01/05/2026 07:34:18",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "VRT CASTEL INCORPORACAO 01 SPE"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Modificação de Projeto Com Acrescimo -  VRT CASTEL INCORPORACAO 01 SPE - 50102.pdf",
+      "descricao": "Modificacao de Projeto Com Acrescimo - VRT CASTEL INCORPORACAO 01 SPE - 50102.pdf",
+      "data": "4 Mai"
+    },
+    {
+      "nome": "Modificação de Projeto Com Acrescimo - VRT CASTEL INCORPORACAO 01 SPE - 50102.pdf",
+      "descricao": "Modificacao de Projeto Com Acrescimo - VRT CASTEL INCORPORACAO 01 SPE - 50102.pdf",
+      "data": "6 Mai (4 semanas atrás)"
+    },
+    {
+      "nome": "Laudo_apto.pdf",
+      "descricao": "LAUDO APTO",
+      "data": "15 Mai (3 semanas atrás)"
+    },
+    {
+      "nome": "PROJETO 50102 - APROVADO.rar",
+      "descricao": "PROJETO APTO",
+      "data": "15 Mai (3 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:06.891900+00:00"
+}

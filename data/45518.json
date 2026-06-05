@@ -1,0 +1,87 @@
+{
+  "projeto_id": 45518,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=45518&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "46167",
+  "tipo": "Aprovação de Projeto",
+  "autor": "CMO CONSTRUTORA SA ( 02802833000100 )",
+  "andamentos": [
+    {
+      "sequencia": "9",
+      "data": "13/02/2026 12:02:34",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "CMO CONSTRUTORA SA"
+    },
+    {
+      "sequencia": "8",
+      "data": "16/12/2025 18:33:33",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ver despacho 2671_2025",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "7",
+      "data": "07/10/2025 17:14:14",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "6",
+      "data": "02/10/2025 18:57:27",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "5",
+      "data": "01/10/2025 16:40:44",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "01/10/2025 16:40:11",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "01/09/2025 10:54:10",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "01/09/2025 10:37:11",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "07/08/2025 07:33:36",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "CMO EMPREENDIMENTOS IMOBILIARIOS SPE 025 LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - CMO EMPREENDIMENTOS IMOBILIARIOS SPE 023 LTDA - 45518.pdf",
+      "descricao": "Aprovacao de Projeto - CMO EMPREENDIMENTOS IMOBILIARIOS SPE 023 LTDA - 45518.pdf",
+      "data": "01/09/2025"
+    },
+    {
+      "nome": "OS 1706410 PROJETO 45518 CMO EMPREENDIMENTOS IMOBILIÁRIOS SPE 25_2671_2025.pdf",
+      "descricao": "Despacho primeira análise - 2671_2025",
+      "data": "16/12/2025"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:49:55.029978+00:00"
+}

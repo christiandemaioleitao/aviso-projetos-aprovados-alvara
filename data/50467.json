@@ -1,0 +1,40 @@
+{
+  "projeto_id": 50467,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50467&TipoAlvara=2",
+  "situacao": "Apto Para Análise",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "ANDRE BEATON LENZA ( 00213796104 )",
+  "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "19/05/2026 14:53:55",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "19/05/2026 11:15:49",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "16/05/2026 07:42:16",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "ANTONIO DE PADUA SERONNI"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Revalidação Alvara de Construção - ANTONIO DE PADUA SERONNI - 50467.pdf",
+      "descricao": "Revalidacao Alvara de Construcao - ANTONIO DE PADUA SERONNI - 50467.pdf",
+      "data": "19 Mai (2 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:21.918095+00:00"
+}

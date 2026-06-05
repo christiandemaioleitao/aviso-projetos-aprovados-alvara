@@ -1,0 +1,106 @@
+{
+  "projeto_id": 45686,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=45686&TipoAlvara=2",
+  "situacao": "Apto para Reanálise",
+  "numero_licenca": "46356",
+  "tipo": "Aprovação de Projeto",
+  "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
+  "andamentos": [
+    {
+      "sequencia": "11",
+      "data": "29/04/2026 10:42:24",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "GPL ENGENHARIA LTDA"
+    },
+    {
+      "sequencia": "10",
+      "data": "17/03/2026 11:14:16",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER AO DESPACHO. PROJETO NÃO APTO.",
+      "situacao": "Aguardando",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "9",
+      "data": "10/03/2026 10:48:58",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "8",
+      "data": "02/02/2026 11:28:36",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "GPL ENGENHARIA LTDA"
+    },
+    {
+      "sequencia": "7",
+      "data": "01/12/2025 15:34:19",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: TOMA CONHECIMENTO DO DESPACHO. PROCESSO DEVOLVIDO A PEDIDO DO INTERESSADO PARA SUBSTITUIÇÃO DE PROJETO.",
+      "situacao": "Aguardando",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "6",
+      "data": "28/11/2025 08:55:29",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "5",
+      "data": "06/11/2025 15:17:20",
+      "descricao": "Projeto encaminhado para analista. Motivo: PARA ANÁLISE DO PROJETO ARQUITETÔNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "06/11/2025 15:16:33",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "11/09/2025 10:57:26",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "10/09/2025 15:07:32",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "01/08/2025 07:37:49",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "ROSA BRANCA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Modificação de Projeto Com Acrescimo - ROSA BRANCA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 45686.pdf",
+      "descricao": "Modificacao de Projeto Com Acrescimo - ROSA BRANCA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA - 45686.pdf",
+      "data": "11/09/2025"
+    },
+    {
+      "nome": "OS 1703021 PROJETO 45686 ROSA BRANCA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA 2533_2025.pdf",
+      "descricao": "ATENDER AO DESPACHO Nº 2533/ 2025 - DEVOLUÇÃO SEM ANÁLISE DO PROJETO",
+      "data": "01/12/2025"
+    },
+    {
+      "nome": "OS 1703021 PROJETO 45686 ROSA BRANCA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA 770_2026.pdf",
+      "descricao": "ATENDER AO DESPACHO Nº 770/2026 - 2ª ANÁLISE",
+      "data": "17 Mar"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:49:48.434348+00:00"
+}

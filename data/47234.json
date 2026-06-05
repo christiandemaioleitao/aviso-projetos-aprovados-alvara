@@ -1,0 +1,73 @@
+{
+  "projeto_id": 47234,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47234&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "47987",
+  "tipo": "Aprovação de Projeto",
+  "autor": "MAGEN CONSTRUTORA LTDA ( 23562830000108 )",
+  "andamentos": [
+    {
+      "sequencia": "7",
+      "data": "23/03/2026 17:09:13",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Ver despacho 800_2026",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "6",
+      "data": "27/02/2026 12:09:40",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "5",
+      "data": "27/02/2026 12:05:26",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "05/02/2026 16:46:00",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "18/12/2025 14:37:57",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "11/12/2025 08:50:52",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "31/10/2025 07:32:57",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE OESTE 004 LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - SPE OESTE 004 LTDA - 47234.pdf",
+      "descricao": "Aprovacao de Projeto - SPE OESTE 004 LTDA - 47234.pdf",
+      "data": "18/12/2025"
+    },
+    {
+      "nome": "OS 1758860 PROJETO 47234_SPE OESTE 004 LTDA_800_2026.pdf",
+      "descricao": "Despacho primeira análise: 800_2026",
+      "data": "23 Mar"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:49:56.618547+00:00"
+}

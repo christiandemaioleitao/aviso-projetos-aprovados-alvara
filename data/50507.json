@@ -1,0 +1,40 @@
+{
+  "projeto_id": 50507,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50507&TipoAlvara=2",
+  "situacao": "Apto Para Análise",
+  "numero_licenca": "50617",
+  "tipo": "Aprovação de Projeto",
+  "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
+  "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "26/05/2026 09:26:10",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "22/05/2026 10:58:47",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "20/05/2026 07:35:08",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "INCORPORACAO R78 SPE LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Modificação de Projeto Sem Acrescimo - INCORPORACAO R78 SPE LTDA - 50507.pdf",
+      "descricao": "Modificacao de Projeto Sem Acrescimo - INCORPORACAO R78 SPE LTDA - 50507.pdf",
+      "data": "26 Mai (10 dias atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:28.704517+00:00"
+}

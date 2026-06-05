@@ -1,0 +1,40 @@
+{
+  "projeto_id": 50200,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50200&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "Júlia de Rezende Perfeito ( 70084576189 )",
+  "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "26/05/2026 14:05:01",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "14/05/2026 14:43:02",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "09/05/2026 07:35:28",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "FGR URBANISMO JARDINS HENEDINA SPE-LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  FGR URBANISMO JARDINS HENEDINA SPE-LTDA - 50200.pdf",
+      "descricao": "Aprovacao de Projeto - FGR URBANISMO JARDINS HENEDINA SPE-LTDA - 50200.pdf",
+      "data": "26 Mai (10 dias atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:12.831075+00:00"
+}

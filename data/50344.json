@@ -1,0 +1,40 @@
+{
+  "projeto_id": 50344,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50344&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "CONSTRUTORA CENTRAL DO BRASIL SA ( 02156313000169 )",
+  "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "22/05/2026 10:47:47",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "20/05/2026 11:14:48",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "15/05/2026 07:35:09",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "ANDREA CRISTINA MOTA MARQUES COSTA CARMO"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  ANDREA CRISTINA MOTA MARQUES COSTA CARMO - 50344.pdf",
+      "descricao": "Aprovacao de Projeto - ANDREA CRISTINA MOTA MARQUES COSTA CARMO - 50344.pdf",
+      "data": "22 Mai (14 dias atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:17.835225+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "projeto_id": 50554,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50554&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "CM ENGENHARIA E CONSULTORIA TECNICA LTDA ( 58369598000170 )",
+  "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "29/05/2026 11:48:30",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "29/05/2026 11:05:26",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "22/05/2026 07:37:23",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "DEBORA GARCEZ CASCALHO"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - DEBORA GARCEZ CASCALHO - 50554.pdf",
+      "descricao": "Aprovacao de Projeto - DEBORA GARCEZ CASCALHO - 50554.pdf",
+      "data": "29 Mai (7 dias atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:27.046458+00:00"
+}

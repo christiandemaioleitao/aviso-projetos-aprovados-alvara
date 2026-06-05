@@ -1,0 +1,111 @@
+{
+  "projeto_id": 47490,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47490&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "48315",
+  "tipo": "Aprovação de Projeto",
+  "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
+  "andamentos": [
+    {
+      "sequencia": "11",
+      "data": "10/04/2026 09:51:16",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "JOÃO GABRIEL TOMÉ OLIVEIRA"
+    },
+    {
+      "sequencia": "10",
+      "data": "12/02/2026 16:03:47",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 343/2026 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "9",
+      "data": "12/02/2026 09:05:15",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "8",
+      "data": "09/02/2026 18:56:56",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "09/02/2026 18:56:15",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "19/01/2026 14:50:19",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "19/01/2026 14:05:36",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "18/12/2025 08:50:16",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "JOÃO GABRIEL TOMÉ OLIVEIRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "15/12/2025 10:20:00",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "15/12/2025 09:19:02",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "19/11/2025 07:33:58",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA - 47490.pdf",
+      "descricao": "Aprovacao de Projeto - SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA - 47490.pdf",
+      "data": "15/12/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA - 47490.pdf",
+      "descricao": "Aprovacao de Projeto - SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA - 47490.pdf",
+      "data": "19 Jan"
+    },
+    {
+      "nome": "OS 1768855_47490 SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA 0346_2026.pdf",
+      "descricao": "DESPACHO Nº3 /202 - 1ª ANÁLISE",
+      "data": "12 Fev"
+    },
+    {
+      "nome": "OS 1768855_47490 SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA 0346_2026.pdf",
+      "descricao": "DESPACHO Nº 343/2026 - 1ª ANÁLISE",
+      "data": "12 Fev"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:49:56.099768+00:00"
+}

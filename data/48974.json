@@ -1,0 +1,80 @@
+{
+  "projeto_id": 48974,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=48974&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "49230",
+  "tipo": "Aprovação de Projeto",
+  "autor": "ILEZIO INACIO FERREIRA ( 07072244115 )",
+  "andamentos": [
+    {
+      "sequencia": "8",
+      "data": "29/05/2026 16:24:02",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "ILEZIO INACIO FERREIRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "12/05/2026 17:14:40",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Ver despacho 1127_2026",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "6",
+      "data": "09/05/2026 10:13:14",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "5",
+      "data": "14/04/2026 10:49:46",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "14/04/2026 10:48:45",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "13/03/2026 09:52:53",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "13/03/2026 09:47:21",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "04/03/2026 07:34:34",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "CONSCIENTE CONSTRUTORA E INCORPORADORA SPE 0036 LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - CONSCIENTE CONSTRUTORA E INCORPORADORA SPE 0036 LTDA - 48974.pdf",
+      "descricao": "Aprovacao de Projeto - CONSCIENTE CONSTRUTORA E INCORPORADORA SPE 0036 LTDA - 48974.pdf",
+      "data": "13 Mar"
+    },
+    {
+      "nome": "OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA_1127_2026.pdf",
+      "descricao": "Despacho de Primeira Análise 1127_2026",
+      "data": "12 Mai (3 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:49:59.433924+00:00"
+}

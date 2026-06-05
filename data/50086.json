@@ -1,0 +1,40 @@
+{
+  "projeto_id": 50086,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50086&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "50367",
+  "tipo": "Aprovação de Projeto",
+  "autor": "FRATER ARQUITETOS ASSOCIADOS SS ( 10591601000170 )",
+  "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "12/05/2026 10:27:11",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "12/05/2026 09:57:14",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "05/05/2026 07:35:07",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "UNOTECH CONSTRUTORA E INCORPORADORA S/A"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Modificação de Projeto Com Acrescimo - UNOTECH CONSTRUTORA E INCORPORADORA - 50086.pdf",
+      "descricao": "Modificacao de Projeto Com Acrescimo - UNOTECH CONSTRUTORA E INCORPORADORA - 50086.pdf",
+      "data": "12 Mai (3 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:04.111184+00:00"
+}

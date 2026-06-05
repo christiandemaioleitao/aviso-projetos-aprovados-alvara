@@ -1,0 +1,172 @@
+{
+  "projeto_id": 45026,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=45026&TipoAlvara=2",
+  "situacao": "Publicado",
+  "numero_licenca": "46121",
+  "tipo": "Aprovação de Projeto",
+  "autor": "GUSTAVO VERAS PINTO CORDEIRO ( 88700429104 )",
+  "andamentos": [
+    {
+      "sequencia": "19",
+      "data": "25/02/2026 16:40:38",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Alvara Liberado",
+      "situacao": "Fechada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "18",
+      "data": "25/02/2026 16:40:17",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "17",
+      "data": "25/02/2026 16:04:46",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "16",
+      "data": "18/02/2026 17:01:46",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "15",
+      "data": "03/02/2026 09:10:46",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "14",
+      "data": "03/02/2026 09:10:32",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "13",
+      "data": "03/02/2026 09:10:26",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: TAXA FINAL. PROJETO APTO.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "12",
+      "data": "03/02/2026 08:04:44",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "11",
+      "data": "21/01/2026 11:13:48",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "GUSTAVO VERAS PINTO CORDEIRO"
+    },
+    {
+      "sequencia": "10",
+      "data": "11/12/2025 12:29:31",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER AO DESPACHO. PROJETO NÃO APTO.",
+      "situacao": "Aguardando",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "9",
+      "data": "10/12/2025 08:28:15",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "8",
+      "data": "04/12/2025 11:12:21",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "GUSTAVO VERAS PINTO CORDEIRO"
+    },
+    {
+      "sequencia": "7",
+      "data": "18/11/2025 13:48:44",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER AO DESPACHO. PROJETO NÃO APTO.",
+      "situacao": "Aguardando",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "6",
+      "data": "14/11/2025 10:31:32",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "5",
+      "data": "22/09/2025 17:08:35",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROJETO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "22/09/2025 17:07:13",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "27/08/2025 11:09:22",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "26/08/2025 11:34:00",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "25/07/2025 07:33:16",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE HAVEN 62 LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - SPE HAVEN 62 LTDA - 45026.pdf",
+      "descricao": "Aprovacao de Projeto - SPE HAVEN 62 LTDA - 45026.pdf",
+      "data": "27/08/2025"
+    },
+    {
+      "nome": "OS 1699899 PROJETO 45026 SPE HAVEN 62 LTDA 2371_2025.pdf",
+      "descricao": "ATENDER DESPACHO Nº 2371/ 2025 - 1ª ANÁLISE",
+      "data": "18/11/2025"
+    },
+    {
+      "nome": "OS 1699899 PROJETO 45026 SPE HAVEN 62 LTDA 2537_2025.pdf",
+      "descricao": "ATENDER DESPACHO Nº 2537/ 2025 - 2ª ANÁLISE",
+      "data": "11/12/2025"
+    },
+    {
+      "nome": "PROJETO FINAL APROVADO.rar",
+      "descricao": "PROJETO FINAL",
+      "data": "3 Fev"
+    },
+    {
+      "nome": "OS 1699899 PROJETO 45026 SPE HAVEN 62 LTDA - LAUDO.pdf",
+      "descricao": "TAXA FINAL",
+      "data": "3 Fev"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:49:47.723385+00:00"
+}

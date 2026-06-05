@@ -1,0 +1,20 @@
+{
+  "projeto_id": 50370,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50370&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "GISIELLE NASCIMENTO BRITO ( 04500149163 )",
+  "andamentos": [
+    {
+      "sequencia": "1",
+      "data": "29/05/2026 07:37:41",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "MARIA DE LOURDES OLIVEIRA BORGES FAGUNDES E OUTRO"
+    }
+  ],
+  "anexos": [],
+  "_salvo_em": "2026-06-05T16:50:21.279350+00:00"
+}

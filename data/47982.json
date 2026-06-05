@@ -1,0 +1,87 @@
+{
+  "projeto_id": 47982,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47982&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "48275",
+  "tipo": "Aprovação de Projeto",
+  "autor": "RODRIGO KERDOLE FERREIRA ( 01846364183 )",
+  "andamentos": [
+    {
+      "sequencia": "9",
+      "data": "03/06/2026 10:46:46",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARIANA ROLDI DE OLIVEIRA"
+    },
+    {
+      "sequencia": "8",
+      "data": "06/04/2026 17:52:36",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "WILLIAM MATIAS DOS SANTOS"
+    },
+    {
+      "sequencia": "7",
+      "data": "29/03/2026 23:52:42",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Atender às exigências do Despacho nº 487/2026.",
+      "situacao": "Aguardando",
+      "responsavel": "MARIANA ROLDI DE OLIVEIRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "10/02/2026 09:17:27",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARIANA ROLDI DE OLIVEIRA"
+    },
+    {
+      "sequencia": "5",
+      "data": "09/02/2026 19:33:14",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "09/02/2026 19:32:09",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "3",
+      "data": "15/01/2026 16:12:26",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "15/01/2026 16:07:01",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "03/01/2026 07:34:10",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "UBZ MARISTA 001 LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  UBZ MARISTA 001 LTDA - 47982.pdf",
+      "descricao": "Aprovacao de Projeto - UBZ MARISTA 001 LTDA - 47982.pdf",
+      "data": "15 Jan"
+    },
+    {
+      "nome": "1793257 UBZ MARISTA 001 LTDA 487_2026.pdf",
+      "descricao": "Despacho nº 487/2026 - pendências",
+      "data": "29 Mar"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:49:58.740495+00:00"
+}

@@ -1,0 +1,186 @@
+{
+  "projeto_id": 44119,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44119&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": "45573",
+  "tipo": "Aprovação de Projeto",
+  "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
+  "andamentos": [
+    {
+      "sequencia": "21",
+      "data": "03/06/2026 13:25:28",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Ver despacho 1182_2026",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "20",
+      "data": "09/05/2026 09:32:42",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "19",
+      "data": "02/04/2026 10:46:20",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "18",
+      "data": "09/01/2026 18:24:27",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Ver despacho de 1a. Reanálise_186/2026",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "17",
+      "data": "23/12/2025 09:33:17",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "16",
+      "data": "18/11/2025 17:36:14",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "15",
+      "data": "17/11/2025 11:44:09",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Ver despacho 2496_2025",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "14",
+      "data": "17/11/2025 10:42:17",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "13",
+      "data": "07/11/2025 11:32:43",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "12",
+      "data": "31/10/2025 11:48:58",
+      "descricao": "Transferência de Responsável\nMotivo: Conforme",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "11",
+      "data": "31/10/2025 11:43:48",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "10",
+      "data": "31/10/2025 11:28:52",
+      "descricao": "Transferência de Responsável\nMotivo: RETORNO PARA O CHEADV PARA QUE SEJA ANEXADO O USO DO SOLO ( DOCUMENTO OBRIGATÓRIO PARA ANALISE DE PROJETOS). O DOCUMENTO DEVE SER SOLICITADO AO INTERESSADO PARA ANEXAR AO SISTEMA. ESSE DOCUMENTO É IMPRESCINDÍVEL PARA O INICIO DA ANALISE POR SE TRATAR DE ÁREA DE VAZIO URBANO / AEIS / HIS",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "9",
+      "data": "23/10/2025 08:11:29",
+      "descricao": "Transferência de Responsável\nMotivo: SOLICITO QUE O PROJETO RETORNE PARA O CHEADV PARA QUE SEJA ANEXADO O USO DO SOLO ( DOCUMENTO OBRIGATÓRIO PARA ANALISE DE PROJETOS). O DOCUMENTO DEVE SER SOLICITADO AO INTERESSADO PARA ANEXAR AO SISTEMA. ESSE DOCUMENTO É IMPRESCINDÍVEL PARA O INICIO DA ANALISE POR SE TRATAR DE ÁREA DE VAZIO URBANO / AEIS / HIS",
+      "situacao": "Encaminhada",
+      "responsavel": "CRISTIANE MOTA NOBREGA ANDRADE"
+    },
+    {
+      "sequencia": "8",
+      "data": "23/07/2025 17:48:18",
+      "descricao": "Projeto encaminhado para analista Motivo: para análise;",
+      "situacao": "Encaminhada",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "7",
+      "data": "23/07/2025 17:32:26",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCOS ANTONIO DE CASTRO ROCHA"
+    },
+    {
+      "sequencia": "6",
+      "data": "22/07/2025 10:49:49",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "5",
+      "data": "22/07/2025 10:43:48",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "4",
+      "data": "09/07/2025 11:21:01",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "3",
+      "data": "07/07/2025 14:35:53",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências despacho 968/2025",
+      "situacao": "Aguardando",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "2",
+      "data": "23/05/2025 15:36:44",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "1",
+      "data": "07/05/2025 15:24:23",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "COPAG COMERCIAL DE PECAS AGRICOLAS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - COPAG COMERCIAL DE PECAS AGRICOLAS - 44119.pdf",
+      "descricao": "Aprovacao de Projeto - COPAG COMERCIAL DE PECAS AGRICOLAS - 44119.pdf",
+      "data": "07/07/2025"
+    },
+    {
+      "nome": "Aprovação de Projeto - COPAG COMERCIAL DE PECAS AGRICOLAS LTDA - 44119.pdf",
+      "descricao": "Aprovacao de Projeto - COPAG COMERCIAL DE PECAS AGRICOLAS LTDA - 44119.pdf",
+      "data": "22/07/2025"
+    },
+    {
+      "nome": "OS 1661006_PROJETO 44119 COPAG COMERCIAL DE PEÇAS AGRÍCOLAS LTDA_2496_2025.pdf",
+      "descricao": "Despacho primeira análise_2496_2025",
+      "data": "17/11/2025"
+    },
+    {
+      "nome": "OS 1661006 PROJETO 44119 COPAG COMERCIAL DE PEÇAS AGRÍCOLAS LTDA_186_2026.pdf",
+      "descricao": "Despacho de Primeira análise_186_2026",
+      "data": "9 Jan"
+    },
+    {
+      "nome": "OS 1661006 PROJETO 44119 COPAG COMERCIAL DE PEÇAS AGRÍCOLAS LTDA_1182_2026.pdf",
+      "descricao": "Despacho 2a. Reanálise_ 1182_2026",
+      "data": "3 Jun (2 dias atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:49:44.541825+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "projeto_id": 50435,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50435&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "50627",
+  "tipo": "Aprovação de Projeto",
+  "autor": "SPE SAC 003 EMPREENDIMENTOS LTDA ( 58606931000118 )",
+  "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "26/05/2026 14:26:49",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "25/05/2026 15:59:43",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "19/05/2026 07:35:02",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE SAC 003 EMPREENDIMENTOS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  SPE SAC 003 EMPREENDIMENTOS LTDA - 50435.pdf",
+      "descricao": "Aprovacao de Projeto - SPE SAC 003 EMPREENDIMENTOS LTDA - 50435.pdf",
+      "data": "26 Mai (10 dias atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:23.318387+00:00"
+}

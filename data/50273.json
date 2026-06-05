@@ -1,0 +1,66 @@
+{
+  "projeto_id": 50273,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50273&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "50535",
+  "tipo": "Aprovação de Projeto",
+  "autor": "REGINALDO DE SOUSA BARBOSA ( 42401100172 )",
+  "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "20/05/2026 11:11:39",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "20/05/2026 09:35:01",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "15/05/2026 13:20:06",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "REGINALDO DE SOUSA BARBOSA"
+    },
+    {
+      "sequencia": "3",
+      "data": "15/05/2026 10:23:28",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "14/05/2026 14:43:02",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "08/05/2026 07:34:54",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "HVR ADMINISTRADORA DE IMOVEIS LTDA ME"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - HVR ADMINISTRADORA DE IMOVEIS LTDA ME - 50273.pdf",
+      "descricao": "Aprovacao de Projeto - HVR ADMINISTRADORA DE IMOVEIS LTDA ME - 50273.pdf",
+      "data": "15 Mai (3 semanas atrás)"
+    },
+    {
+      "nome": "Aprovação de Projeto -  HVR ADMINISTRADORA DE IMOVEIS LTDA ME - 50273.pdf",
+      "descricao": "Aprovacao de Projeto - HVR ADMINISTRADORA DE IMOVEIS LTDA ME - 50273.pdf",
+      "data": "20 Mai (2 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:12.202187+00:00"
+}

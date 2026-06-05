@@ -1,0 +1,66 @@
+{
+  "projeto_id": 50419,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50419&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "50701",
+  "tipo": "Aprovação de Projeto",
+  "autor": "FAGNER PEREIRA NUNES DA SILVA ( 75682273168 )",
+  "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "29/05/2026 11:40:21",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "29/05/2026 11:05:26",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "22/05/2026 12:48:43",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "FAGNER PEREIRA NUNES DA SILVA"
+    },
+    {
+      "sequencia": "3",
+      "data": "20/05/2026 10:42:20",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "20/05/2026 09:35:01",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "1",
+      "data": "15/05/2026 07:35:15",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "LWR IMOVEIS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto -  LWR IMOVEIS LTDA - 50419.pdf",
+      "descricao": "Aprovacao de Projeto - LWR IMOVEIS LTDA - 50419.pdf",
+      "data": "20 Mai (2 semanas atrás)"
+    },
+    {
+      "nome": "Aprovação de Projeto - LWR IMOVEIS LTDA - 50419.pdf",
+      "descricao": "Aprovacao de Projeto - LWR IMOVEIS LTDA - 50419.pdf",
+      "data": "29 Mai (7 dias atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:19.385661+00:00"
+}

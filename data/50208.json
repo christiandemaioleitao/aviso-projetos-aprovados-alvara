@@ -1,0 +1,40 @@
+{
+  "projeto_id": 50208,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50208&TipoAlvara=2",
+  "situacao": "Pendente",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "NATO ARQUITETURA DESIGN ENGENHARIA LTDA ( 17181739000140 )",
+  "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "14/05/2026 07:59:56",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: ATENDER O DESPACHO",
+      "situacao": "Aguardando",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "14/05/2026 07:43:28",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "1",
+      "data": "08/05/2026 07:34:47",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "BUFAICAL  OLIVEIRA PARTICIPACOES LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "aprovação de projeto  BUFAICAL  OLIVEIRA PARTICIPACOES LTDA.pdf",
+      "descricao": "aprovacao de projeto BUFAICAL OLIVEIRA PARTICIPACOES LTDA.pdf",
+      "data": "14 Mai (3 semanas atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:14.402233+00:00"
+}

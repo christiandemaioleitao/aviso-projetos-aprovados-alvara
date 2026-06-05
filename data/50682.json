@@ -1,0 +1,20 @@
+{
+  "projeto_id": 50682,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50682&TipoAlvara=2",
+  "situacao": "Apto Para Análise",
+  "numero_licenca": null,
+  "tipo": "Aprovação de Projeto",
+  "autor": "FREDERICO MENDES DA ROCHA ( 86947605172 )",
+  "andamentos": [
+    {
+      "sequencia": "1",
+      "data": "29/05/2026 07:38:07",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "F. E. PARTICIPACOES LTDA"
+    }
+  ],
+  "anexos": [],
+  "_salvo_em": "2026-06-05T16:50:40.282702+00:00"
+}

@@ -1,0 +1,66 @@
+{
+  "projeto_id": 50080,
+  "tipo_alvara": 2,
+  "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50080&TipoAlvara=2",
+  "situacao": "Apto para Análise",
+  "numero_licenca": "50630",
+  "tipo": "Aprovação de Projeto",
+  "autor": "GONCALVES E AGUIAR ENGENHARIA LTDA ( 27402729000140 )",
+  "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "26/05/2026 14:47:10",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "26/05/2026 14:35:39",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "20/05/2026 12:52:00",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "GONCALVES E AGUIAR ENGENHARIA LTDA"
+    },
+    {
+      "sequencia": "3",
+      "data": "06/05/2026 15:18:34",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "2",
+      "data": "06/05/2026 11:39:52",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "1",
+      "data": "29/04/2026 07:35:16",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SOUSA LIMA ADMINSTRADORA DE BENS IMOVEIS LTDA"
+    }
+  ],
+  "anexos": [
+    {
+      "nome": "DESPACHO 1.190-2026 - APROVAÇÃO DE PROJETO - SOUSA LIMA ADMINSTRADORA DE BENS IMOVEIS LTDA - 50080.pdf",
+      "descricao": "DESPACHO 1.190-2026 - APROVACAO DE PROJETO - SOUSA LIMA ADMINSTRADORA DE BENS IMOVEIS LTDA - 50080.pdf",
+      "data": "6 Mai (4 semanas atrás)"
+    },
+    {
+      "nome": "Aprovação de Projeto - SOUSA LIMA ADMINSTRADORA DE BENS IMOVEIS LTDA - 50080.pdf",
+      "descricao": "Aprovacao de Projeto - SOUSA LIMA ADMINSTRADORA DE BENS IMOVEIS LTDA - 50080.pdf",
+      "data": "26 Mai (10 dias atrás)"
+    }
+  ],
+  "_salvo_em": "2026-06-05T16:50:03.603421+00:00"
+}
