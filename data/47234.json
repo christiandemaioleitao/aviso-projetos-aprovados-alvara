@@ -2,11 +2,32 @@
   "projeto_id": 47234,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47234&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": "47987",
   "tipo": "Aprovação de Projeto",
   "autor": "MAGEN CONSTRUTORA LTDA ( 23562830000108 )",
   "andamentos": [
+    {
+      "sequencia": "10",
+      "data": "08/06/2026 11:40:12",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "MAGEN CONSTRUTORA LTDA"
+    },
+    {
+      "sequencia": "9",
+      "data": "08/06/2026 11:40:02",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "MAGEN CONSTRUTORA LTDA"
+    },
+    {
+      "sequencia": "8",
+      "data": "08/06/2026 11:39:53",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "MAGEN CONSTRUTORA LTDA"
+    },
     {
       "sequencia": "7",
       "data": "23/03/2026 17:09:13",
@@ -69,5 +90,5 @@
       "data": "23 Mar"
     }
   ],
-  "_salvo_em": "2026-06-05T16:49:56.618547+00:00"
+  "_salvo_em": "2026-06-08T14:52:14.747501+00:00"
 }

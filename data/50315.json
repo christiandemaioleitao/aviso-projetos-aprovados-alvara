@@ -3,10 +3,24 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50315&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "50791",
   "tipo": "Aprovação de Projeto",
   "autor": "BRASAL INCORPORACOES SA ( 00323063000340 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "08/06/2026 09:29:18",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "08/06/2026 08:37:39",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
     {
       "sequencia": "1",
       "data": "26/05/2026 07:36:38",
@@ -15,6 +29,12 @@
       "responsavel": "INC36 BRASAL INCORPORACOES IMOBILIARIAS LTDA"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:19.773256+00:00"
+  "anexos": [
+    {
+      "nome": "Modificação de Projeto Com Acrescimo -  INC36 BRASAL INCORPORACOES IMOBILIARIAS LTDA - 50315.pdf",
+      "descricao": "Modificacao de Projeto Com Acrescimo - INC36 BRASAL INCORPORACOES IMOBILIARIAS LTDA - 50315.pdf",
+      "data": "hoje"
+    }
+  ],
+  "_salvo_em": "2026-06-08T14:52:37.006396+00:00"
 }
