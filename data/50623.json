@@ -2,11 +2,25 @@
   "projeto_id": 50623,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50623&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "KATIUSCE CRISTINE FAGUNDES DE OLIVEIRA ( 99074524168 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "09/06/2026 08:22:37",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: DOCUMENTAÇÃO",
+      "situacao": "Aguardando",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "09/06/2026 08:01:16",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
     {
       "sequencia": "1",
       "data": "27/05/2026 07:37:35",
@@ -15,6 +29,12 @@
       "responsavel": "ALEXANDRE DE BORBA FERREIRA PAIVA"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:35.431014+00:00"
+  "anexos": [
+    {
+      "nome": "aprovação de projeto ALEXANDRE DE BORBA FERREIRA PAIVA.pdf",
+      "descricao": "aprovacao de projeto ALEXANDRE DE BORBA FERREIRA PAIVA.pdf",
+      "data": "today"
+    }
+  ],
+  "_salvo_em": "2026-06-09T13:48:41.309566+00:00"
 }

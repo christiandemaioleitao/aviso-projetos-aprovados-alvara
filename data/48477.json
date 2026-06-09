@@ -2,11 +2,18 @@
   "projeto_id": 48477,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=48477&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "49655",
   "tipo": "Aprovação de Projeto",
   "autor": "FERNANDO PALMERSTON DE ALMEIDA ( 01037171101 )",
   "andamentos": [
+    {
+      "sequencia": "10",
+      "data": "08/06/2026 15:15:11",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: projeto nao apto. atender ao despacho 1125-2026",
+      "situacao": "Aguardando",
+      "responsavel": "CRISTIANE MOTA NOBREGA ANDRADE"
+    },
     {
       "sequencia": "9",
       "data": "01/06/2026 08:40:07",
@@ -80,8 +87,13 @@
     {
       "nome": "Aprovação de Projeto - RP015 CONSTRUTORA E INCORPORADORA SPE LTDA - 48477.pdf",
       "descricao": "Aprovacao de Projeto - RP015 CONSTRUTORA E INCORPORADORA SPE LTDA - 48477.pdf",
-      "data": "6 Abr"
+      "data": "6 Apr"
+    },
+    {
+      "nome": "OS 1814145 PROJETO 48477 RP015 CONSTRUTORA E INCORPORADORA SPE LTDA 1125-2026.pdf",
+      "descricao": "1ª ANALISE",
+      "data": "yesterday"
     }
   ],
-  "_salvo_em": "2026-06-01T16:45:45.050688+00:00"
+  "_salvo_em": "2026-06-09T13:47:45.433853+00:00"
 }
