@@ -8,6 +8,13 @@
   "autor": "ILEZIO INACIO FERREIRA ( 07072244115 )",
   "andamentos": [
     {
+      "sequencia": "9",
+      "data": "09/06/2026 11:55:17",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
       "sequencia": "8",
       "data": "29/05/2026 16:24:02",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -73,8 +80,8 @@
     {
       "nome": "OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA_1127_2026.pdf",
       "descricao": "Despacho de Primeira Análise 1127_2026",
-      "data": "12 Mai (3 semanas atrás)"
+      "data": "12 May (4 weeks ago)"
     }
   ],
-  "_salvo_em": "2026-06-05T16:49:59.433924+00:00"
+  "_salvo_em": "2026-06-10T14:28:46.465836+00:00"
 }

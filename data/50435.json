@@ -8,6 +8,20 @@
   "autor": "SPE SAC 003 EMPREENDIMENTOS LTDA ( 58606931000118 )",
   "andamentos": [
     {
+      "sequencia": "5",
+      "data": "10/06/2026 10:59:23",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "10/06/2026 10:57:08",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
       "sequencia": "3",
       "data": "26/05/2026 14:26:49",
       "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
@@ -33,8 +47,8 @@
     {
       "nome": "Aprovação de Projeto -  SPE SAC 003 EMPREENDIMENTOS LTDA - 50435.pdf",
       "descricao": "Aprovacao de Projeto - SPE SAC 003 EMPREENDIMENTOS LTDA - 50435.pdf",
-      "data": "26 Mai (10 dias atrás)"
+      "data": "26 May (2 weeks ago)"
     }
   ],
-  "_salvo_em": "2026-06-05T16:50:23.318387+00:00"
+  "_salvo_em": "2026-06-10T14:29:12.301310+00:00"
 }

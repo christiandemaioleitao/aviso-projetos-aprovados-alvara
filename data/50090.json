@@ -3,10 +3,17 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50090&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "50838",
   "tipo": "Aprovação de Projeto",
   "autor": "KAROLAINE IZEQUIEL DE MORAES ( 04365692135 )",
   "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "09/06/2026 14:11:38",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
     {
       "sequencia": "5",
       "data": "01/06/2026 14:55:06",
@@ -47,8 +54,13 @@
     {
       "nome": "DESPACHO 1.229-2026 - APROVAÇÃO DE PROJETO - EMPRO ALX PARTICIPACOES LTDA - 50090.pdf",
       "descricao": "DESPACHO 1.229-2026 - APROVACAO DE PROJETO - EMPRO ALX PARTICIPACOES LTDA - 50090.pdf",
-      "data": "7 Mai (4 semanas atrás)"
+      "data": "7 May"
+    },
+    {
+      "nome": "Aprovação de Projeto - EMPRO ALX PARTICIPACOES LTDA - 50090.pdf",
+      "descricao": "Aprovacao de Projeto - EMPRO ALX PARTICIPACOES LTDA - 50090.pdf",
+      "data": "yesterday"
     }
   ],
-  "_salvo_em": "2026-06-05T16:50:04.729513+00:00"
+  "_salvo_em": "2026-06-10T14:28:50.222310+00:00"
 }

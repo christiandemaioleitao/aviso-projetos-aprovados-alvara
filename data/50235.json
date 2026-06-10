@@ -8,6 +8,13 @@
   "autor": "ANAMARIA DINIZ ARQUITETOS ASSOCIADOS LTDA ( 31534599000177 )",
   "andamentos": [
     {
+      "sequencia": "5",
+      "data": "10/06/2026 09:08:05",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
       "sequencia": "4",
       "data": "28/05/2026 16:46:50",
       "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
@@ -40,8 +47,8 @@
     {
       "nome": "aprovação de projeto RUFFO DE FREITAS JUNIOR.pdf",
       "descricao": "aprovacao de projeto RUFFO DE FREITAS JUNIOR.pdf",
-      "data": "14 Mai (3 semanas atrás)"
+      "data": "14 May (4 weeks ago)"
     }
   ],
-  "_salvo_em": "2026-06-05T16:50:13.873264+00:00"
+  "_salvo_em": "2026-06-10T14:28:55.631121+00:00"
 }

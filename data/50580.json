@@ -3,10 +3,24 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50580&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "50854",
   "tipo": "Aprovação de Projeto",
   "autor": "SEBASTIAO MARTINS DE SOUSA FILHO ( 35550430134 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "10/06/2026 10:31:56",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "10/06/2026 09:08:04",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
     {
       "sequencia": "1",
       "data": "27/05/2026 07:37:30",
@@ -15,6 +29,12 @@
       "responsavel": "DANIEL HENRIQUE BOTELHO"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:29.645933+00:00"
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - DANIEL HENRIQUE BOTELHO - 50580.pdf",
+      "descricao": "Aprovacao de Projeto - DANIEL HENRIQUE BOTELHO - 50580.pdf",
+      "data": "today"
+    }
+  ],
+  "_salvo_em": "2026-06-10T14:29:17.214144+00:00"
 }

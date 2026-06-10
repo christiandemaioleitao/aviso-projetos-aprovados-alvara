@@ -2,11 +2,18 @@
   "projeto_id": 47982,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47982&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "48275",
   "tipo": "Aprovação de Projeto",
   "autor": "RODRIGO KERDOLE FERREIRA ( 01846364183 )",
   "andamentos": [
+    {
+      "sequencia": "10",
+      "data": "10/06/2026 01:53:31",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Atender ao Despacho nº 969/2026.",
+      "situacao": "Aguardando",
+      "responsavel": "MARIANA ROLDI DE OLIVEIRA"
+    },
     {
       "sequencia": "9",
       "data": "03/06/2026 10:46:46",
@@ -81,7 +88,12 @@
       "nome": "1793257 UBZ MARISTA 001 LTDA 487_2026.pdf",
       "descricao": "Despacho nº 487/2026 - pendências",
       "data": "29 Mar"
+    },
+    {
+      "nome": "1793257 UBZ MARISTA 001 LTDA 969_2026.pdf",
+      "descricao": "Despacho nº 969/2026",
+      "data": "today"
     }
   ],
-  "_salvo_em": "2026-06-05T16:49:58.740495+00:00"
+  "_salvo_em": "2026-06-10T14:28:42.900863+00:00"
 }

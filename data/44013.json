@@ -8,6 +8,34 @@
   "autor": "CMO CONSTRUTORA SA ( 02802833000100 )",
   "andamentos": [
     {
+      "sequencia": "27",
+      "data": "09/06/2026 17:34:29",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "26",
+      "data": "09/06/2026 11:54:44",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "25",
+      "data": "09/06/2026 11:54:24",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "24",
+      "data": "09/06/2026 11:54:12",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: Projeto apto para aprovação",
+      "situacao": "Encaminhada",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
       "sequencia": "23",
       "data": "25/03/2026 16:51:56",
       "descricao": "Solicitação recebida",
@@ -184,7 +212,17 @@
       "nome": "OS 1657941 PROJETO 44013 CMO EMPREENDIMENTOS IMOBILIÁRIOS SPE 22_2762_2025.pdf",
       "descricao": "Despacho primeira reanálise -  Despacho 2762_2025",
       "data": "16/12/2025"
+    },
+    {
+      "nome": "Laudo apto_OS 1657941 PROJETO 44013 CMO EMPREENDIMENTOS IMOBILIÁRIOS SPE 22.pdf",
+      "descricao": "Laudo apto para revisão de taxa",
+      "data": "yesterday"
+    },
+    {
+      "nome": "Projeto apto_SP22-ARQ-PL-001-R09.pdf",
+      "descricao": "Projeto apto para aprovação",
+      "data": "yesterday"
     }
   ],
-  "_salvo_em": "2026-05-29T14:13:13.672789+00:00"
+  "_salvo_em": "2026-06-10T14:28:22.755022+00:00"
 }

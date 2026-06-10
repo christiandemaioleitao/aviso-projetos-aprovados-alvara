@@ -2,11 +2,19 @@
   "projeto_id": 50695,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50695&TipoAlvara=2",
-  "situacao": "Aguardando Pagamento taxa Inicial",
+  "situacao": "Apto para Análise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "JULIANA ALVES RIBEIRO ( 02746461102 )",
-  "andamentos": [],
+  "andamentos": [
+    {
+      "sequencia": "1",
+      "data": "10/06/2026 07:35:33",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "HERISSOM ANTONIO CARDOSO ALMEIDA"
+    }
+  ],
   "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:39.833848+00:00"
+  "_salvo_em": "2026-06-10T14:29:28.836764+00:00"
 }
