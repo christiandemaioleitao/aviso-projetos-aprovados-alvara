@@ -3,10 +3,17 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50235&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "50861",
   "tipo": "Aprovação de Projeto",
   "autor": "ANAMARIA DINIZ ARQUITETOS ASSOCIADOS LTDA ( 31534599000177 )",
   "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "10/06/2026 14:30:31",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
     {
       "sequencia": "5",
       "data": "10/06/2026 09:08:05",
@@ -48,7 +55,12 @@
       "nome": "aprovação de projeto RUFFO DE FREITAS JUNIOR.pdf",
       "descricao": "aprovacao de projeto RUFFO DE FREITAS JUNIOR.pdf",
       "data": "14 May (4 weeks ago)"
+    },
+    {
+      "nome": "Aprovação de Projeto - RUFFO DE FREITAS JUNIOR  - 50235.pdf",
+      "descricao": "Aprovacao de Projeto - RUFFO DE FREITAS JUNIOR - 50235.pdf",
+      "data": "yesterday"
     }
   ],
-  "_salvo_em": "2026-06-10T14:28:55.631121+00:00"
+  "_salvo_em": "2026-06-11T14:52:30.529415+00:00"
 }

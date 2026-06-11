@@ -2,11 +2,32 @@
   "projeto_id": 44013,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44013&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Aguardando PagamentoTaxa Execução de Obra",
   "numero_licenca": "45293",
   "tipo": "Aprovação de Projeto",
   "autor": "CMO CONSTRUTORA SA ( 02802833000100 )",
   "andamentos": [
+    {
+      "sequencia": "30",
+      "data": "11/06/2026 07:28:56",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Alvara Liberado",
+      "situacao": "Fechada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "29",
+      "data": "11/06/2026 07:28:26",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "28",
+      "data": "10/06/2026 16:36:07",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
     {
       "sequencia": "27",
       "data": "09/06/2026 17:34:29",
@@ -216,13 +237,13 @@
     {
       "nome": "Laudo apto_OS 1657941 PROJETO 44013 CMO EMPREENDIMENTOS IMOBILIÁRIOS SPE 22.pdf",
       "descricao": "Laudo apto para revisão de taxa",
-      "data": "yesterday"
+      "data": "9 Jun (2 dias atrás)"
     },
     {
       "nome": "Projeto apto_SP22-ARQ-PL-001-R09.pdf",
       "descricao": "Projeto apto para aprovação",
-      "data": "yesterday"
+      "data": "9 Jun (2 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-06-10T14:28:22.755022+00:00"
+  "_salvo_em": "2026-06-11T14:52:01.195964+00:00"
 }

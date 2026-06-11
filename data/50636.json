@@ -3,10 +3,24 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50636&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "50880",
   "tipo": "Aprovação de Projeto",
   "autor": "WERBETH MEDEIROS BEZERRA ( 01719008124 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "11/06/2026 07:24:13",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "11/06/2026 07:07:58",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
     {
       "sequencia": "1",
       "data": "28/05/2026 07:37:42",
@@ -15,6 +29,12 @@
       "responsavel": "YAMADA RODRIGUES PARTICIPACOES LTDA"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:33.282800+00:00"
+  "anexos": [
+    {
+      "nome": "aprovação de projeto YAMADA RODRIGUES PARTICIPACOES LTDA.pdf",
+      "descricao": "aprovacao de projeto YAMADA RODRIGUES PARTICIPACOES LTDA.pdf",
+      "data": "today"
+    }
+  ],
+  "_salvo_em": "2026-06-11T14:52:52.367430+00:00"
 }

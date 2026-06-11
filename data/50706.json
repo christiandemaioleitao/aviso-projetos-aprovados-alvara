@@ -2,11 +2,25 @@
   "projeto_id": 50706,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50706&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "FRANCINELLI SANTANA CALIL ( 03254587154 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "11/06/2026 09:45:09",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "11/06/2026 08:59:42",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
     {
       "sequencia": "1",
       "data": "30/05/2026 07:37:42",
@@ -15,6 +29,12 @@
       "responsavel": "MARIA JULIA PARREIRA"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:36.700620+00:00"
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - MARIA JULIA PARREIRA - 50706.pdf",
+      "descricao": "Aprovacao de Projeto - MARIA JULIA PARREIRA - 50706.pdf",
+      "data": "hoje"
+    }
+  ],
+  "_salvo_em": "2026-06-11T14:52:53.158557+00:00"
 }

@@ -8,6 +8,13 @@
   "autor": "VINICIUS ALMEIDA MACHADO ( 86187996100 )",
   "andamentos": [
     {
+      "sequencia": "5",
+      "data": "10/06/2026 15:17:35",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
       "sequencia": "4",
       "data": "03/06/2026 08:17:02",
       "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
@@ -40,8 +47,8 @@
     {
       "nome": "Modificação de Projeto Com Acrescimo -  NANCY GARCIA GOMES - 50558.pdf",
       "descricao": "Modificacao de Projeto Com Acrescimo - NANCY GARCIA GOMES - 50558.pdf",
-      "data": "25 Mai (11 dias atrás)"
+      "data": "25 May (2 weeks ago)"
     }
   ],
-  "_salvo_em": "2026-06-05T16:50:27.816430+00:00"
+  "_salvo_em": "2026-06-11T14:52:42.503950+00:00"
 }

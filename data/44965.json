@@ -2,11 +2,18 @@
   "projeto_id": 44965,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44965&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": "47773",
   "tipo": "Aprovação de Projeto",
   "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
   "andamentos": [
+    {
+      "sequencia": "20",
+      "data": "10/06/2026 14:55:34",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA"
+    },
     {
       "sequencia": "19",
       "data": "04/05/2026 10:19:03",
@@ -175,8 +182,8 @@
     {
       "nome": "OS 1687712 - 44965 TRIPOLI CONSTRUTORA LTDA 1003-2026.pdf",
       "descricao": "2ª REANALISE",
-      "data": "4 Mai (4 semanas atrás)"
+      "data": "4 May"
     }
   ],
-  "_salvo_em": "2026-05-29T14:14:02.551754+00:00"
+  "_salvo_em": "2026-06-11T14:52:24.665850+00:00"
 }

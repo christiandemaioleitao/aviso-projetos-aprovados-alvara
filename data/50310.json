@@ -3,10 +3,24 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50310&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "50879",
   "tipo": "Aprovação de Projeto",
   "autor": "MARYANNA MAGALHAES GONCALVES ( 00000618160 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "11/06/2026 07:16:12",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "11/06/2026 07:07:58",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
     {
       "sequencia": "1",
       "data": "28/05/2026 07:37:17",
@@ -15,6 +29,12 @@
       "responsavel": "MARCELO TALARICO MARQUES"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:17.196542+00:00"
+  "anexos": [
+    {
+      "nome": "aprovação de projeto MARCELO TALARICO MARQUES.pdf",
+      "descricao": "aprovacao de projeto MARCELO TALARICO MARQUES.pdf",
+      "data": "today"
+    }
+  ],
+  "_salvo_em": "2026-06-11T14:52:30.943024+00:00"
 }

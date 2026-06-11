@@ -8,6 +8,13 @@
   "autor": "A F SILVA ARQUITETURA ( 33923500000154 )",
   "andamentos": [
     {
+      "sequencia": "6",
+      "data": "11/06/2026 11:26:01",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
+    {
       "sequencia": "5",
       "data": "15/05/2026 10:52:02",
       "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PRJETO ARQUITETÔNICO",
@@ -47,8 +54,8 @@
     {
       "nome": "APROVAÇÃO DE PROJETO SPE RUA 21 CENTRO EMPREENDIMENTO IMOBILIARIO LTDA.pdf",
       "descricao": "APROVACAO DE PROJETO SPE RUA 21 CENTRO EMPREENDIMENTO IMOBILIARIO LTDA.pdf",
-      "data": "27 Abr (3 semanas atrás)"
+      "data": "27 Abr"
     }
   ],
-  "_salvo_em": "2026-05-16T11:59:43.192567+00:00"
+  "_salvo_em": "2026-06-11T14:52:20.657159+00:00"
 }
