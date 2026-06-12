@@ -2,7 +2,7 @@
   "projeto_id": 44013,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44013&TipoAlvara=2",
-  "situacao": "Aguardando PagamentoTaxa Execução de Obra",
+  "situacao": "Publicado",
   "numero_licenca": "45293",
   "tipo": "Aprovação de Projeto",
   "autor": "CMO CONSTRUTORA SA ( 02802833000100 )",
@@ -237,13 +237,13 @@
     {
       "nome": "Laudo apto_OS 1657941 PROJETO 44013 CMO EMPREENDIMENTOS IMOBILIÁRIOS SPE 22.pdf",
       "descricao": "Laudo apto para revisão de taxa",
-      "data": "9 Jun (2 dias atrás)"
+      "data": "9 Jun (3 dias atrás)"
     },
     {
       "nome": "Projeto apto_SP22-ARQ-PL-001-R09.pdf",
       "descricao": "Projeto apto para aprovação",
-      "data": "9 Jun (2 dias atrás)"
+      "data": "9 Jun (3 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-06-11T14:52:01.195964+00:00"
+  "_salvo_em": "2026-06-12T14:14:04.759783+00:00"
 }

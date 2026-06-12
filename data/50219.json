@@ -3,10 +3,24 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50219&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "50913",
   "tipo": "Aprovação de Projeto",
   "autor": "VEGA CONSTRUTORA E INCORPORACOES LTDA ( 02342988000100 )",
   "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "12/06/2026 09:02:43",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "5",
+      "data": "12/06/2026 08:39:52",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
     {
       "sequencia": "4",
       "data": "02/06/2026 11:15:09",
@@ -40,8 +54,13 @@
     {
       "nome": "Aprovação de Projeto - VEGA CONSTRUTORA XXX LTDA - 50219.pdf",
       "descricao": "Aprovacao de Projeto - VEGA CONSTRUTORA XXX LTDA - 50219.pdf",
-      "data": "18 Mai (3 semanas atrás)"
+      "data": "18 May (4 weeks ago)"
+    },
+    {
+      "nome": "aprovação de projeto VEGA CONSTRUTORA XXX LTDA...pdf",
+      "descricao": "aprovacao de projeto VEGA CONSTRUTORA XXX LTDA...pdf",
+      "data": "today"
     }
   ],
-  "_salvo_em": "2026-06-05T16:50:11.523614+00:00"
+  "_salvo_em": "2026-06-12T14:14:37.878203+00:00"
 }
