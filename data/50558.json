@@ -2,11 +2,18 @@
   "projeto_id": 50558,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50558&TipoAlvara=2",
-  "situacao": "Apto para Reanálise",
+  "situacao": "Pendente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "VINICIUS ALMEIDA MACHADO ( 86187996100 )",
   "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "12/06/2026 14:16:32",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
     {
       "sequencia": "5",
       "data": "10/06/2026 15:17:35",
@@ -47,8 +54,13 @@
     {
       "nome": "Modificação de Projeto Com Acrescimo -  NANCY GARCIA GOMES - 50558.pdf",
       "descricao": "Modificacao de Projeto Com Acrescimo - NANCY GARCIA GOMES - 50558.pdf",
-      "data": "25 May (2 weeks ago)"
+      "data": "25 May (3 weeks ago)"
+    },
+    {
+      "nome": "Modificação de Projeto Com Acrescimo -  NANCY GARCIA GOMES - 50558 --.pdf",
+      "descricao": "Modificacao de Projeto Com Acrescimo - NANCY GARCIA GOMES - 50558 --.pdf",
+      "data": "yesterday"
     }
   ],
-  "_salvo_em": "2026-06-11T14:52:42.503950+00:00"
+  "_salvo_em": "2026-06-13T12:56:44.819709+00:00"
 }

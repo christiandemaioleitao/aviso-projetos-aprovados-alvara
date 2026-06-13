@@ -2,11 +2,18 @@
   "projeto_id": 48974,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=48974&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "49230",
   "tipo": "Aprovação de Projeto",
   "autor": "ILEZIO INACIO FERREIRA ( 07072244115 )",
   "andamentos": [
+    {
+      "sequencia": "10",
+      "data": "12/06/2026 18:13:54",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Ver despacho 1340_2026",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
     {
       "sequencia": "9",
       "data": "09/06/2026 11:55:17",
@@ -80,8 +87,13 @@
     {
       "nome": "OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA_1127_2026.pdf",
       "descricao": "Despacho de Primeira Análise 1127_2026",
-      "data": "12 May (4 weeks ago)"
+      "data": "12 Mai"
+    },
+    {
+      "nome": "OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA_1340_2026.pdf",
+      "descricao": "Despacho de Primeira Reanálise 1340_2026",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-06-10T14:28:46.465836+00:00"
+  "_salvo_em": "2026-06-13T12:56:15.181790+00:00"
 }
