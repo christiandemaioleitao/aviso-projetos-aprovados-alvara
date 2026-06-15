@@ -8,6 +8,55 @@
   "autor": "ILEZIO INACIO FERREIRA ( 07072244115 )",
   "andamentos": [
     {
+      "sequencia": "18",
+      "data": "15/06/2026 12:42:03",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "17",
+      "data": "15/06/2026 12:31:38",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "16",
+      "data": "15/06/2026 11:14:19",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "15",
+      "data": "15/06/2026 09:57:54",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "14",
+      "data": "15/06/2026 09:55:24",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "13",
+      "data": "15/06/2026 09:55:03",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: Projeto apto para aprovação",
+      "situacao": "Encaminhada",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "12",
+      "data": "15/06/2026 08:06:52",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
       "sequencia": "11",
       "data": "13/06/2026 10:46:45",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -94,13 +143,23 @@
     {
       "nome": "OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA_1127_2026.pdf",
       "descricao": "Despacho de Primeira Análise 1127_2026",
-      "data": "12 Mai"
+      "data": "12 May"
     },
     {
       "nome": "OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA_1340_2026.pdf",
       "descricao": "Despacho de Primeira Reanálise 1340_2026",
-      "data": "12 Jun (2 dias atrás)"
+      "data": "12 Jun (3 days ago)"
+    },
+    {
+      "nome": "Laudo apto_OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA.pdf",
+      "descricao": "Laudo para  liberação de taxa OS 1836982_PROJETO 48974",
+      "data": "today"
+    },
+    {
+      "nome": "Projeto apto_OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA.pdf",
+      "descricao": "Projeto apto_OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA.pdf",
+      "data": "today"
     }
   ],
-  "_salvo_em": "2026-06-14T13:02:36.850975+00:00"
+  "_salvo_em": "2026-06-15T16:23:05.254939+00:00"
 }

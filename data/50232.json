@@ -2,11 +2,19 @@
   "projeto_id": 50232,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50232&TipoAlvara=2",
-  "situacao": "Aguardando Pagamento Taxa Inicial",
+  "situacao": "Apto Para Análise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "GUSTAVO CALIXTO DA SILVA ( 03741015156 )",
-  "andamentos": [],
+  "andamentos": [
+    {
+      "sequencia": "1",
+      "data": "15/06/2026 07:33:36",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "SPE MILAO MALL EMPREENDIMENTO IMOBILIARIO LTDA"
+    }
+  ],
   "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:11.838955+00:00"
+  "_salvo_em": "2026-06-15T16:23:21.759045+00:00"
 }

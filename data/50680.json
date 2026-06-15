@@ -2,11 +2,25 @@
   "projeto_id": 50680,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50680&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "FRANCINELLI SANTANA CALIL ( 03254587154 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "15/06/2026 07:14:38",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Atender o despacho",
+      "situacao": "Aguardando",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "15/06/2026 06:31:35",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
     {
       "sequencia": "1",
       "data": "03/06/2026 07:35:30",
@@ -15,6 +29,12 @@
       "responsavel": "ELIESLEY GOULART VIEIRA E OUTRO"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:36.137431+00:00"
+  "anexos": [
+    {
+      "nome": "aprovação de projeto  ELIESLEY GOULART VIEIRA E OUTRO.pdf",
+      "descricao": "aprovacao de projeto ELIESLEY GOULART VIEIRA E OUTRO.pdf",
+      "data": "hoje"
+    }
+  ],
+  "_salvo_em": "2026-06-15T16:23:42.667808+00:00"
 }

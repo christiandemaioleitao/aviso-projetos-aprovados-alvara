@@ -2,11 +2,18 @@
   "projeto_id": 50682,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50682&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto Para Análise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "FREDERICO MENDES DA ROCHA ( 86947605172 )",
   "andamentos": [
+    {
+      "sequencia": "4",
+      "data": "15/06/2026 08:57:30",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "FREDERICO MENDES DA ROCHA"
+    },
     {
       "sequencia": "3",
       "data": "08/06/2026 14:29:46",
@@ -33,8 +40,8 @@
     {
       "nome": "Alvara de Acréscimo - F. E. PARTICIPACOES LTDA - 50682.pdf",
       "descricao": "Alvara de Acrescimo - F. E. PARTICIPACOES LTDA - 50682.pdf",
-      "data": "yesterday"
+      "data": "8 Jun (7 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-06-09T13:48:40.473504+00:00"
+  "_salvo_em": "2026-06-15T16:23:48.817909+00:00"
 }
