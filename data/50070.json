@@ -2,11 +2,19 @@
   "projeto_id": 50070,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50070&TipoAlvara=2",
-  "situacao": "Aguardando Pagamento taxa Inicial",
+  "situacao": "Apto para Análise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "GUILHERME BARBOSA MOREIRA ( 75790149120 )",
-  "andamentos": [],
+  "andamentos": [
+    {
+      "sequencia": "1",
+      "data": "16/06/2026 07:33:52",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "MILAGRES ADMINISTRADORA DE IMOVEIS LTDA"
+    }
+  ],
   "anexos": [],
-  "_salvo_em": "2026-06-15T16:23:07.571824+00:00"
+  "_salvo_em": "2026-06-16T16:02:25.091302+00:00"
 }

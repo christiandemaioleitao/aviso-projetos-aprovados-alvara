@@ -2,11 +2,18 @@
   "projeto_id": 50612,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50612&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "HUGO FERNANDES RIBAS JUNIOR ( 05099563198 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "15/06/2026 15:41:03",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
     {
       "sequencia": "2",
       "data": "10/06/2026 09:08:04",
@@ -22,6 +29,12 @@
       "responsavel": "U B UTILIDADES LIMITADA"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-10T14:29:24.601651+00:00"
+  "anexos": [
+    {
+      "nome": "Aprovação de Projeto - U B UTILIDADES LIMITADA - 50612.pdf",
+      "descricao": "Aprovacao de Projeto - U B UTILIDADES LIMITADA - 50612.pdf",
+      "data": "ontem"
+    }
+  ],
+  "_salvo_em": "2026-06-16T16:02:41.468524+00:00"
 }

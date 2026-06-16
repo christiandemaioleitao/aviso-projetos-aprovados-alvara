@@ -8,6 +8,27 @@
   "autor": "CASSIO EDUARDO PEREIRA ( 82055750100 )",
   "andamentos": [
     {
+      "sequencia": "6",
+      "data": "15/06/2026 16:40:39",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "15/06/2026 16:07:13",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "4",
+      "data": "15/06/2026 13:57:42",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "CASSIO EDUARDO PEREIRA"
+    },
+    {
       "sequencia": "3",
       "data": "15/06/2026 07:00:21",
       "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: atender o despacho",
@@ -33,8 +54,13 @@
     {
       "nome": "aprovação de projeto  CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA.pdf",
       "descricao": "aprovacao de projeto CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA.pdf",
-      "data": "hoje"
+      "data": "ontem"
+    },
+    {
+      "nome": "Aprovação de Projeto - CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50634.pdf",
+      "descricao": "Aprovacao de Projeto - CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50634.pdf",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-06-15T16:23:42.202561+00:00"
+  "_salvo_em": "2026-06-16T16:02:47.162189+00:00"
 }

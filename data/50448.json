@@ -2,11 +2,19 @@
   "projeto_id": 50448,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50448&TipoAlvara=2",
-  "situacao": "Aguardando Pagamento Taxa Inicial",
+  "situacao": "Apto Para Análise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "VICENTE PORFIRIO PESSOA ( 03224821191 )",
-  "andamentos": [],
+  "andamentos": [
+    {
+      "sequencia": "1",
+      "data": "16/06/2026 07:33:57",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "L.A.G PARTICIPACOES LTDA"
+    }
+  ],
   "anexos": [],
-  "_salvo_em": "2026-06-11T14:52:45.472983+00:00"
+  "_salvo_em": "2026-06-16T16:02:35.483740+00:00"
 }

@@ -2,11 +2,19 @@
   "projeto_id": 50150,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50150&TipoAlvara=2",
-  "situacao": "Aguardando Pagamento Taxa Inicial",
+  "situacao": "Apto Para Análise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "GUSTAVO VERAS PINTO CORDEIRO ( 88700429104 )",
-  "andamentos": [],
+  "andamentos": [
+    {
+      "sequencia": "1",
+      "data": "16/06/2026 07:33:53",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "T7 PARTICIPACOES LTDA"
+    }
+  ],
   "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:09.649753+00:00"
+  "_salvo_em": "2026-06-16T16:02:23.071524+00:00"
 }

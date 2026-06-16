@@ -2,11 +2,60 @@
   "projeto_id": 48974,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=48974&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Publicado",
   "numero_licenca": "49230",
   "tipo": "Aprovação de Projeto",
   "autor": "ILEZIO INACIO FERREIRA ( 07072244115 )",
   "andamentos": [
+    {
+      "sequencia": "25",
+      "data": "16/06/2026 11:22:18",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Número de unidades na observação corrigido conforme preenchido no sistema e projeto aprovado. Documentação e projeto deferidos.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "24",
+      "data": "16/06/2026 11:19:09",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "23",
+      "data": "16/06/2026 11:19:01",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "22",
+      "data": "15/06/2026 16:51:01",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Documentação e projeto deferidos, apto à emissão de taxa final.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "21",
+      "data": "15/06/2026 16:50:01",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "20",
+      "data": "15/06/2026 16:49:48",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "19",
+      "data": "15/06/2026 16:48:01",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
     {
       "sequencia": "18",
       "data": "15/06/2026 12:42:03",
@@ -143,23 +192,23 @@
     {
       "nome": "OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA_1127_2026.pdf",
       "descricao": "Despacho de Primeira Análise 1127_2026",
-      "data": "12 May"
+      "data": "12 Mai"
     },
     {
       "nome": "OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA_1340_2026.pdf",
       "descricao": "Despacho de Primeira Reanálise 1340_2026",
-      "data": "12 Jun (3 days ago)"
+      "data": "12 Jun (4 dias atrás)"
     },
     {
       "nome": "Laudo apto_OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA.pdf",
       "descricao": "Laudo para  liberação de taxa OS 1836982_PROJETO 48974",
-      "data": "today"
+      "data": "ontem"
     },
     {
       "nome": "Projeto apto_OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA.pdf",
       "descricao": "Projeto apto_OS1836982 PROJETO 48974 CONSCIENTE CONST. E INCORP. SPE 0036 LTDA.pdf",
-      "data": "today"
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-06-15T16:23:05.254939+00:00"
+  "_salvo_em": "2026-06-16T16:02:14.508629+00:00"
 }

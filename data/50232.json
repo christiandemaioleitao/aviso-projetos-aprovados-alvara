@@ -8,6 +8,13 @@
   "autor": "GUSTAVO CALIXTO DA SILVA ( 03741015156 )",
   "andamentos": [
     {
+      "sequencia": "2",
+      "data": "15/06/2026 15:10:10",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "JOAO PAULO MONTANDON SOUZA"
+    },
+    {
       "sequencia": "1",
       "data": "15/06/2026 07:33:36",
       "descricao": "Solicitação Aberta.",
@@ -16,5 +23,5 @@
     }
   ],
   "anexos": [],
-  "_salvo_em": "2026-06-15T16:23:21.759045+00:00"
+  "_salvo_em": "2026-06-16T16:02:29.643159+00:00"
 }
