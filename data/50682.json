@@ -8,6 +8,20 @@
   "autor": "FREDERICO MENDES DA ROCHA ( 86947605172 )",
   "andamentos": [
     {
+      "sequencia": "7",
+      "data": "17/06/2026 11:16:52",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "JOAO PAULO MONTANDON SOUZA"
+    },
+    {
+      "sequencia": "6",
+      "data": "17/06/2026 10:56:39",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "JOAO PAULO MONTANDON SOUZA"
+    },
+    {
       "sequencia": "5",
       "data": "15/06/2026 15:10:10",
       "descricao": "Solicitação recebida",
@@ -47,8 +61,13 @@
     {
       "nome": "Alvara de Acréscimo - F. E. PARTICIPACOES LTDA - 50682.pdf",
       "descricao": "Alvara de Acrescimo - F. E. PARTICIPACOES LTDA - 50682.pdf",
-      "data": "8 Jun (8 dias atrás)"
+      "data": "8 Jun (9 dias atrás)"
+    },
+    {
+      "nome": "ALVARÁ DE ACRÉSCIMO - Despacho n. 1450, F. E. PARTICIPACOES LTDA - 50682.pdf",
+      "descricao": "ALVARA DE ACRESCIMO - Despacho n. 1450, F. E. PARTICIPACOES LTDA - 50682.pdf",
+      "data": "hoje"
     }
   ],
-  "_salvo_em": "2026-06-16T16:02:49.707352+00:00"
+  "_salvo_em": "2026-06-17T14:29:46.324482+00:00"
 }

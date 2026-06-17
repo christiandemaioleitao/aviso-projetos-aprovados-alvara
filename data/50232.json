@@ -2,11 +2,18 @@
   "projeto_id": 50232,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50232&TipoAlvara=2",
-  "situacao": "Apto Para Análise",
+  "situacao": "Pendente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "GUSTAVO CALIXTO DA SILVA ( 03741015156 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "17/06/2026 08:37:45",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
+      "situacao": "Aguardando",
+      "responsavel": "JOAO PAULO MONTANDON SOUZA"
+    },
     {
       "sequencia": "2",
       "data": "15/06/2026 15:10:10",
@@ -22,6 +29,12 @@
       "responsavel": "SPE MILAO MALL EMPREENDIMENTO IMOBILIARIO LTDA"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-16T16:02:29.643159+00:00"
+  "anexos": [
+    {
+      "nome": "AUTORIZAÇÃO DE REFORMA - Despacho n. 1449, SPE MILAO MALL - 50232.pdf",
+      "descricao": "Resolver pendências",
+      "data": "hoje"
+    }
+  ],
+  "_salvo_em": "2026-06-17T14:29:15.337534+00:00"
 }

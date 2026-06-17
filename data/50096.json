@@ -8,6 +8,13 @@
   "autor": "BRUNO VERAS PINTO CORDEIRO ( 02146439726 )",
   "andamentos": [
     {
+      "sequencia": "8",
+      "data": "17/06/2026 11:22:37",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "JOAO PAULO MONTANDON SOUZA"
+    },
+    {
       "sequencia": "7",
       "data": "15/06/2026 15:45:35",
       "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
@@ -66,8 +73,8 @@
     {
       "nome": "Modificação de Projeto Com Acrescimo -  ESCOLA ETHOS LTDA - 50096.pdf",
       "descricao": "Modificacao de Projeto Com Acrescimo - ESCOLA ETHOS LTDA - 50096.pdf",
-      "data": "12 Jun (4 dias atrás)"
+      "data": "12 Jun (5 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-06-16T16:02:26.290033+00:00"
+  "_salvo_em": "2026-06-17T14:29:07.146752+00:00"
 }
