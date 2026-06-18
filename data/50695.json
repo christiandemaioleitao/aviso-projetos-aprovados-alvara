@@ -2,11 +2,25 @@
   "projeto_id": 50695,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50695&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "JULIANA ALVES RIBEIRO ( 02746461102 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "18/06/2026 06:59:43",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: ATENDER O DESPACHO",
+      "situacao": "Aguardando",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "18/06/2026 06:10:00",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
     {
       "sequencia": "1",
       "data": "10/06/2026 07:35:33",
@@ -15,6 +29,12 @@
       "responsavel": "HERISSOM ANTONIO CARDOSO ALMEIDA"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-10T14:29:28.836764+00:00"
+  "anexos": [
+    {
+      "nome": "aprovação de projeto   HERISSOM ANTONIO CARDOSO ALMEIDA.pdf",
+      "descricao": "aprovacao de projeto HERISSOM ANTONIO CARDOSO ALMEIDA.pdf",
+      "data": "hoje"
+    }
+  ],
+  "_salvo_em": "2026-06-18T14:20:55.172165+00:00"
 }

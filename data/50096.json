@@ -3,10 +3,17 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50096&TipoAlvara=2",
   "situacao": "Apto para Reanálise",
-  "numero_licenca": null,
+  "numero_licenca": "51001",
   "tipo": "Aprovação de Projeto",
   "autor": "BRUNO VERAS PINTO CORDEIRO ( 02146439726 )",
   "andamentos": [
+    {
+      "sequencia": "9",
+      "data": "17/06/2026 14:40:42",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "JOAO PAULO MONTANDON SOUZA"
+    },
     {
       "sequencia": "8",
       "data": "17/06/2026 11:22:37",
@@ -73,8 +80,13 @@
     {
       "nome": "Modificação de Projeto Com Acrescimo -  ESCOLA ETHOS LTDA - 50096.pdf",
       "descricao": "Modificacao de Projeto Com Acrescimo - ESCOLA ETHOS LTDA - 50096.pdf",
-      "data": "12 Jun (5 dias atrás)"
+      "data": "12 Jun (6 dias atrás)"
+    },
+    {
+      "nome": "Modificação com Acréscimo - DIRAAP - Despacho n. 1451, ESCOLA ETHOS LTDA - 50096.pdf",
+      "descricao": "Documentação correta",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-06-17T14:29:07.146752+00:00"
+  "_salvo_em": "2026-06-18T14:20:25.084428+00:00"
 }
