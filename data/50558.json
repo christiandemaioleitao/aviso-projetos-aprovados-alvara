@@ -2,11 +2,25 @@
   "projeto_id": 50558,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50558&TipoAlvara=2",
-  "situacao": "Apto para Reanálise",
+  "situacao": "Pendente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "VINICIUS ALMEIDA MACHADO ( 86187996100 )",
   "andamentos": [
+    {
+      "sequencia": "9",
+      "data": "19/06/2026 10:40:47",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: resolver pendência",
+      "situacao": "Aguardando",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
+    {
+      "sequencia": "8",
+      "data": "19/06/2026 10:25:17",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARCO TULIO SOUTO VILELA"
+    },
     {
       "sequencia": "7",
       "data": "16/06/2026 15:12:38",
@@ -61,13 +75,18 @@
     {
       "nome": "Modificação de Projeto Com Acrescimo -  NANCY GARCIA GOMES - 50558.pdf",
       "descricao": "Modificacao de Projeto Com Acrescimo - NANCY GARCIA GOMES - 50558.pdf",
-      "data": "25 Mai (3 semanas atrás)"
+      "data": "25 Mai (4 semanas atrás)"
     },
     {
       "nome": "Modificação de Projeto Com Acrescimo -  NANCY GARCIA GOMES - 50558 --.pdf",
       "descricao": "Modificacao de Projeto Com Acrescimo - NANCY GARCIA GOMES - 50558 --.pdf",
-      "data": "12 Jun (5 dias atrás)"
+      "data": "12 Jun (7 dias atrás)"
+    },
+    {
+      "nome": "DESPACHO 1490-2026 - MODIFICAÇÃO COM ACRESCIMO - NANCY GARCIA GOMES - 50558.pdf",
+      "descricao": "DESPACHO 1490-2026 - MODIFICACAO COM ACRESCIMO - NANCY GARCIA GOMES - 50558.pdf",
+      "data": "hoje"
     }
   ],
-  "_salvo_em": "2026-06-17T14:29:40.558744+00:00"
+  "_salvo_em": "2026-06-19T14:19:26.180965+00:00"
 }

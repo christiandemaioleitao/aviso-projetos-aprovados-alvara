@@ -8,6 +8,20 @@
   "autor": "GUSTAVO CALIXTO DA SILVA ( 03741015156 )",
   "andamentos": [
     {
+      "sequencia": "6",
+      "data": "19/06/2026 06:54:30",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "5",
+      "data": "19/06/2026 06:50:30",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
       "sequencia": "4",
       "data": "18/06/2026 10:14:52",
       "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
@@ -40,8 +54,13 @@
     {
       "nome": "AUTORIZAÇÃO DE REFORMA - Despacho n. 1449, SPE MILAO MALL - 50232.pdf",
       "descricao": "Resolver pendências",
-      "data": "ontem"
+      "data": "17 Jun (2 dias atrás)"
+    },
+    {
+      "nome": "autorização reforma SPE MILAO MALL EMPREENDIMENTO IMOBILIARIO LTDA.pdf",
+      "descricao": "autorizacao reforma SPE MILAO MALL EMPREENDIMENTO IMOBILIARIO LTDA.pdf",
+      "data": "hoje"
     }
   ],
-  "_salvo_em": "2026-06-18T14:20:21.150586+00:00"
+  "_salvo_em": "2026-06-19T14:19:09.765408+00:00"
 }
