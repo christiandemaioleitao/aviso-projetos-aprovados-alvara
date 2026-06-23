@@ -2,11 +2,18 @@
   "projeto_id": 49404,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49404&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Reanálise",
   "numero_licenca": "49916",
   "tipo": "Aprovação de Projeto",
   "autor": "MARINA MATOS GOMES JUNQUEIRA ( 01068979186 )",
   "andamentos": [
+    {
+      "sequencia": "8",
+      "data": "22/06/2026 17:13:43",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "MARINA MATOS GOMES JUNQUEIRA"
+    },
     {
       "sequencia": "7",
       "data": "28/05/2026 16:48:17",
@@ -66,8 +73,8 @@
     {
       "nome": "OS 1854091_49404 SPE INCORPORAÇÃO URLE C8 LTDA 1148_2026.pdf",
       "descricao": "DESPACHO Nº 1148/2026 - 1ª ANÁLISE",
-      "data": "ontem"
+      "data": "28 Mai (4 semanas atrás)"
     }
   ],
-  "_salvo_em": "2026-05-29T14:13:33.636452+00:00"
+  "_salvo_em": "2026-06-23T13:46:21.957979+00:00"
 }

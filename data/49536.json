@@ -8,6 +8,13 @@
   "autor": "CAROLINA FRANCA LACERDA ( 00679778128 )",
   "andamentos": [
     {
+      "sequencia": "12",
+      "data": "23/06/2026 08:39:22",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
+    {
       "sequencia": "11",
       "data": "11/06/2026 10:32:57",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -99,8 +106,8 @@
     {
       "nome": "OS 1863568 PROJETO 49536 NB URBANISMO LTDA 951_2026.pdf",
       "descricao": "Primeira análise. Segue despacho 951/2026 em anexo.",
-      "data": "12 Mai (4 semanas atrás)"
+      "data": "12 Mai"
     }
   ],
-  "_salvo_em": "2026-06-11T14:52:19.809046+00:00"
+  "_salvo_em": "2026-06-23T13:46:23.451611+00:00"
 }
