@@ -8,6 +8,13 @@
   "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
   "andamentos": [
     {
+      "sequencia": "21",
+      "data": "24/06/2026 06:59:22",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CRISTIANE MOTA NOBREGA ANDRADE"
+    },
+    {
       "sequencia": "20",
       "data": "10/06/2026 14:55:34",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -182,8 +189,13 @@
     {
       "nome": "OS 1687712 - 44965 TRIPOLI CONSTRUTORA LTDA 1003-2026.pdf",
       "descricao": "2ª REANALISE",
-      "data": "4 May"
+      "data": "4 Mai"
+    },
+    {
+      "nome": "OS 1687712 - 44965 TRIPOLI CONSTRUTORA LTDA 1003-2026.pdf",
+      "descricao": "2ª REANALISE ( CORRETAMENTE A NUMERACAO DA ANALISE)",
+      "data": "hoje"
     }
   ],
-  "_salvo_em": "2026-06-11T14:52:24.665850+00:00"
+  "_salvo_em": "2026-06-24T13:27:07.522969+00:00"
 }
