@@ -8,6 +8,13 @@
   "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
   "andamentos": [
     {
+      "sequencia": "12",
+      "data": "24/06/2026 14:13:17",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
       "sequencia": "11",
       "data": "10/04/2026 09:51:16",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -107,5 +114,5 @@
       "data": "12 Fev"
     }
   ],
-  "_salvo_em": "2026-06-05T16:49:56.099768+00:00"
+  "_salvo_em": "2026-06-25T13:24:33.460713+00:00"
 }

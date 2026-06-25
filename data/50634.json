@@ -2,11 +2,18 @@
   "projeto_id": 50634,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50634&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "CASSIO EDUARDO PEREIRA ( 82055750100 )",
   "andamentos": [
+    {
+      "sequencia": "7",
+      "data": "24/06/2026 15:24:21",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "CASSIO EDUARDO PEREIRA"
+    },
     {
       "sequencia": "6",
       "data": "15/06/2026 16:40:39",
@@ -54,13 +61,13 @@
     {
       "nome": "aprovação de projeto  CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA.pdf",
       "descricao": "aprovacao de projeto CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA.pdf",
-      "data": "ontem"
+      "data": "15 Jun (10 dias atrás)"
     },
     {
       "nome": "Aprovação de Projeto - CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50634.pdf",
       "descricao": "Aprovacao de Projeto - CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50634.pdf",
-      "data": "ontem"
+      "data": "15 Jun (10 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-06-16T16:02:47.162189+00:00"
+  "_salvo_em": "2026-06-25T13:25:23.608805+00:00"
 }

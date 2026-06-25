@@ -8,6 +8,13 @@
   "autor": "RODRIGO KERDOLE FERREIRA ( 01846364183 )",
   "andamentos": [
     {
+      "sequencia": "12",
+      "data": "24/06/2026 10:56:17",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARIANA ROLDI DE OLIVEIRA"
+    },
+    {
       "sequencia": "11",
       "data": "16/06/2026 11:42:38",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -99,8 +106,8 @@
     {
       "nome": "1793257 UBZ MARISTA 001 LTDA 969_2026.pdf",
       "descricao": "Despacho nº 969/2026",
-      "data": "10 Jun (6 dias atrás)"
+      "data": "10 Jun (2 weeks ago)"
     }
   ],
-  "_salvo_em": "2026-06-16T16:02:12.656160+00:00"
+  "_salvo_em": "2026-06-25T13:24:35.584832+00:00"
 }
