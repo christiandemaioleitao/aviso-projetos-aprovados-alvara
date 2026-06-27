@@ -2,11 +2,18 @@
   "projeto_id": 49536,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49536&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "50118",
   "tipo": "Aprovação de Projeto",
   "autor": "CAROLINA FRANCA LACERDA ( 00679778128 )",
   "andamentos": [
+    {
+      "sequencia": "13",
+      "data": "26/06/2026 13:25:29",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Reanálise 1. Segue Despacho 954/2026 em anexo.",
+      "situacao": "Aguardando",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
     {
       "sequencia": "12",
       "data": "23/06/2026 08:39:22",
@@ -107,7 +114,12 @@
       "nome": "OS 1863568 PROJETO 49536 NB URBANISMO LTDA 951_2026.pdf",
       "descricao": "Primeira análise. Segue despacho 951/2026 em anexo.",
       "data": "12 Mai"
+    },
+    {
+      "nome": "OS 1863568 PROJETO 49536 NB URBANISMO LTDA 954_2026.pdf",
+      "descricao": "Reanálise 1. Segue Despacho 954/2026 em anexo.",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-06-23T13:46:23.451611+00:00"
+  "_salvo_em": "2026-06-27T12:15:29.275473+00:00"
 }

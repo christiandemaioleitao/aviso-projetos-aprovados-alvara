@@ -2,11 +2,18 @@
   "projeto_id": 50563,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50563&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "PEDRO HENRIQUE DE ALVARENGA ( 70037911104 )",
   "andamentos": [
+    {
+      "sequencia": "4",
+      "data": "26/06/2026 15:56:28",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "PEDRO HENRIQUE DE ALVARENGA"
+    },
     {
       "sequencia": "3",
       "data": "09/06/2026 12:00:37",
@@ -33,8 +40,8 @@
     {
       "nome": "Aprovação de Projeto - RAMON SOUZA BARTILOTE - 50563.pdf",
       "descricao": "Aprovacao de Projeto - RAMON SOUZA BARTILOTE - 50563.pdf",
-      "data": "yesterday"
+      "data": "9 Jun (3 semanas atrás)"
     }
   ],
-  "_salvo_em": "2026-06-10T14:29:16.957788+00:00"
+  "_salvo_em": "2026-06-27T12:15:51.254886+00:00"
 }

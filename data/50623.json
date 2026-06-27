@@ -8,6 +8,13 @@
   "autor": "KATIUSCE CRISTINE FAGUNDES DE OLIVEIRA ( 99074524168 )",
   "andamentos": [
     {
+      "sequencia": "5",
+      "data": "26/06/2026 11:13:17",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "JOAO PAULO MONTANDON SOUZA"
+    },
+    {
       "sequencia": "4",
       "data": "22/06/2026 07:38:42",
       "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
@@ -40,8 +47,8 @@
     {
       "nome": "aprovação de projeto ALEXANDRE DE BORBA FERREIRA PAIVA.pdf",
       "descricao": "aprovacao de projeto ALEXANDRE DE BORBA FERREIRA PAIVA.pdf",
-      "data": "9 Jun (13 dias atrás)"
+      "data": "9 Jun (3 weeks ago)"
     }
   ],
-  "_salvo_em": "2026-06-22T15:59:27.223169+00:00"
+  "_salvo_em": "2026-06-27T12:15:54.518757+00:00"
 }
