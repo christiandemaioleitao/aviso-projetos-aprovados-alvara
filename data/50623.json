@@ -3,10 +3,17 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50623&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "51168",
   "tipo": "Aprovação de Projeto",
   "autor": "KATIUSCE CRISTINE FAGUNDES DE OLIVEIRA ( 99074524168 )",
   "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "29/06/2026 11:06:23",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "JOAO PAULO MONTANDON SOUZA"
+    },
     {
       "sequencia": "5",
       "data": "26/06/2026 11:13:17",
@@ -47,8 +54,8 @@
     {
       "nome": "aprovação de projeto ALEXANDRE DE BORBA FERREIRA PAIVA.pdf",
       "descricao": "aprovacao de projeto ALEXANDRE DE BORBA FERREIRA PAIVA.pdf",
-      "data": "9 Jun (3 weeks ago)"
+      "data": "9 Jun (3 semanas atrás)"
     }
   ],
-  "_salvo_em": "2026-06-27T12:15:54.518757+00:00"
+  "_salvo_em": "2026-06-29T14:52:56.907421+00:00"
 }
