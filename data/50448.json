@@ -2,11 +2,25 @@
   "projeto_id": 50448,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50448&TipoAlvara=2",
-  "situacao": "Apto Para Análise",
+  "situacao": "Pendente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "VICENTE PORFIRIO PESSOA ( 03224821191 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "30/06/2026 10:13:36",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "30/06/2026 08:37:29",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
     {
       "sequencia": "1",
       "data": "16/06/2026 07:33:57",
@@ -15,6 +29,12 @@
       "responsavel": "L.A.G PARTICIPACOES LTDA"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-16T16:02:35.483740+00:00"
+  "anexos": [
+    {
+      "nome": "Modificação de Projeto Sem Acrescimo - T7 PARTICIPACOES LTDA - 50150.pdf",
+      "descricao": "Modificacao de Projeto Sem Acrescimo - T7 PARTICIPACOES LTDA - 50150.pdf",
+      "data": "hoje"
+    }
+  ],
+  "_salvo_em": "2026-06-30T13:13:39.014059+00:00"
 }

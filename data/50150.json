@@ -2,11 +2,25 @@
   "projeto_id": 50150,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50150&TipoAlvara=2",
-  "situacao": "Apto Para Análise",
+  "situacao": "Pendente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "GUSTAVO VERAS PINTO CORDEIRO ( 88700429104 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "30/06/2026 10:06:56",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: \nResolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "2",
+      "data": "30/06/2026 08:37:29",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
     {
       "sequencia": "1",
       "data": "16/06/2026 07:33:53",
@@ -15,6 +29,12 @@
       "responsavel": "T7 PARTICIPACOES LTDA"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-16T16:02:23.071524+00:00"
+  "anexos": [
+    {
+      "nome": "Modificação de Projeto Sem Acrescimo - T7 PARTICIPACOES LTDA - 50150.pdf",
+      "descricao": "Modificacao de Projeto Sem Acrescimo - T7 PARTICIPACOES LTDA - 50150.pdf",
+      "data": "hoje"
+    }
+  ],
+  "_salvo_em": "2026-06-30T13:13:23.458990+00:00"
 }
