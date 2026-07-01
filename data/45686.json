@@ -8,6 +8,13 @@
   "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
   "andamentos": [
     {
+      "sequencia": "12",
+      "data": "30/06/2026 15:26:04",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
       "sequencia": "11",
       "data": "29/04/2026 10:42:24",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -102,5 +109,5 @@
       "data": "17 Mar"
     }
   ],
-  "_salvo_em": "2026-06-05T16:49:48.434348+00:00"
+  "_salvo_em": "2026-07-01T13:39:15.094966+00:00"
 }

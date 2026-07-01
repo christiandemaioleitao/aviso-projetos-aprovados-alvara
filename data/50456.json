@@ -2,11 +2,19 @@
   "projeto_id": 50456,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50456&TipoAlvara=2",
-  "situacao": "Aguardando Pagamento taxa Inicial",
+  "situacao": "Apto para Análise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "AGENCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES ( 03520933000106 )",
-  "andamentos": [],
+  "andamentos": [
+    {
+      "sequencia": "1",
+      "data": "01/07/2026 07:35:03",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "ESTADO DE GOIAS"
+    }
+  ],
   "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:21.533098+00:00"
+  "_salvo_em": "2026-07-01T13:40:03.431162+00:00"
 }

@@ -2,11 +2,46 @@
   "projeto_id": 47982,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47982&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": "48275",
   "tipo": "Aprovação de Projeto",
   "autor": "RODRIGO KERDOLE FERREIRA ( 01846364183 )",
   "andamentos": [
+    {
+      "sequencia": "18",
+      "data": "30/06/2026 22:42:14",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "MARIANA ROLDI DE OLIVEIRA"
+    },
+    {
+      "sequencia": "17",
+      "data": "30/06/2026 22:41:48",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARIANA ROLDI DE OLIVEIRA"
+    },
+    {
+      "sequencia": "16",
+      "data": "30/06/2026 22:41:38",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: Projeto apto encaminhado à gerência para prosseguimento.",
+      "situacao": "Encaminhada",
+      "responsavel": "MARIANA ROLDI DE OLIVEIRA"
+    },
+    {
+      "sequencia": "15",
+      "data": "30/06/2026 18:08:41",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MARIANA ROLDI DE OLIVEIRA"
+    },
+    {
+      "sequencia": "14",
+      "data": "30/06/2026 12:58:23",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "RODRIGO KERDOLE FERREIRA"
+    },
     {
       "sequencia": "13",
       "data": "29/06/2026 21:21:50",
@@ -118,8 +153,13 @@
     {
       "nome": "1793257 UBZ MARISTA 001 LTDA 1363_2026.pdf",
       "descricao": "Despacho nº 1363/2026",
+      "data": "29 Jun (2 dias atrás)"
+    },
+    {
+      "nome": "LAUDO TÉCNICO.pdf",
+      "descricao": "LAUDO TÉCNICO DA ANÁLISE",
       "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-06-30T13:13:16.862693+00:00"
+  "_salvo_em": "2026-07-01T13:39:26.943568+00:00"
 }

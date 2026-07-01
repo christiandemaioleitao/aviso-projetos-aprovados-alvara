@@ -8,6 +8,13 @@
   "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
   "andamentos": [
     {
+      "sequencia": "2",
+      "data": "30/06/2026 11:07:53",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
       "sequencia": "1",
       "data": "20/06/2026 07:34:48",
       "descricao": "Solicitação Aberta.",
@@ -16,5 +23,5 @@
     }
   ],
   "anexos": [],
-  "_salvo_em": "2026-06-20T12:58:22.199645+00:00"
+  "_salvo_em": "2026-07-01T13:40:20.345088+00:00"
 }
