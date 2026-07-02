@@ -2,11 +2,18 @@
   "projeto_id": 47490,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47490&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "48315",
   "tipo": "Aprovação de Projeto",
   "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
   "andamentos": [
+    {
+      "sequencia": "13",
+      "data": "01/07/2026 11:59:07",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO nº 1395/2026 - 1ª REANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
     {
       "sequencia": "12",
       "data": "24/06/2026 14:13:17",
@@ -112,7 +119,12 @@
       "nome": "OS 1768855_47490 SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA 0346_2026.pdf",
       "descricao": "DESPACHO Nº 343/2026 - 1ª ANÁLISE",
       "data": "12 Fev"
+    },
+    {
+      "nome": "OS 1768855_47490 SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA 1395_2026.pdf",
+      "descricao": "DESPACHO nº 1395/2026 - 1ª REANÁLISE",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-06-25T13:24:33.460713+00:00"
+  "_salvo_em": "2026-07-02T13:03:58.043105+00:00"
 }

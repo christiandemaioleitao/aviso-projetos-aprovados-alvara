@@ -8,6 +8,13 @@
   "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
   "andamentos": [
     {
+      "sequencia": "10",
+      "data": "01/07/2026 12:40:37",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
       "sequencia": "9",
       "data": "12/01/2026 18:17:07",
       "descricao": "Projeto redistribuido.",
@@ -83,5 +90,5 @@
       "data": "10/11/2025"
     }
   ],
-  "_salvo_em": "2026-05-11T01:21:37.545720+00:00"
+  "_salvo_em": "2026-07-02T13:03:51.778101+00:00"
 }

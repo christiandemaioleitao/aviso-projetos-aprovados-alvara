@@ -8,6 +8,13 @@
   "autor": "RODRIGO KERDOLE FERREIRA ( 01846364183 )",
   "andamentos": [
     {
+      "sequencia": "19",
+      "data": "01/07/2026 11:28:19",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
       "sequencia": "18",
       "data": "30/06/2026 22:42:14",
       "descricao": "Laudo anexado, encaminhado para gerência acatar.",
@@ -153,13 +160,13 @@
     {
       "nome": "1793257 UBZ MARISTA 001 LTDA 1363_2026.pdf",
       "descricao": "Despacho nº 1363/2026",
-      "data": "29 Jun (2 dias atrás)"
+      "data": "29 Jun (3 dias atrás)"
     },
     {
       "nome": "LAUDO TÉCNICO.pdf",
       "descricao": "LAUDO TÉCNICO DA ANÁLISE",
-      "data": "ontem"
+      "data": "30 Jun (2 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-07-01T13:39:26.943568+00:00"
+  "_salvo_em": "2026-07-02T13:03:59.222308+00:00"
 }
