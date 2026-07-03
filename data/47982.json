@@ -2,11 +2,32 @@
   "projeto_id": 47982,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47982&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Publicado",
   "numero_licenca": "48275",
   "tipo": "Aprovação de Projeto",
   "autor": "RODRIGO KERDOLE FERREIRA ( 01846364183 )",
   "andamentos": [
+    {
+      "sequencia": "22",
+      "data": "02/07/2026 16:04:08",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Documentação e Projeto deferidos, apto à emissão de taxa final.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "21",
+      "data": "02/07/2026 15:58:10",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "20",
+      "data": "02/07/2026 15:57:16",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
     {
       "sequencia": "19",
       "data": "01/07/2026 11:28:19",
@@ -160,13 +181,18 @@
     {
       "nome": "1793257 UBZ MARISTA 001 LTDA 1363_2026.pdf",
       "descricao": "Despacho nº 1363/2026",
-      "data": "29 Jun (3 dias atrás)"
+      "data": "29 Jun (4 dias atrás)"
     },
     {
       "nome": "LAUDO TÉCNICO.pdf",
       "descricao": "LAUDO TÉCNICO DA ANÁLISE",
-      "data": "30 Jun (2 dias atrás)"
+      "data": "30 Jun (3 dias atrás)"
+    },
+    {
+      "nome": "PDF PROJETO APROVADO 47982.rar",
+      "descricao": "PDF PROJETO APROVADO 47982.rar",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-02T13:03:59.222308+00:00"
+  "_salvo_em": "2026-07-03T13:04:37.214766+00:00"
 }

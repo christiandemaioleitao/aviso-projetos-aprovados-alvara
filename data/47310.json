@@ -2,11 +2,18 @@
   "projeto_id": 47310,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47310&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Reanálise",
   "numero_licenca": "48085",
   "tipo": "Aprovação de Projeto",
   "autor": "NORTE DESIGN ARQUITETOS ASSOCIADOS S/S ( 26900903000112 )",
   "andamentos": [
+    {
+      "sequencia": "11",
+      "data": "02/07/2026 11:24:05",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "NORTE DESIGN ARQUITETOS ASSOCIADOS S/S"
+    },
     {
       "sequencia": "10",
       "data": "08/06/2026 17:09:42",
@@ -92,8 +99,8 @@
     {
       "nome": "OS 1774344_47310 SPE RESIDENCIAL FUTURO 04 1151_2026.pdf",
       "descricao": "DESPACHO Nº 1151/2026 - 1ª REANÁLISE",
-      "data": "yesterday"
+      "data": "8 Jun (4 semanas atrás)"
     }
   ],
-  "_salvo_em": "2026-06-09T13:47:44.041090+00:00"
+  "_salvo_em": "2026-07-03T13:04:35.101114+00:00"
 }

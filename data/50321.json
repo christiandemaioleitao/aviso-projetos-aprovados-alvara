@@ -2,11 +2,19 @@
   "projeto_id": 50321,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50321&TipoAlvara=2",
-  "situacao": "Aguardando Pagamento Taxa Inicial",
+  "situacao": "Apto Para Análise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "DC ENGENHARIA LTDA ( 15522569000194 )",
-  "andamentos": [],
+  "andamentos": [
+    {
+      "sequencia": "1",
+      "data": "03/07/2026 07:39:28",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "MURILLO  DE FARIA FERRO"
+    }
+  ],
   "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:26.493628+00:00"
+  "_salvo_em": "2026-07-03T13:08:30.863257+00:00"
 }
