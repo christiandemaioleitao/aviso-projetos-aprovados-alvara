@@ -8,6 +8,13 @@
   "autor": "FERNANDO PALMERSTON DE ALMEIDA ( 01037171101 )",
   "andamentos": [
     {
+      "sequencia": "12",
+      "data": "06/07/2026 08:28:40",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CRISTIANE MOTA NOBREGA ANDRADE"
+    },
+    {
       "sequencia": "11",
       "data": "23/06/2026 15:45:26",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -99,8 +106,8 @@
     {
       "nome": "OS 1814145 PROJETO 48477 RP015 CONSTRUTORA E INCORPORADORA SPE LTDA 1125-2026.pdf",
       "descricao": "1ª ANALISE",
-      "data": "8 Jun (2 semanas atrás)"
+      "data": "8 Jun (4 semanas atrás)"
     }
   ],
-  "_salvo_em": "2026-06-24T13:27:24.517992+00:00"
+  "_salvo_em": "2026-07-06T14:33:52.242928+00:00"
 }
