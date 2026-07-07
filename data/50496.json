@@ -2,7 +2,7 @@
   "projeto_id": 50496,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50496&TipoAlvara=2",
-  "situacao": "Auditagem",
+  "situacao": "Auditado Inconsistente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "HEVLLEN MARCIA NASCIMENTO SILVA LOVO ( 03435314109 )",
@@ -11,8 +11,8 @@
     {
       "nome": "N1384 - 2026 -  PROCESSO 50496 - 03.07.2026 ANALISE 1.pdf",
       "descricao": "PRIMEIRA ANÁLISE - 1384/2026",
-      "data": "today"
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-06T14:34:18.731266+00:00"
+  "_salvo_em": "2026-07-07T13:25:38.663829+00:00"
 }

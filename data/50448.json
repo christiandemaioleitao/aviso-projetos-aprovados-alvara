@@ -2,11 +2,18 @@
   "projeto_id": 50448,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50448&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto Para Reanálise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "VICENTE PORFIRIO PESSOA ( 03224821191 )",
   "andamentos": [
+    {
+      "sequencia": "4",
+      "data": "07/07/2026 08:17:10",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "VICENTE PORFIRIO PESSOA"
+    },
     {
       "sequencia": "3",
       "data": "30/06/2026 10:13:36",
@@ -33,8 +40,8 @@
     {
       "nome": "Modificação de Projeto Sem Acrescimo - L.A.G PARTICIPACOES LTDA - 50448.pdf",
       "descricao": "Modificacao de Projeto Sem Acrescimo - L.A.G PARTICIPACOES LTDA - 50448.pdf",
-      "data": "ontem"
+      "data": "2 Jul (5 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-07-03T13:08:40.532944+00:00"
+  "_salvo_em": "2026-07-07T13:25:36.354345+00:00"
 }
