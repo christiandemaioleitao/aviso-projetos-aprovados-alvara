@@ -2,11 +2,18 @@
   "projeto_id": 45686,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=45686&TipoAlvara=2",
-  "situacao": "Apto para Reanálise",
+  "situacao": "Pendente",
   "numero_licenca": "46356",
   "tipo": "Aprovação de Projeto",
   "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
   "andamentos": [
+    {
+      "sequencia": "13",
+      "data": "07/07/2026 10:53:12",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER AO DESPACHO. PROJETO NÃO APTO.",
+      "situacao": "Aguardando",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
     {
       "sequencia": "12",
       "data": "30/06/2026 15:26:04",
@@ -107,7 +114,12 @@
       "nome": "OS 1703021 PROJETO 45686 ROSA BRANCA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA 770_2026.pdf",
       "descricao": "ATENDER AO DESPACHO Nº 770/2026 - 2ª ANÁLISE",
       "data": "17 Mar"
+    },
+    {
+      "nome": "OS 1703021 PROJETO 45686 ROSA BRANCA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA 1285_2026.pdf",
+      "descricao": "ATENDER AO DESPACHO Nº 12853/ 2026 - 2ª ANÁLISE",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-01T13:39:15.094966+00:00"
+  "_salvo_em": "2026-07-08T12:48:54.052198+00:00"
 }

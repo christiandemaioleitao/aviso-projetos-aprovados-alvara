@@ -2,7 +2,7 @@
   "projeto_id": 50113,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50113&TipoAlvara=2",
-  "situacao": "Auditado Inconsistente",
+  "situacao": "Em Reanálise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "LEONARDO JESUINO ROMANO DE SOUSA ( 54876737134 )",
@@ -11,13 +11,13 @@
     {
       "nome": "LAUDO 1199 - PROJETO 50113.pdf",
       "descricao": "LAUDO 1199 - PROJETO 50113.pdf",
-      "data": "30 Jun (4 dias atrás)"
+      "data": "30 Jun (8 dias atrás)"
     },
     {
       "nome": "LAUDO 1199 R - PROJETO 50113.pdf",
       "descricao": "LAUDO 1199 R - PROJETO 50113.pdf",
-      "data": "ontem"
+      "data": "3 Jul (5 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-07-04T12:13:54.768863+00:00"
+  "_salvo_em": "2026-07-08T12:49:26.231480+00:00"
 }

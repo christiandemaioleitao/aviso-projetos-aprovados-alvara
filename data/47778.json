@@ -2,11 +2,18 @@
   "projeto_id": 47778,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47778&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": "48153",
   "tipo": "Aprovação de Projeto",
   "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
   "andamentos": [
+    {
+      "sequencia": "8",
+      "data": "07/07/2026 10:57:19",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA"
+    },
     {
       "sequencia": "7",
       "data": "23/01/2026 10:33:16",
@@ -69,5 +76,5 @@
       "data": "23 Jan"
     }
   ],
-  "_salvo_em": "2026-05-11T01:21:13.614965+00:00"
+  "_salvo_em": "2026-07-08T12:49:07.788149+00:00"
 }

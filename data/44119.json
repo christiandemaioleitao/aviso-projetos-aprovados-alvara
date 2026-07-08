@@ -2,11 +2,18 @@
   "projeto_id": 44119,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44119&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": "45573",
   "tipo": "Aprovação de Projeto",
   "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
   "andamentos": [
+    {
+      "sequencia": "22",
+      "data": "07/07/2026 17:32:59",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
     {
       "sequencia": "21",
       "data": "03/06/2026 13:25:28",
@@ -179,8 +186,8 @@
     {
       "nome": "OS 1661006 PROJETO 44119 COPAG COMERCIAL DE PEÇAS AGRÍCOLAS LTDA_1182_2026.pdf",
       "descricao": "Despacho 2a. Reanálise_ 1182_2026",
-      "data": "3 Jun (2 dias atrás)"
+      "data": "3 Jun"
     }
   ],
-  "_salvo_em": "2026-06-05T16:49:44.541825+00:00"
+  "_salvo_em": "2026-07-08T12:48:46.862874+00:00"
 }

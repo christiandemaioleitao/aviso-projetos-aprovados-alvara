@@ -2,11 +2,19 @@
   "projeto_id": 50694,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50694&TipoAlvara=2",
-  "situacao": "Aguardando Pagamento Taxa Inicial",
+  "situacao": "Apto Para Análise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "NATO ARQUITETURA DESIGN ENGENHARIA LTDA ( 17181739000140 )",
-  "andamentos": [],
+  "andamentos": [
+    {
+      "sequencia": "1",
+      "data": "08/07/2026 07:38:27",
+      "descricao": "Solicitação Aberta.",
+      "situacao": "Aberta",
+      "responsavel": "CARREFOUR COMERCIO INDUSTRIA LTDA"
+    }
+  ],
   "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:35.598038+00:00"
+  "_salvo_em": "2026-07-08T12:49:56.987895+00:00"
 }
