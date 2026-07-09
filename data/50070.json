@@ -3,10 +3,24 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50070&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "51324",
   "tipo": "Aprovação de Projeto",
   "autor": "GUILHERME BARBOSA MOREIRA ( 75790149120 )",
   "andamentos": [
+    {
+      "sequencia": "3",
+      "data": "09/07/2026 06:42:36",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "09/07/2026 06:30:36",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
     {
       "sequencia": "1",
       "data": "16/06/2026 07:33:52",
@@ -15,6 +29,12 @@
       "responsavel": "MILAGRES ADMINISTRADORA DE IMOVEIS LTDA"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-16T16:02:25.091302+00:00"
+  "anexos": [
+    {
+      "nome": "aprovaçãqo de projeto MILAGRES ADMINISTRADORA DE IMOVEIS LTDA.pdf",
+      "descricao": "aprovacaqo de projeto MILAGRES ADMINISTRADORA DE IMOVEIS LTDA.pdf",
+      "data": "hoje"
+    }
+  ],
+  "_salvo_em": "2026-07-09T13:53:04.130562+00:00"
 }

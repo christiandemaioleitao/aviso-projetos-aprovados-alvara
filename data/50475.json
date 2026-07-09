@@ -3,10 +3,31 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50475&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "51329",
   "tipo": "Aprovação de Projeto",
   "autor": "SOARES FRAGA CONSTRUTORA & ENGENHARIA EIRELI ( 33228601000105 )",
   "andamentos": [
+    {
+      "sequencia": "4",
+      "data": "09/07/2026 09:48:25",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "3",
+      "data": "09/07/2026 08:02:46",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "2",
+      "data": "09/07/2026 06:30:36",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
     {
       "sequencia": "1",
       "data": "17/06/2026 07:35:25",
@@ -15,6 +36,12 @@
       "responsavel": "JOSE CUSTODIO PEREIRA"
     }
   ],
-  "anexos": [],
-  "_salvo_em": "2026-06-17T14:29:30.185839+00:00"
+  "anexos": [
+    {
+      "nome": "aprovação de projeto JOSE CUSTODIO PEREIRA.pdf",
+      "descricao": "aprovacao de projeto JOSE CUSTODIO PEREIRA.pdf",
+      "data": "hoje"
+    }
+  ],
+  "_salvo_em": "2026-07-09T13:53:25.342407+00:00"
 }
