@@ -2,11 +2,18 @@
   "projeto_id": 50711,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50711&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Reanálise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
   "andamentos": [
+    {
+      "sequencia": "4",
+      "data": "09/07/2026 12:10:04",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "GPL ENGENHARIA LTDA"
+    },
     {
       "sequencia": "3",
       "data": "01/07/2026 14:45:41",
@@ -33,8 +40,8 @@
     {
       "nome": "Modificação de Projeto Com Acrescimo - SPE GOIANIA CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50711.pdf",
       "descricao": "Modificacao de Projeto Com Acrescimo - SPE GOIANIA CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50711.pdf",
-      "data": "yesterday"
+      "data": "1 Jul (9 days ago)"
     }
   ],
-  "_salvo_em": "2026-07-02T13:04:36.727804+00:00"
+  "_salvo_em": "2026-07-10T13:19:12.212760+00:00"
 }
