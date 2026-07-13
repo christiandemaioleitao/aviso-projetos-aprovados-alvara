@@ -3,10 +3,24 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50711&TipoAlvara=2",
   "situacao": "Apto para Reanálise",
-  "numero_licenca": null,
+  "numero_licenca": "51399",
   "tipo": "Aprovação de Projeto",
   "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
   "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "13/07/2026 10:15:02",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "13/07/2026 09:04:48",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
     {
       "sequencia": "4",
       "data": "09/07/2026 12:10:04",
@@ -40,8 +54,13 @@
     {
       "nome": "Modificação de Projeto Com Acrescimo - SPE GOIANIA CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50711.pdf",
       "descricao": "Modificacao de Projeto Com Acrescimo - SPE GOIANIA CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50711.pdf",
-      "data": "1 Jul (9 days ago)"
+      "data": "1 Jul (12 days ago)"
+    },
+    {
+      "nome": "Modificação de Projeto Com Acrescimo -  SPE GOIANIA CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50711.pdf",
+      "descricao": "Modificacao de Projeto Com Acrescimo - SPE GOIANIA CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50711.pdf",
+      "data": "today"
     }
   ],
-  "_salvo_em": "2026-07-10T13:19:12.212760+00:00"
+  "_salvo_em": "2026-07-13T13:32:58.260985+00:00"
 }

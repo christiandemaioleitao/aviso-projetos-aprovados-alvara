@@ -8,6 +8,20 @@
   "autor": "VICENTE PORFIRIO PESSOA ( 03224821191 )",
   "andamentos": [
     {
+      "sequencia": "8",
+      "data": "13/07/2026 09:51:10",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "13/07/2026 09:50:28",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
       "sequencia": "6",
       "data": "10/07/2026 09:08:21",
       "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
@@ -54,13 +68,13 @@
     {
       "nome": "Modificação de Projeto Sem Acrescimo - L.A.G PARTICIPACOES LTDA - 50448.pdf",
       "descricao": "Modificacao de Projeto Sem Acrescimo - L.A.G PARTICIPACOES LTDA - 50448.pdf",
-      "data": "2 Jul (8 dias atrás)"
+      "data": "2 Jul (11 days ago)"
     },
     {
       "nome": "Modificação de Projeto Sem Acrescimo - L.A.G PARTICIPACOES LTDA - 50448 ok.pdf",
       "descricao": "Modificacao de Projeto Sem Acrescimo - L.A.G PARTICIPACOES LTDA - 50448 ok.pdf",
-      "data": "hoje"
+      "data": "10 Jul (3 days ago)"
     }
   ],
-  "_salvo_em": "2026-07-10T13:18:50.205739+00:00"
+  "_salvo_em": "2026-07-13T13:32:30.113914+00:00"
 }
