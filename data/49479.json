@@ -8,6 +8,20 @@
   "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
   "andamentos": [
     {
+      "sequencia": "8",
+      "data": "13/07/2026 18:16:34",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "13/07/2026 18:16:12",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
       "sequencia": "6",
       "data": "16/04/2026 06:48:56",
       "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
@@ -59,8 +73,8 @@
     {
       "nome": "alvará demolição JARDIM AMERICA RC240 EMPREENDIMENTO IMOBILIARIO SPE LTDA,..pdf",
       "descricao": "alvara demolicao JARDIM AMERICA RC240 EMPREENDIMENTO IMOBILIARIO SPE LTDA,..pdf",
-      "data": "16 Abr (3 semanas atrás)"
+      "data": "16 Abr"
     }
   ],
-  "_salvo_em": "2026-05-11T01:00:21.100028+00:00"
+  "_salvo_em": "2026-07-14T12:20:43.529248+00:00"
 }

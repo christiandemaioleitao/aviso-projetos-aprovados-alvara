@@ -8,6 +8,13 @@
   "autor": "CONSTRUTORA SURYA LTDA ( 07432765000140 )",
   "andamentos": [
     {
+      "sequencia": "16",
+      "data": "13/07/2026 14:50:51",
+      "descricao": "Transferência de Responsável\nMotivo: CONSULTA À GERÊNCIA QUANTO À OBRIGATORIEDADE DE APRESENTAÇÃO DE NOVO USO DO SOLO",
+      "situacao": "Encaminhada",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
+    {
       "sequencia": "15",
       "data": "08/07/2026 13:29:24",
       "descricao": "Solicitação recebida",
@@ -138,7 +145,12 @@
       "nome": "OS 1662030 PROJETO 44206 VENUS EMPREENDIMENTOS IMOBILIÁRIOS LTDA_182_2026.pdf",
       "descricao": "ATENDER DESPACHO 182/2026 - 1ª REANÁLISE",
       "data": "14 Jan"
+    },
+    {
+      "nome": "OS 1662030 PROJETO 44206 VENUS EMPREENDIMENTOS IMOBILIÁRIOS LTDA_DESOPACHO DE CONSULTA_1548_2026.pdf",
+      "descricao": "DESPACHO DE CONSULTA À GERÊNCIA",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-09T13:52:42.025278+00:00"
+  "_salvo_em": "2026-07-14T12:20:25.821281+00:00"
 }

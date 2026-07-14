@@ -8,6 +8,20 @@
   "autor": "GUSTAVO CALIXTO DA SILVA ( 03741015156 )",
   "andamentos": [
     {
+      "sequencia": "8",
+      "data": "13/07/2026 17:39:42",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "13/07/2026 17:39:21",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
       "sequencia": "6",
       "data": "19/06/2026 06:54:30",
       "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
@@ -54,13 +68,13 @@
     {
       "nome": "AUTORIZAÇÃO DE REFORMA - Despacho n. 1449, SPE MILAO MALL - 50232.pdf",
       "descricao": "Resolver pendências",
-      "data": "17 Jun (2 dias atrás)"
+      "data": "17 Jun (4 weeks ago)"
     },
     {
       "nome": "autorização reforma SPE MILAO MALL EMPREENDIMENTO IMOBILIARIO LTDA.pdf",
       "descricao": "autorizacao reforma SPE MILAO MALL EMPREENDIMENTO IMOBILIARIO LTDA.pdf",
-      "data": "hoje"
+      "data": "19 Jun (4 weeks ago)"
     }
   ],
-  "_salvo_em": "2026-06-19T14:19:09.765408+00:00"
+  "_salvo_em": "2026-07-14T12:20:52.638482+00:00"
 }

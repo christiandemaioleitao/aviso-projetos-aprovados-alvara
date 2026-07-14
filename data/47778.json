@@ -8,6 +8,13 @@
   "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
   "andamentos": [
     {
+      "sequencia": "9",
+      "data": "14/07/2026 09:03:07",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
+    {
       "sequencia": "8",
       "data": "07/07/2026 10:57:19",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -76,5 +83,5 @@
       "data": "23 Jan"
     }
   ],
-  "_salvo_em": "2026-07-08T12:49:07.788149+00:00"
+  "_salvo_em": "2026-07-14T12:20:36.934197+00:00"
 }

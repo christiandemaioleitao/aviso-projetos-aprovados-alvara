@@ -8,6 +8,13 @@
   "autor": "NATO ARQUITETURA DESIGN ENGENHARIA LTDA ( 17181739000140 )",
   "andamentos": [
     {
+      "sequencia": "2",
+      "data": "13/07/2026 11:19:08",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
       "sequencia": "1",
       "data": "08/07/2026 07:38:27",
       "descricao": "Solicitação Aberta.",
@@ -16,5 +23,5 @@
     }
   ],
   "anexos": [],
-  "_salvo_em": "2026-07-08T12:49:56.987895+00:00"
+  "_salvo_em": "2026-07-14T12:21:19.004363+00:00"
 }
