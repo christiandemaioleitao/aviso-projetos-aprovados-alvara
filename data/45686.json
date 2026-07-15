@@ -8,6 +8,34 @@
   "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
   "andamentos": [
     {
+      "sequencia": "18",
+      "data": "14/07/2026 15:58:27",
+      "descricao": "Laudo anexado. Encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "17",
+      "data": "14/07/2026 15:58:11",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "16",
+      "data": "14/07/2026 15:58:04",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo. Motivo: TAXA FINAL. PROJETO APTO.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "15",
+      "data": "14/07/2026 11:27:29",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
       "sequencia": "14",
       "data": "13/07/2026 10:12:36",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -125,8 +153,18 @@
     {
       "nome": "OS 1703021 PROJETO 45686 ROSA BRANCA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA 1285_2026.pdf",
       "descricao": "ATENDER AO DESPACHO Nº 12853/ 2026 - 2ª ANÁLISE",
-      "data": "7 Jul (6 days ago)"
+      "data": "7 Jul (8 dias atrás)"
+    },
+    {
+      "nome": "PROJETO FINAL APROVADO.pdf",
+      "descricao": "PROJETO FINAL APROVADO",
+      "data": "ontem"
+    },
+    {
+      "nome": "OS 1703021 PROJETO 45686 ROSA BRANCA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA - LAUDO.pdf",
+      "descricao": "LAUDO TAXA FINAL",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-13T13:31:51.499411+00:00"
+  "_salvo_em": "2026-07-15T12:22:35.363698+00:00"
 }

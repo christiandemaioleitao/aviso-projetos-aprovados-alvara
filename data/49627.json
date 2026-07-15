@@ -2,11 +2,18 @@
   "projeto_id": 49627,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49627&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": "50047",
   "tipo": "Aprovação de Projeto",
   "autor": "A F SILVA ARQUITETURA ( 33923500000154 )",
   "andamentos": [
+    {
+      "sequencia": "8",
+      "data": "14/07/2026 18:16:22",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "A F SILVA ARQUITETURA"
+    },
     {
       "sequencia": "7",
       "data": "19/06/2026 11:18:09",
@@ -66,8 +73,8 @@
     {
       "nome": "OS 1863569 PROJETO 49627 SPE RUA 21 CENTRO EMPREENDIMENTO IMOB LTDA 1348_2026.pdf",
       "descricao": "Primeira análise. Segue despacho 1348/2026 em anexo.",
-      "data": "hoje"
+      "data": "19 Jun (4 semanas atrás)"
     }
   ],
-  "_salvo_em": "2026-06-19T14:18:56.288146+00:00"
+  "_salvo_em": "2026-07-15T12:22:48.265159+00:00"
 }

@@ -8,6 +8,13 @@
   "autor": "DC ENGENHARIA LTDA ( 15522569000194 )",
   "andamentos": [
     {
+      "sequencia": "6",
+      "data": "15/07/2026 09:16:20",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "DANIELA FREITAS DE CASTRO ARAUJO"
+    },
+    {
       "sequencia": "5",
       "data": "07/07/2026 11:19:14",
       "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
@@ -47,8 +54,8 @@
     {
       "nome": "Autorização de Reforma - MURILLO  DE FARIA FERRO  - 50321.pdf",
       "descricao": "Autorizacao de Reforma - MURILLO DE FARIA FERRO - 50321.pdf",
-      "data": "ontem"
+      "data": "7 Jul (8 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-07-08T12:49:33.296550+00:00"
+  "_salvo_em": "2026-07-15T12:23:03.365895+00:00"
 }
