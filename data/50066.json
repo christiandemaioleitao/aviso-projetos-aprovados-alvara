@@ -8,6 +8,20 @@
   "autor": "DOIS ARQUITETURA S/S LTDA ( 10475821000138 )",
   "andamentos": [
     {
+      "sequencia": "8",
+      "data": "15/07/2026 11:33:43",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROJETO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "15/07/2026 11:31:31",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
       "sequencia": "6",
       "data": "20/05/2026 11:08:19",
       "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
@@ -54,13 +68,13 @@
     {
       "nome": "DESPACHO 1.214-2026 - APROVAÇÃO DE PROJETO - SIENNA HOME EMPREENDIMENTOS LTD - 50066.pdf",
       "descricao": "DESPACHO 1.214-2026 - APROVACAO DE PROJETO - SIENNA HOME EMPREENDIMENTOS LTD - 50066.pdf",
-      "data": "6 Mai (4 semanas atrás)"
+      "data": "6 Mai"
     },
     {
       "nome": "Aprovação de Projeto -  SIENNA HOME EMPREENDIMENTOS LTD - 50066.pdf",
       "descricao": "Aprovacao de Projeto - SIENNA HOME EMPREENDIMENTOS LTD - 50066.pdf",
-      "data": "20 Mai (2 semanas atrás)"
+      "data": "20 Mai"
     }
   ],
-  "_salvo_em": "2026-06-05T16:50:06.370762+00:00"
+  "_salvo_em": "2026-07-16T12:46:17.284553+00:00"
 }

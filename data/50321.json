@@ -8,6 +8,27 @@
   "autor": "DC ENGENHARIA LTDA ( 15522569000194 )",
   "andamentos": [
     {
+      "sequencia": "9",
+      "data": "15/07/2026 10:39:57",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "DANIELA FREITAS DE CASTRO ARAUJO"
+    },
+    {
+      "sequencia": "8",
+      "data": "15/07/2026 10:39:46",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "DANIELA FREITAS DE CASTRO ARAUJO"
+    },
+    {
+      "sequencia": "7",
+      "data": "15/07/2026 10:39:40",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: Apto, atende as condições necessárias para a Autorização de Reforma",
+      "situacao": "Encaminhada",
+      "responsavel": "DANIELA FREITAS DE CASTRO ARAUJO"
+    },
+    {
       "sequencia": "6",
       "data": "15/07/2026 09:16:20",
       "descricao": "Solicitação recebida",
@@ -54,8 +75,18 @@
     {
       "nome": "Autorização de Reforma - MURILLO  DE FARIA FERRO  - 50321.pdf",
       "descricao": "Autorizacao de Reforma - MURILLO DE FARIA FERRO - 50321.pdf",
-      "data": "7 Jul (8 dias atrás)"
+      "data": "7 Jul (9 dias atrás)"
+    },
+    {
+      "nome": "OS 1913209 PROJETO 50321 MURILLO DE FARIA FERRO MAPA.pdf",
+      "descricao": "mapa",
+      "data": "ontem"
+    },
+    {
+      "nome": "OS 1913209 PROJETO 50321 MURILLO DE FARIA FERRO laudo.pdf",
+      "descricao": "LAUDO",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-15T12:23:03.365895+00:00"
+  "_salvo_em": "2026-07-16T12:46:29.032064+00:00"
 }
