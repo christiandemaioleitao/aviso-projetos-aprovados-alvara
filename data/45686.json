@@ -8,6 +8,13 @@
   "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
   "andamentos": [
     {
+      "sequencia": "19",
+      "data": "16/07/2026 11:51:47",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
       "sequencia": "18",
       "data": "14/07/2026 15:58:27",
       "descricao": "Laudo anexado. Encaminhado para gerência acatar.",
@@ -153,18 +160,18 @@
     {
       "nome": "OS 1703021 PROJETO 45686 ROSA BRANCA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA 1285_2026.pdf",
       "descricao": "ATENDER AO DESPACHO Nº 12853/ 2026 - 2ª ANÁLISE",
-      "data": "7 Jul (8 dias atrás)"
+      "data": "7 Jul (10 dias atrás)"
     },
     {
       "nome": "PROJETO FINAL APROVADO.pdf",
       "descricao": "PROJETO FINAL APROVADO",
-      "data": "ontem"
+      "data": "14 Jul (3 dias atrás)"
     },
     {
       "nome": "OS 1703021 PROJETO 45686 ROSA BRANCA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA - LAUDO.pdf",
       "descricao": "LAUDO TAXA FINAL",
-      "data": "ontem"
+      "data": "14 Jul (3 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-07-15T12:22:35.363698+00:00"
+  "_salvo_em": "2026-07-17T12:18:34.838075+00:00"
 }

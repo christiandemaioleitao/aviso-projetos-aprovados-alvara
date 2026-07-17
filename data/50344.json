@@ -3,10 +3,45 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50344&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "51489",
   "tipo": "Aprovação de Projeto",
   "autor": "CONSTRUTORA CENTRAL DO BRASIL SA ( 02156313000169 )",
   "andamentos": [
+    {
+      "sequencia": "9",
+      "data": "16/07/2026 17:32:07",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "8",
+      "data": "16/07/2026 14:30:22",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROJETOARQUITETÔNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "16/07/2026 14:28:41",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "6",
+      "data": "16/07/2026 11:56:38",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "16/07/2026 11:46:53",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
     {
       "sequencia": "4",
       "data": "15/07/2026 16:37:08",
@@ -41,7 +76,12 @@
       "nome": "Aprovação de Projeto -  ANDREA CRISTINA MOTA MARQUES COSTA CARMO - 50344.pdf",
       "descricao": "Aprovacao de Projeto - ANDREA CRISTINA MOTA MARQUES COSTA CARMO - 50344.pdf",
       "data": "22 Mai"
+    },
+    {
+      "nome": "Aprovação de Projeto - ANDREA CRISTINA MOTA MARQUES COSTA CARMO - 50344.pdf",
+      "descricao": "Aprovacao de Projeto - ANDREA CRISTINA MOTA MARQUES COSTA CARMO - 50344.pdf",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-16T12:46:27.292737+00:00"
+  "_salvo_em": "2026-07-17T12:19:06.324913+00:00"
 }
