@@ -2,11 +2,32 @@
   "projeto_id": 45686,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=45686&TipoAlvara=2",
-  "situacao": "Apto para Reanálise",
+  "situacao": "Publicado",
   "numero_licenca": "46356",
   "tipo": "Aprovação de Projeto",
   "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
   "andamentos": [
+    {
+      "sequencia": "22",
+      "data": "17/07/2026 10:51:55",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Alvara Liberado",
+      "situacao": "Fechada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "21",
+      "data": "17/07/2026 10:51:01",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "20",
+      "data": "17/07/2026 10:25:52",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
     {
       "sequencia": "19",
       "data": "16/07/2026 11:51:47",
@@ -160,18 +181,18 @@
     {
       "nome": "OS 1703021 PROJETO 45686 ROSA BRANCA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA 1285_2026.pdf",
       "descricao": "ATENDER AO DESPACHO Nº 12853/ 2026 - 2ª ANÁLISE",
-      "data": "7 Jul (10 dias atrás)"
+      "data": "7 Jul (11 dias atrás)"
     },
     {
       "nome": "PROJETO FINAL APROVADO.pdf",
       "descricao": "PROJETO FINAL APROVADO",
-      "data": "14 Jul (3 dias atrás)"
+      "data": "14 Jul (4 dias atrás)"
     },
     {
       "nome": "OS 1703021 PROJETO 45686 ROSA BRANCA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA - LAUDO.pdf",
       "descricao": "LAUDO TAXA FINAL",
-      "data": "14 Jul (3 dias atrás)"
+      "data": "14 Jul (4 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-07-17T12:18:34.838075+00:00"
+  "_salvo_em": "2026-07-18T12:01:53.769461+00:00"
 }

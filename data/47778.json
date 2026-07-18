@@ -2,11 +2,18 @@
   "projeto_id": 47778,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47778&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "48153",
   "tipo": "Aprovação de Projeto",
   "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
   "andamentos": [
+    {
+      "sequencia": "10",
+      "data": "17/07/2026 09:52:03",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Reanálise 1. Segue Despacho 1354/2026 em anexo.",
+      "situacao": "Aguardando",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
     {
       "sequencia": "9",
       "data": "14/07/2026 09:03:07",
@@ -81,7 +88,12 @@
       "nome": "OS 1783886 PROJETO 47778 SELMA AUXILIADORA PEREIRA E OUTROS 35_2026.pdf",
       "descricao": "PRIMEIRA ANALISE SEGUE DESPACHO 35/2026 EM ANEXO",
       "data": "23 Jan"
+    },
+    {
+      "nome": "OS 1783886 PROJETO 47778 SELMA AUXILIADORA PEREIRA E OUTROS 1354_2026.pdf",
+      "descricao": "Reanálise 1. Segue Despacho 1354/2026 em anexo.",
+      "data": "yesterday"
     }
   ],
-  "_salvo_em": "2026-07-14T12:20:36.934197+00:00"
+  "_salvo_em": "2026-07-18T12:02:02.702926+00:00"
 }

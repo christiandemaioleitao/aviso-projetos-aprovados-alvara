@@ -2,11 +2,18 @@
   "projeto_id": 47234,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47234&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "47987",
   "tipo": "Aprovação de Projeto",
   "autor": "MAGEN CONSTRUTORA LTDA ( 23562830000108 )",
   "andamentos": [
+    {
+      "sequencia": "12",
+      "data": "17/07/2026 17:39:47",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Ver despacho 1595_2026",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
     {
       "sequencia": "11",
       "data": "09/07/2026 15:36:00",
@@ -95,7 +102,12 @@
       "nome": "OS 1758860 PROJETO 47234_SPE OESTE 004 LTDA_800_2026.pdf",
       "descricao": "Despacho primeira análise: 800_2026",
       "data": "23 Mar"
+    },
+    {
+      "nome": "OS 1758860 PROJETO 47234_SPE OESTE 004 LTDA_1595_2026.pdf",
+      "descricao": "Despacho de Primeira Reanálise 1595_2026",
+      "data": "yesterday"
     }
   ],
-  "_salvo_em": "2026-07-10T13:18:17.818004+00:00"
+  "_salvo_em": "2026-07-18T12:01:57.226590+00:00"
 }

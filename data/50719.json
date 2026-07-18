@@ -2,7 +2,7 @@
   "projeto_id": 50719,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50719&TipoAlvara=2",
-  "situacao": "Auditado Inconsistente",
+  "situacao": "Em Reanálise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "PEDRO ERNESTO DE SOUZA GUALBERTO ( 63335786149 )",
@@ -11,8 +11,8 @@
     {
       "nome": "N1388 - 2026 -  PROCESSO 50719 - 06.07.2026 ANALISE 1.pdf",
       "descricao": "PRIMEIRA ANÁLISE - 1388/2026",
-      "data": "today"
+      "data": "13 Jul (5 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-07-13T13:32:56.906012+00:00"
+  "_salvo_em": "2026-07-18T12:02:45.451177+00:00"
 }
