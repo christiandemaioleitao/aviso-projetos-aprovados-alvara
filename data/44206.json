@@ -8,6 +8,20 @@
   "autor": "CONSTRUTORA SURYA LTDA ( 07432765000140 )",
   "andamentos": [
     {
+      "sequencia": "18",
+      "data": "20/07/2026 12:13:49",
+      "descricao": "Transferência de Responsável\nMotivo: Parecer para conhecimento e providências.",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "17",
+      "data": "20/07/2026 11:20:42",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
       "sequencia": "16",
       "data": "13/07/2026 14:50:51",
       "descricao": "Transferência de Responsável\nMotivo: CONSULTA À GERÊNCIA QUANTO À OBRIGATORIEDADE DE APRESENTAÇÃO DE NOVO USO DO SOLO",
@@ -149,8 +163,13 @@
     {
       "nome": "OS 1662030 PROJETO 44206 VENUS EMPREENDIMENTOS IMOBILIÁRIOS LTDA_DESOPACHO DE CONSULTA_1548_2026.pdf",
       "descricao": "DESPACHO DE CONSULTA À GERÊNCIA",
-      "data": "ontem"
+      "data": "13 Jul (8 days ago)"
+    },
+    {
+      "nome": "OS1662030 PROJETO 44206 - PARECER.pdf",
+      "descricao": "OS1662030 PROJETO 44206 - PARECER.pdf",
+      "data": "yesterday"
     }
   ],
-  "_salvo_em": "2026-07-14T12:20:25.821281+00:00"
+  "_salvo_em": "2026-07-21T12:42:07.268289+00:00"
 }

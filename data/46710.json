@@ -2,11 +2,18 @@
   "projeto_id": 46710,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=46710&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": "47249",
   "tipo": "Aprovação de Projeto",
   "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
   "andamentos": [
+    {
+      "sequencia": "12",
+      "data": "20/07/2026 21:29:15",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
     {
       "sequencia": "11",
       "data": "26/01/2026 17:19:42",
@@ -102,5 +109,5 @@
       "data": "26 Jan"
     }
   ],
-  "_salvo_em": "2026-05-11T01:21:38.924554+00:00"
+  "_salvo_em": "2026-07-21T12:42:15.124804+00:00"
 }
