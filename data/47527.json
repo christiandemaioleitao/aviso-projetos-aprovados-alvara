@@ -2,11 +2,18 @@
   "projeto_id": 47527,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47527&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "50746",
   "tipo": "Aprovação de Projeto",
   "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
   "andamentos": [
+    {
+      "sequencia": "10",
+      "data": "22/07/2026 16:59:37",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO 1552/2026 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
     {
       "sequencia": "9",
       "data": "15/07/2026 16:55:01",
@@ -81,7 +88,12 @@
       "nome": "aprovação de projeto LUIZ TAVARES NETO.pdf",
       "descricao": "aprovacao de projeto LUIZ TAVARES NETO.pdf",
       "data": "2 Jun"
+    },
+    {
+      "nome": "OS 1774346 PROJETO 47527 LUIZ TAVARES NETO_1552_2026.pdf",
+      "descricao": "ATENDER DESPACHO 1552/2026 - 1ª ANÁLISE",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-16T12:46:06.501705+00:00"
+  "_salvo_em": "2026-07-23T12:46:17.281953+00:00"
 }

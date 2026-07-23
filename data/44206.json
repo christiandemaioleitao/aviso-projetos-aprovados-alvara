@@ -2,11 +2,25 @@
   "projeto_id": 44206,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44206&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "46064",
   "tipo": "Aprovação de Projeto",
   "autor": "CONSTRUTORA SURYA LTDA ( 07432765000140 )",
   "andamentos": [
+    {
+      "sequencia": "20",
+      "data": "22/07/2026 17:23:56",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO 1702/2026 - 2ª REANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
+    {
+      "sequencia": "19",
+      "data": "22/07/2026 17:00:59",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
     {
       "sequencia": "18",
       "data": "20/07/2026 12:13:49",
@@ -163,13 +177,18 @@
     {
       "nome": "OS 1662030 PROJETO 44206 VENUS EMPREENDIMENTOS IMOBILIÁRIOS LTDA_DESOPACHO DE CONSULTA_1548_2026.pdf",
       "descricao": "DESPACHO DE CONSULTA À GERÊNCIA",
-      "data": "13 Jul (8 days ago)"
+      "data": "13 Jul (10 days ago)"
     },
     {
       "nome": "OS1662030 PROJETO 44206 - PARECER.pdf",
       "descricao": "OS1662030 PROJETO 44206 - PARECER.pdf",
+      "data": "20 Jul (3 days ago)"
+    },
+    {
+      "nome": "OS 1662030 PROJETO 44206 VENUS EMPREENDIMENTOS IMOBILIÁRIOS LTDA_1702_2026.pdf",
+      "descricao": "ATENDER DESPACHO 1702/2026 - 2ª REANÁLISE",
       "data": "yesterday"
     }
   ],
-  "_salvo_em": "2026-07-21T12:42:07.268289+00:00"
+  "_salvo_em": "2026-07-23T12:46:09.220061+00:00"
 }

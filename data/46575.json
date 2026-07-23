@@ -2,11 +2,18 @@
   "projeto_id": 46575,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=46575&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Reanálise",
   "numero_licenca": "47123",
   "tipo": "Aprovação de Projeto",
   "autor": "DENER ALVARES JUSTINO ( 43899374134 )",
   "andamentos": [
+    {
+      "sequencia": "11",
+      "data": "22/07/2026 10:46:23",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "DENER ALVARES JUSTINO"
+    },
     {
       "sequencia": "10",
       "data": "10/03/2026 10:45:44",
@@ -95,5 +102,5 @@
       "data": "10 Mar"
     }
   ],
-  "_salvo_em": "2026-05-11T01:21:32.345984+00:00"
+  "_salvo_em": "2026-07-23T12:46:13.652199+00:00"
 }
