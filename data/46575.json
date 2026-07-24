@@ -2,11 +2,25 @@
   "projeto_id": 46575,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=46575&TipoAlvara=2",
-  "situacao": "Apto para Reanálise",
+  "situacao": "Pendente",
   "numero_licenca": "47123",
   "tipo": "Aprovação de Projeto",
   "autor": "DENER ALVARES JUSTINO ( 43899374134 )",
   "andamentos": [
+    {
+      "sequencia": "13",
+      "data": "23/07/2026 14:59:46",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER AO DESPACHO. PROIJETO NÃO APTO.",
+      "situacao": "Aguardando",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "12",
+      "data": "23/07/2026 14:13:01",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
     {
       "sequencia": "11",
       "data": "22/07/2026 10:46:23",
@@ -100,7 +114,12 @@
       "nome": "OS 1748760 PROJETO 46575 EMPREENDIMENTOS IMOBILIÁRIOS RIO VERMELHO LTDA 635_2026.pdf",
       "descricao": "ATENDER AO DESPACHO Nº 635/2026 - 1ª ANÁLISE",
       "data": "10 Mar"
+    },
+    {
+      "nome": "OS 1748760 PROJETO 46575 EMPREENDIMENTOS IMOBILIÁRIOS RIO VERMELHO LTDA 1557_2026.pdf",
+      "descricao": "ATENDER AO DESPACHO Nº 1557/ 2026 - 2ª ANÁLISE",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-23T12:46:13.652199+00:00"
+  "_salvo_em": "2026-07-24T12:24:56.917001+00:00"
 }

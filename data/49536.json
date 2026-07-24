@@ -2,11 +2,18 @@
   "projeto_id": 49536,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49536&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": "50118",
   "tipo": "Aprovação de Projeto",
-  "autor": "CAROLINA FRANCA LACERDA ( 00679778128 )",
+  "autor": "VEGA CONSTRUTORA E INCORPORACOES LTDA ( 02342988000100 )",
   "andamentos": [
+    {
+      "sequencia": "14",
+      "data": "23/07/2026 15:53:33",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VEGA CONSTRUTORA E INCORPORACOES LTDA"
+    },
     {
       "sequencia": "13",
       "data": "26/06/2026 13:25:29",
@@ -118,8 +125,8 @@
     {
       "nome": "OS 1863568 PROJETO 49536 NB URBANISMO LTDA 954_2026.pdf",
       "descricao": "Reanálise 1. Segue Despacho 954/2026 em anexo.",
-      "data": "ontem"
+      "data": "26 Jun (4 semanas atrás)"
     }
   ],
-  "_salvo_em": "2026-06-27T12:15:29.275473+00:00"
+  "_salvo_em": "2026-07-24T12:25:11.306787+00:00"
 }
