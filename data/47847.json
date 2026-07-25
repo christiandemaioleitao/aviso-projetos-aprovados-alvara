@@ -2,11 +2,18 @@
   "projeto_id": 47847,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47847&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": "48089",
   "tipo": "Aprovação de Projeto",
   "autor": "CONSTRUTORA SURYA LTDA ( 07432765000140 )",
   "andamentos": [
+    {
+      "sequencia": "11",
+      "data": "24/07/2026 17:38:56",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "CONSTRUTORA SURYA LTDA"
+    },
     {
       "sequencia": "10",
       "data": "20/05/2026 12:33:29",
@@ -92,8 +99,8 @@
     {
       "nome": "OS 1791403 PROJETO 47847 BRASIL INCORPORAÇÃO 269 SPE LTDA 1040_2026.pdf",
       "descricao": "ATENDER AO DESPACHO Nº 1040/ 2026 - 2ª ANÁLISE",
-      "data": "20 Mai (9 dias atrás)"
+      "data": "20 Mai"
     }
   ],
-  "_salvo_em": "2026-05-29T14:14:10.678955+00:00"
+  "_salvo_em": "2026-07-25T12:07:07.665316+00:00"
 }

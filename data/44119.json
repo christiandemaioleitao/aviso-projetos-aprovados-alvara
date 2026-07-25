@@ -8,6 +8,13 @@
   "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
   "andamentos": [
     {
+      "sequencia": "23",
+      "data": "24/07/2026 18:13:59",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
       "sequencia": "22",
       "data": "07/07/2026 17:32:59",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -189,5 +196,5 @@
       "data": "3 Jun"
     }
   ],
-  "_salvo_em": "2026-07-08T12:48:46.862874+00:00"
+  "_salvo_em": "2026-07-25T12:06:55.062040+00:00"
 }

@@ -8,6 +8,20 @@
   "autor": "CASSIO EDUARDO PEREIRA ( 82055750100 )",
   "andamentos": [
     {
+      "sequencia": "11",
+      "data": "24/07/2026 09:56:12",
+      "descricao": "Projeto encaminhado para analista Motivo: Processo Distribuido",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
+      "sequencia": "10",
+      "data": "24/07/2026 09:55:29",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "LUCIO DE SOUSA LIBORIO"
+    },
+    {
       "sequencia": "9",
       "data": "06/07/2026 15:12:44",
       "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
@@ -75,18 +89,18 @@
     {
       "nome": "aprovação de projeto  CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA.pdf",
       "descricao": "aprovacao de projeto CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA.pdf",
-      "data": "15 Jun (3 semanas atrás)"
+      "data": "15 Jun"
     },
     {
       "nome": "Aprovação de Projeto - CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50634.pdf",
       "descricao": "Aprovacao de Projeto - CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50634.pdf",
-      "data": "15 Jun (3 semanas atrás)"
+      "data": "15 Jun"
     },
     {
       "nome": "Modificação de Projeto Sem Acrescimo -  CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50634.pdf",
       "descricao": "Modificacao de Projeto Sem Acrescimo - CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50634.pdf",
-      "data": "ontem"
+      "data": "6 Jul (3 weeks ago)"
     }
   ],
-  "_salvo_em": "2026-07-07T13:25:49.762670+00:00"
+  "_salvo_em": "2026-07-25T12:07:46.851056+00:00"
 }

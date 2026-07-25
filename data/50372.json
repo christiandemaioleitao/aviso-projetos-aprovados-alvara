@@ -8,6 +8,20 @@
   "autor": "UNYT ARQUITETURA DE RESULTADOS S/S ( 23784356000169 )",
   "andamentos": [
     {
+      "sequencia": "5",
+      "data": "24/07/2026 13:06:13",
+      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROEJTO ARQUITETÔNICO",
+      "situacao": "Encaminhada",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "24/07/2026 13:04:48",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
+    },
+    {
       "sequencia": "3",
       "data": "02/06/2026 11:44:38",
       "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
@@ -33,8 +47,8 @@
     {
       "nome": "Aprovação de Projeto - VILA TOSCANA RESIDENCE EMPREENDIMENTOS IMOBILIARIOS LTDA - 50372.pdf",
       "descricao": "Aprovacao de Projeto - VILA TOSCANA RESIDENCE EMPREENDIMENTOS IMOBILIARIOS LTDA - 50372.pdf",
-      "data": "2 Jun (3 dias atrás)"
+      "data": "2 Jun"
     }
   ],
-  "_salvo_em": "2026-06-05T16:50:17.429692+00:00"
+  "_salvo_em": "2026-07-25T12:07:26.197799+00:00"
 }
