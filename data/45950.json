@@ -8,6 +8,13 @@
   "autor": "MARTINS SOARES CONSTRUTORA LTDA ( 12487794000149 )",
   "andamentos": [
     {
+      "sequencia": "23",
+      "data": "27/07/2026 16:25:56",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
       "sequencia": "22",
       "data": "11/05/2026 11:26:32",
       "descricao": "Projeto encaminhado para analista",
@@ -176,8 +183,8 @@
     {
       "nome": "OS 1713343_45950 SPE 20 MARISTA LTDA 0755_2026.pdf",
       "descricao": "DESPACHO Nº 755/2026 - 1ª REANÁLISE",
-      "data": "17 Abr (4 semanas atrás)"
+      "data": "17 Abr"
     }
   ],
-  "_salvo_em": "2026-05-12T13:10:22.804896+00:00"
+  "_salvo_em": "2026-07-28T12:59:12.823365+00:00"
 }

@@ -8,6 +8,27 @@
   "autor": "Júlia de Rezende Perfeito ( 70084576189 )",
   "andamentos": [
     {
+      "sequencia": "9",
+      "data": "27/07/2026 15:41:59",
+      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
+      "situacao": "Aguardando",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "8",
+      "data": "27/07/2026 15:23:39",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "7",
+      "data": "27/07/2026 15:13:22",
+      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
+      "situacao": "Encaminhada",
+      "responsavel": "Júlia de Rezende Perfeito"
+    },
+    {
       "sequencia": "6",
       "data": "22/07/2026 06:59:55",
       "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: ATENDER O DESPACHO.",
@@ -54,13 +75,18 @@
     {
       "nome": "Aprovação de Projeto -  FGR URBANISMO JARDINS HENEDINA SPE-LTDA - 50200.pdf",
       "descricao": "Aprovacao de Projeto - FGR URBANISMO JARDINS HENEDINA SPE-LTDA - 50200.pdf",
-      "data": "26 Mai"
+      "data": "26 May"
     },
     {
       "nome": "aprovação de projeto FGR URBANISMO JARDINS HENEDINA SPE-LTDA...pdf",
       "descricao": "aprovacao de projeto FGR URBANISMO JARDINS HENEDINA SPE-LTDA...pdf",
-      "data": "hoje"
+      "data": "22 Jul (6 days ago)"
+    },
+    {
+      "nome": "Aprovação de Projeto - FGR URBANISMO JARDINS HENEDINA SPE-LTDA - 50200.pdf",
+      "descricao": "Aprovacao de Projeto - FGR URBANISMO JARDINS HENEDINA SPE-LTDA - 50200.pdf",
+      "data": "yesterday"
     }
   ],
-  "_salvo_em": "2026-07-22T12:44:46.463845+00:00"
+  "_salvo_em": "2026-07-28T12:59:38.648820+00:00"
 }
