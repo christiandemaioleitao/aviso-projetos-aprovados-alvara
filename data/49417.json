@@ -2,11 +2,18 @@
   "projeto_id": 49417,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49417&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": "49679",
   "tipo": "Aprovação de Projeto",
   "autor": "FR INCORPORADORA LTDA ( 04222898000101 )",
   "andamentos": [
+    {
+      "sequencia": "12",
+      "data": "28/07/2026 11:54:45",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "FR INCORPORADORA LTDA"
+    },
     {
       "sequencia": "11",
       "data": "10/07/2026 16:22:55",
@@ -99,8 +106,8 @@
     {
       "nome": "OS 1854854_49417 JARDIM ATLÂNTICO 01 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA 1404_2026.pdf",
       "descricao": "DESPACHO Nº 1404/2026 - 1ª ANÁLISE",
-      "data": "yesterday"
+      "data": "10 Jul (3 weeks ago)"
     }
   ],
-  "_salvo_em": "2026-07-11T12:01:21.128443+00:00"
+  "_salvo_em": "2026-07-29T13:06:14.215833+00:00"
 }

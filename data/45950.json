@@ -2,11 +2,18 @@
   "projeto_id": 45950,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=45950&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "46625",
   "tipo": "Aprovação de Projeto",
   "autor": "MARTINS SOARES CONSTRUTORA LTDA ( 12487794000149 )",
   "andamentos": [
+    {
+      "sequencia": "24",
+      "data": "29/07/2026 10:03:39",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO nº 1407/2026 - 2ª REANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
     {
       "sequencia": "23",
       "data": "27/07/2026 16:25:56",
@@ -184,7 +191,12 @@
       "nome": "OS 1713343_45950 SPE 20 MARISTA LTDA 0755_2026.pdf",
       "descricao": "DESPACHO Nº 755/2026 - 1ª REANÁLISE",
       "data": "17 Abr"
+    },
+    {
+      "nome": "OS 1713343_45950 SPE 20 MARISTA LTDA 1407_2026.pdf",
+      "descricao": "DESPACHO nº 1407/2026 - 2ª REANÁLISE",
+      "data": "hoje"
     }
   ],
-  "_salvo_em": "2026-07-28T12:59:12.823365+00:00"
+  "_salvo_em": "2026-07-29T13:06:10.994450+00:00"
 }

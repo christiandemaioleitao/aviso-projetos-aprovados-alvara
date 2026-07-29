@@ -2,11 +2,18 @@
   "projeto_id": 49536,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49536&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "50118",
   "tipo": "Aprovação de Projeto",
   "autor": "VEGA CONSTRUTORA E INCORPORACOES LTDA ( 02342988000100 )",
   "andamentos": [
+    {
+      "sequencia": "16",
+      "data": "28/07/2026 10:13:45",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Reanálise 2. Segue despacho 1604/2026 em anexo.",
+      "situacao": "Aguardando",
+      "responsavel": "KARINE BUENO CASTANHEIRA"
+    },
     {
       "sequencia": "15",
       "data": "27/07/2026 08:23:32",
@@ -117,23 +124,28 @@
     {
       "nome": "Aprovação de Projeto - NB URBANISMO LTDA - 49536.pdf",
       "descricao": "Aprovacao de Projeto - NB URBANISMO LTDA - 49536.pdf",
-      "data": "13 Apr"
+      "data": "13 Abr"
     },
     {
       "nome": "aprovação de projeto NB URBANISMO LTDA.pdf",
       "descricao": "aprovacao de projeto NB URBANISMO LTDA.pdf",
-      "data": "30 Apr"
+      "data": "30 Abr"
     },
     {
       "nome": "OS 1863568 PROJETO 49536 NB URBANISMO LTDA 951_2026.pdf",
       "descricao": "Primeira análise. Segue despacho 951/2026 em anexo.",
-      "data": "12 May"
+      "data": "12 Mai"
     },
     {
       "nome": "OS 1863568 PROJETO 49536 NB URBANISMO LTDA 954_2026.pdf",
       "descricao": "Reanálise 1. Segue Despacho 954/2026 em anexo.",
       "data": "26 Jun"
+    },
+    {
+      "nome": "OS 1863568 PROJETO 49536 NB URBANISMO LTDA 1604_2026.pdf",
+      "descricao": "Reanálise 2. Segue despacho 1604/2026 em anexo.",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-27T13:43:58.277098+00:00"
+  "_salvo_em": "2026-07-29T13:06:14.620670+00:00"
 }
