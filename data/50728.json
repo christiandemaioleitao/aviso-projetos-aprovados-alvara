@@ -2,7 +2,7 @@
   "projeto_id": 50728,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50728&TipoAlvara=2",
-  "situacao": "Em Reanálise",
+  "situacao": "Auditado Inconsistente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "LEONARDO JESUINO ROMANO DE SOUSA ( 54876737134 )",
@@ -11,8 +11,13 @@
     {
       "nome": "LAUDO 1668 - PROJETO 50728.pdf",
       "descricao": "LAUDO 1668 - PROJETO 50728.pdf",
-      "data": "yesterday"
+      "data": "28 Jul (2 days ago)"
+    },
+    {
+      "nome": "LAUDO 1668 R - PROJETO 50728 (1).pdf",
+      "descricao": "LAUDO 1668 R - PROJETO 50728 (1).pdf",
+      "data": "today"
     }
   ],
-  "_salvo_em": "2026-07-29T13:07:03.080538+00:00"
+  "_salvo_em": "2026-07-30T12:51:52.549643+00:00"
 }

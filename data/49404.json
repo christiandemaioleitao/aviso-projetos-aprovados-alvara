@@ -8,6 +8,13 @@
   "autor": "MARINA MATOS GOMES JUNQUEIRA ( 01068979186 )",
   "andamentos": [
     {
+      "sequencia": "9",
+      "data": "29/07/2026 17:06:29",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
       "sequencia": "8",
       "data": "22/06/2026 17:13:43",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -73,8 +80,8 @@
     {
       "nome": "OS 1854091_49404 SPE INCORPORAÇÃO URLE C8 LTDA 1148_2026.pdf",
       "descricao": "DESPACHO Nº 1148/2026 - 1ª ANÁLISE",
-      "data": "28 Mai (4 semanas atrás)"
+      "data": "28 Mai"
     }
   ],
-  "_salvo_em": "2026-06-23T13:46:21.957979+00:00"
+  "_salvo_em": "2026-07-30T12:51:14.607671+00:00"
 }

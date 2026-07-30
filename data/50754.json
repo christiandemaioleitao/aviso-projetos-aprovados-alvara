@@ -2,11 +2,22 @@
   "projeto_id": 50754,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50754&TipoAlvara=2",
-  "situacao": "Auditagem",
+  "situacao": "Auditado Inconsistente",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "BRUNA NUNES REZENDE DINIZ ( 00592959104 )",
   "andamentos": [],
-  "anexos": [],
-  "_salvo_em": "2026-06-11T14:52:56.104828+00:00"
+  "anexos": [
+    {
+      "nome": "LAUDO 1669 - PROJETO 50754.pdf",
+      "descricao": "LAUDO 1669 - PROJETO 50754.pdf",
+      "data": "yesterday"
+    },
+    {
+      "nome": "Modelo projeto simplificado SEPLANH (4) (1)-Layout1 - Atualizado.pdf",
+      "descricao": "Modelo projeto simplificado SEPLANH (4) (1)-Layout1 - Atualizado.pdf",
+      "data": "yesterday"
+    }
+  ],
+  "_salvo_em": "2026-07-30T12:51:51.367996+00:00"
 }
