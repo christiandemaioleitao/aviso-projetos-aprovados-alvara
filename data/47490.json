@@ -8,6 +8,13 @@
   "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
   "andamentos": [
     {
+      "sequencia": "15",
+      "data": "31/07/2026 08:35:04",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
       "sequencia": "14",
       "data": "07/07/2026 09:45:30",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -130,8 +137,8 @@
     {
       "nome": "OS 1768855_47490 SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA 1395_2026.pdf",
       "descricao": "DESPACHO nº 1395/2026 - 1ª REANÁLISE",
-      "data": "1 Jul (6 dias atrás)"
+      "data": "1 Jul (4 semanas atrás)"
     }
   ],
-  "_salvo_em": "2026-07-07T13:25:05.073981+00:00"
+  "_salvo_em": "2026-07-31T13:03:58.030417+00:00"
 }
