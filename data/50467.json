@@ -8,6 +8,20 @@
   "autor": "ANDRE BEATON LENZA ( 00213796104 )",
   "andamentos": [
     {
+      "sequencia": "5",
+      "data": "31/07/2026 17:54:45",
+      "descricao": "Projeto encaminhado para analista Motivo: Para análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "4",
+      "data": "31/07/2026 17:54:13",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
       "sequencia": "3",
       "data": "19/05/2026 14:53:55",
       "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
@@ -33,8 +47,8 @@
     {
       "nome": "Revalidação Alvara de Construção - ANTONIO DE PADUA SERONNI - 50467.pdf",
       "descricao": "Revalidacao Alvara de Construcao - ANTONIO DE PADUA SERONNI - 50467.pdf",
-      "data": "19 Mai (2 semanas atrás)"
+      "data": "19 Mai"
     }
   ],
-  "_salvo_em": "2026-06-05T16:50:21.918095+00:00"
+  "_salvo_em": "2026-08-01T12:09:44.392089+00:00"
 }

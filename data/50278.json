@@ -2,7 +2,7 @@
   "projeto_id": 50278,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50278&TipoAlvara=2",
-  "situacao": "Auditado Inconsistente",
+  "situacao": "Em Reanálise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "BRUNA FLEURY TEIXEIRA MARTINS ( 02704588163 )",
@@ -11,13 +11,13 @@
     {
       "nome": "MODELO DE PROJETO SIMPLIFICADO.pdf",
       "descricao": "MODELO DE PROJETO SIMPLIFICADO",
-      "data": "ontem"
+      "data": "14 Jul (3 semanas atrás)"
     },
     {
       "nome": "LAUDO DE AUDITAGEM 1455 2026 - PROJETO 50278 - ANALISE.pdf",
       "descricao": "LAUDO DE AUDITAGEM 1455 2026 - PROJETO 50278 - ANALISE",
-      "data": "ontem"
+      "data": "14 Jul (3 semanas atrás)"
     }
   ],
-  "_salvo_em": "2026-07-15T12:23:04.613007+00:00"
+  "_salvo_em": "2026-08-01T12:09:34.579621+00:00"
 }

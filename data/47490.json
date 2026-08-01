@@ -8,6 +8,27 @@
   "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
   "andamentos": [
     {
+      "sequencia": "18",
+      "data": "31/07/2026 16:33:27",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "17",
+      "data": "31/07/2026 16:24:47",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "16",
+      "data": "31/07/2026 16:24:32",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: PROJETO ENCAMINHADO À GERÊNCIA PARA LIBERAÇÃO DA TAXA FINAL",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
       "sequencia": "15",
       "data": "31/07/2026 08:35:04",
       "descricao": "Solicitação recebida",
@@ -137,8 +158,18 @@
     {
       "nome": "OS 1768855_47490 SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA 1395_2026.pdf",
       "descricao": "DESPACHO nº 1395/2026 - 1ª REANÁLISE",
-      "data": "1 Jul (4 semanas atrás)"
+      "data": "1 Jul"
+    },
+    {
+      "nome": "OS 1768855_47490 SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA_LAUDO TAXA_31-07-2026.pdf",
+      "descricao": "LAUDO DE TAXA - 09/04/2026",
+      "data": "ontem"
+    },
+    {
+      "nome": "OS 1768855_2ªREANÁLISE_PROJETO APTO.pdf",
+      "descricao": "PROJETO ENCAMINHADO À GERÊNCIA PARA APROVAÇÃO",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-31T13:03:58.030417+00:00"
+  "_salvo_em": "2026-08-01T12:09:22.315390+00:00"
 }
