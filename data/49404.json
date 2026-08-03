@@ -8,6 +8,20 @@
   "autor": "MARINA MATOS GOMES JUNQUEIRA ( 01068979186 )",
   "andamentos": [
     {
+      "sequencia": "14",
+      "data": "03/08/2026 10:46:03",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "13",
+      "data": "03/08/2026 10:35:11",
+      "descricao": "Transferência de Responsável\nMotivo: Para revisão de taxa.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
       "sequencia": "12",
       "data": "30/07/2026 17:06:19",
       "descricao": "Laudo anexado. Encaminhado para gerência acatar.",
@@ -96,18 +110,18 @@
     {
       "nome": "Aprovação de Projeto -  SPE INCORPORACAO URLE C8 LTDA - 49404.pdf",
       "descricao": "Aprovacao de Projeto - SPE INCORPORACAO URLE C8 LTDA - 49404.pdf",
-      "data": "17 Apr"
+      "data": "17 Abr"
     },
     {
       "nome": "OS 1854091_49404 SPE INCORPORAÇÃO URLE C8 LTDA 1148_2026.pdf",
       "descricao": "DESPACHO Nº 1148/2026 - 1ª ANÁLISE",
-      "data": "28 May"
+      "data": "28 Mai"
     },
     {
       "nome": "OS 1854091_49404 SPE INCORPORAÇÃO URLE C8 LTDA_LAUDO TAXA_30-07-2026.pdf",
       "descricao": "LAUDO DE TAXA - 30/07/2026",
-      "data": "yesterday"
+      "data": "30 Jul (4 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-07-31T13:04:06.437783+00:00"
+  "_salvo_em": "2026-08-03T13:47:18.421578+00:00"
 }

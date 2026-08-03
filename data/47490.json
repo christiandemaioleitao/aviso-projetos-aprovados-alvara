@@ -2,11 +2,39 @@
   "projeto_id": 47490,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47490&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Aguardando PagamentoTaxa Execução de Obra",
   "numero_licenca": "48315",
   "tipo": "Aprovação de Projeto",
   "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
   "andamentos": [
+    {
+      "sequencia": "22",
+      "data": "03/08/2026 10:13:56",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Documentação e projeto deferidos, apto à emissão de taxa.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "21",
+      "data": "03/08/2026 09:50:39",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "20",
+      "data": "03/08/2026 09:50:26",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "19",
+      "data": "03/08/2026 09:35:33",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
     {
       "sequencia": "18",
       "data": "31/07/2026 16:33:27",
@@ -163,13 +191,13 @@
     {
       "nome": "OS 1768855_47490 SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA_LAUDO TAXA_31-07-2026.pdf",
       "descricao": "LAUDO DE TAXA - 09/04/2026",
-      "data": "ontem"
+      "data": "31 Jul (3 dias atrás)"
     },
     {
       "nome": "OS 1768855_2ªREANÁLISE_PROJETO APTO.pdf",
       "descricao": "PROJETO ENCAMINHADO À GERÊNCIA PARA APROVAÇÃO",
-      "data": "ontem"
+      "data": "31 Jul (3 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-08-01T12:09:22.315390+00:00"
+  "_salvo_em": "2026-08-03T13:47:11.601754+00:00"
 }
