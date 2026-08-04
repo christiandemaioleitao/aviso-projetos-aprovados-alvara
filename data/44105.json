@@ -8,6 +8,13 @@
   "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
   "andamentos": [
     {
+      "sequencia": "11",
+      "data": "03/08/2026 12:11:03",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ANA MARIA DANTAS MARQUEZ"
+    },
+    {
       "sequencia": "10",
       "data": "01/07/2026 12:40:37",
       "descricao": "Projeto redistribuido.",
@@ -90,5 +97,5 @@
       "data": "10/11/2025"
     }
   ],
-  "_salvo_em": "2026-07-02T13:03:51.778101+00:00"
+  "_salvo_em": "2026-08-04T13:06:51.260584+00:00"
 }

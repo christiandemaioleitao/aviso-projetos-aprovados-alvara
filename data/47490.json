@@ -2,7 +2,7 @@
   "projeto_id": 47490,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47490&TipoAlvara=2",
-  "situacao": "Aguardando PagamentoTaxa Execução de Obra",
+  "situacao": "Publicado",
   "numero_licenca": "48315",
   "tipo": "Aprovação de Projeto",
   "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
@@ -191,13 +191,13 @@
     {
       "nome": "OS 1768855_47490 SPE RESIDENCIAL CITY 44 EMPREENDIMENTOS LTDA_LAUDO TAXA_31-07-2026.pdf",
       "descricao": "LAUDO DE TAXA - 09/04/2026",
-      "data": "31 Jul (3 dias atrás)"
+      "data": "31 Jul (4 dias atrás)"
     },
     {
       "nome": "OS 1768855_2ªREANÁLISE_PROJETO APTO.pdf",
       "descricao": "PROJETO ENCAMINHADO À GERÊNCIA PARA APROVAÇÃO",
-      "data": "31 Jul (3 dias atrás)"
+      "data": "31 Jul (4 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-08-03T13:47:11.601754+00:00"
+  "_salvo_em": "2026-08-04T13:06:56.406837+00:00"
 }
