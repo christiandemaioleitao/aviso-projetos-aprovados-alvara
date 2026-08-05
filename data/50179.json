@@ -8,6 +8,13 @@
   "autor": "ADEMALDO CONSTRUCOES E PROJETOS EIRELI ( 03284445000139 )",
   "andamentos": [
     {
+      "sequencia": "9",
+      "data": "04/08/2026 11:36:15",
+      "descricao": "Projeto redistribuido.",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
       "sequencia": "8",
       "data": "01/06/2026 15:54:03",
       "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROJETO ARQUITETÕNICO",
@@ -68,13 +75,13 @@
     {
       "nome": "Aprovação de Projeto -  DJL INVESTIMENTOS LTDA - 50179.pdf",
       "descricao": "Aprovacao de Projeto - DJL INVESTIMENTOS LTDA - 50179.pdf",
-      "data": "12 Mai (3 semanas atrás)"
+      "data": "12 Mai"
     },
     {
       "nome": "Aprovação de Projeto - DJL INVESTIMENTOS LTDA - 50179.pdf",
       "descricao": "Aprovacao de Projeto - DJL INVESTIMENTOS LTDA - 50179.pdf",
-      "data": "18 Mai (3 semanas atrás)"
+      "data": "18 Mai"
     }
   ],
-  "_salvo_em": "2026-06-05T16:50:13.370496+00:00"
+  "_salvo_em": "2026-08-05T13:00:28.781613+00:00"
 }

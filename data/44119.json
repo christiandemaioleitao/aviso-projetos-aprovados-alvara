@@ -8,6 +8,20 @@
   "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
   "andamentos": [
     {
+      "sequencia": "25",
+      "data": "04/08/2026 20:53:11",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "LUCAS RODRIGUES GARCIA"
+    },
+    {
+      "sequencia": "24",
+      "data": "04/08/2026 12:42:14",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: Ver despacho 1772_2026",
+      "situacao": "Aguardando",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
       "sequencia": "23",
       "data": "24/07/2026 18:13:59",
       "descricao": "Solicitação recebida",
@@ -194,7 +208,12 @@
       "nome": "OS 1661006 PROJETO 44119 COPAG COMERCIAL DE PEÇAS AGRÍCOLAS LTDA_1182_2026.pdf",
       "descricao": "Despacho 2a. Reanálise_ 1182_2026",
       "data": "3 Jun"
+    },
+    {
+      "nome": "OS 1661006 PROJETO 44119 COPAG COMERCIAL DE PEÇAS AGRÍCOLAS LTDA 1772_2026.pdf",
+      "descricao": "Despacho de Terceira Reanálise 1772_2026",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-25T12:06:55.062040+00:00"
+  "_salvo_em": "2026-08-05T12:59:55.755247+00:00"
 }

@@ -2,11 +2,39 @@
   "projeto_id": 50321,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50321&TipoAlvara=2",
-  "situacao": "Apto Para Análise",
+  "situacao": "Publicado",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "DC ENGENHARIA LTDA ( 15522569000194 )",
   "andamentos": [
+    {
+      "sequencia": "13",
+      "data": "04/08/2026 17:48:37",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Documentação e análise deferidas.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "12",
+      "data": "04/08/2026 17:47:52",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "11",
+      "data": "04/08/2026 17:45:59",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
+    {
+      "sequencia": "10",
+      "data": "04/08/2026 17:35:37",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
     {
       "sequencia": "9",
       "data": "15/07/2026 10:39:57",
@@ -75,18 +103,18 @@
     {
       "nome": "Autorização de Reforma - MURILLO  DE FARIA FERRO  - 50321.pdf",
       "descricao": "Autorizacao de Reforma - MURILLO DE FARIA FERRO - 50321.pdf",
-      "data": "7 Jul (9 dias atrás)"
+      "data": "7 Jul (4 semanas atrás)"
     },
     {
       "nome": "OS 1913209 PROJETO 50321 MURILLO DE FARIA FERRO MAPA.pdf",
       "descricao": "mapa",
-      "data": "ontem"
+      "data": "15 Jul (3 semanas atrás)"
     },
     {
       "nome": "OS 1913209 PROJETO 50321 MURILLO DE FARIA FERRO laudo.pdf",
       "descricao": "LAUDO",
-      "data": "ontem"
+      "data": "15 Jul (3 semanas atrás)"
     }
   ],
-  "_salvo_em": "2026-07-16T12:46:29.032064+00:00"
+  "_salvo_em": "2026-08-05T13:00:31.969466+00:00"
 }

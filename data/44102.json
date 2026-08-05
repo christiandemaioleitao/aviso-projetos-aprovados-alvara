@@ -8,6 +8,20 @@
   "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
   "andamentos": [
     {
+      "sequencia": "8",
+      "data": "04/08/2026 15:35:08",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "04/08/2026 15:34:58",
+      "descricao": "Projeto encaminhado para analista",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
       "sequencia": "6",
       "data": "03/03/2026 09:42:51",
       "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
@@ -62,5 +76,5 @@
       "data": "3 Mar"
     }
   ],
-  "_salvo_em": "2026-05-11T01:21:24.064743+00:00"
+  "_salvo_em": "2026-08-05T12:59:57.075663+00:00"
 }
