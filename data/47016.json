@@ -2,11 +2,18 @@
   "projeto_id": 47016,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47016&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": "47263",
   "tipo": "Aprovação de Projeto",
   "autor": "UNYT ARQUITETURA DE RESULTADOS S/S ( 23784356000169 )",
   "andamentos": [
+    {
+      "sequencia": "16",
+      "data": "05/08/2026 15:17:11",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "UNYT ARQUITETURA DE RESULTADOS S/S"
+    },
     {
       "sequencia": "15",
       "data": "23/06/2026 17:10:39",
@@ -127,8 +134,8 @@
     {
       "nome": "OS 1.755.944 PROJETO 47016 - SUNRISE PARK RESIDENCE EMP. IMOB.LTDA 1299_ 2026.pdf",
       "descricao": "Despacho 1a. Reanálise_ 1299_2026",
-      "data": "ontem"
+      "data": "23 Jun"
     }
   ],
-  "_salvo_em": "2026-06-24T13:27:12.000340+00:00"
+  "_salvo_em": "2026-08-06T13:01:35.755642+00:00"
 }

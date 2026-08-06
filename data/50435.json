@@ -2,11 +2,18 @@
   "projeto_id": 50435,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50435&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "50627",
   "tipo": "Aprovação de Projeto",
   "autor": "SPE SAC 003 EMPREENDIMENTOS LTDA ( 58606931000118 )",
   "andamentos": [
+    {
+      "sequencia": "8",
+      "data": "05/08/2026 17:27:39",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 1409/2026 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
     {
       "sequencia": "7",
       "data": "31/07/2026 16:34:23",
@@ -62,7 +69,12 @@
       "nome": "Aprovação de Projeto -  SPE SAC 003 EMPREENDIMENTOS LTDA - 50435.pdf",
       "descricao": "Aprovacao de Projeto - SPE SAC 003 EMPREENDIMENTOS LTDA - 50435.pdf",
       "data": "26 Mai"
+    },
+    {
+      "nome": "OS 1886751_50435 SPE SAC 003 EMPREENDIMENTOS LTDA 1409_2026.pdf",
+      "descricao": "DESPACHO Nº 1409/2026 - 1ª ANÁLISE",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-08-01T12:09:41.080747+00:00"
+  "_salvo_em": "2026-08-06T13:02:14.695688+00:00"
 }
