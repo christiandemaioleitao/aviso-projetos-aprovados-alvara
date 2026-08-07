@@ -8,6 +8,13 @@
   "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
   "andamentos": [
     {
+      "sequencia": "26",
+      "data": "07/08/2026 08:08:29",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
       "sequencia": "25",
       "data": "04/08/2026 20:53:11",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -212,8 +219,8 @@
     {
       "nome": "OS 1661006 PROJETO 44119 COPAG COMERCIAL DE PEÇAS AGRÍCOLAS LTDA 1772_2026.pdf",
       "descricao": "Despacho de Terceira Reanálise 1772_2026",
-      "data": "ontem"
+      "data": "4 Ago (3 dias atrás)"
     }
   ],
-  "_salvo_em": "2026-08-05T12:59:55.755247+00:00"
+  "_salvo_em": "2026-08-07T11:53:12.000199+00:00"
 }

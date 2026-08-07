@@ -2,11 +2,25 @@
   "projeto_id": 44101,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44101&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "49017",
   "tipo": "Aprovação de Projeto",
   "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
   "andamentos": [
+    {
+      "sequencia": "10",
+      "data": "06/08/2026 14:53:18",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO 1776/2026 - 1ª ANÁLISE",
+      "situacao": "Aguardando",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
+    {
+      "sequencia": "9",
+      "data": "06/08/2026 11:17:18",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
+    },
     {
       "sequencia": "8",
       "data": "04/08/2026 17:46:21",
@@ -74,7 +88,12 @@
       "nome": "Aprovação de Projeto - SPE RESIDENCIAL CITY 27 EMPREENDIMENTOS LTDA - 44101.pdf",
       "descricao": "Aprovacao de Projeto - SPE RESIDENCIAL CITY 27 EMPREENDIMENTOS LTDA - 44101.pdf",
       "data": "3 Mar"
+    },
+    {
+      "nome": "OS 1655545 PROJETO 44101 SPE RESIDENCIAL CITY 27 EMPREENDIMENTO_1776_2026.pdf",
+      "descricao": "ATENDER DESPACHO 1776/2026 - 1ª ANÁLISE",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-08-05T12:59:53.601852+00:00"
+  "_salvo_em": "2026-08-07T11:53:08.664701+00:00"
 }
