@@ -8,6 +8,13 @@
   "autor": "NORTE DESIGN ARQUITETOS ASSOCIADOS S/S ( 26900903000112 )",
   "andamentos": [
     {
+      "sequencia": "12",
+      "data": "07/08/2026 11:28:32",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
       "sequencia": "11",
       "data": "02/07/2026 11:24:05",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -99,8 +106,8 @@
     {
       "nome": "OS 1774344_47310 SPE RESIDENCIAL FUTURO 04 1151_2026.pdf",
       "descricao": "DESPACHO Nº 1151/2026 - 1ª REANÁLISE",
-      "data": "8 Jun (4 semanas atrás)"
+      "data": "8 Jun"
     }
   ],
-  "_salvo_em": "2026-07-03T13:04:35.101114+00:00"
+  "_salvo_em": "2026-08-08T11:38:37.048558+00:00"
 }

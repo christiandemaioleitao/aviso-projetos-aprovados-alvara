@@ -2,11 +2,32 @@
   "projeto_id": 49404,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49404&TipoAlvara=2",
-  "situacao": "Apto para Reanálise",
+  "situacao": "Publicado",
   "numero_licenca": "49916",
   "tipo": "Aprovação de Projeto",
   "autor": "MARINA MATOS GOMES JUNQUEIRA ( 01068979186 )",
   "andamentos": [
+    {
+      "sequencia": "17",
+      "data": "07/08/2026 17:58:20",
+      "descricao": "Taxa do projeto gerada e solicitação encerrada. Motivo: Documentação e projeto deferidos, apto à emissão de taxa final.",
+      "situacao": "Fechada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "16",
+      "data": "07/08/2026 17:44:17",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "15",
+      "data": "07/08/2026 17:42:39",
+      "descricao": "Encaminhado para o secretário para a liberação do alvará",
+      "situacao": "Encaminhada",
+      "responsavel": "CECILIA APARECIDA MARTINHOM"
+    },
     {
       "sequencia": "14",
       "data": "03/08/2026 10:46:03",
@@ -120,8 +141,18 @@
     {
       "nome": "OS 1854091_49404 SPE INCORPORAÇÃO URLE C8 LTDA_LAUDO TAXA_30-07-2026.pdf",
       "descricao": "LAUDO DE TAXA - 30/07/2026",
-      "data": "30 Jul (4 dias atrás)"
+      "data": "30 Jul (9 dias atrás)"
+    },
+    {
+      "nome": "PROJETO APROVADO 01-17.pdf",
+      "descricao": "PROJETO APTO 1-17",
+      "data": "ontem"
+    },
+    {
+      "nome": "PROJETO APROVADO 18-30.pdf",
+      "descricao": "PROJETO APTO 18-30",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-08-03T13:47:18.421578+00:00"
+  "_salvo_em": "2026-08-08T11:39:09.228130+00:00"
 }

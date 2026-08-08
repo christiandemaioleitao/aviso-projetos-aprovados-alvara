@@ -3,10 +3,24 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50370&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "51871",
   "tipo": "Aprovação de Projeto",
   "autor": "GISIELLE NASCIMENTO BRITO ( 04500149163 )",
   "andamentos": [
+    {
+      "sequencia": "6",
+      "data": "07/08/2026 16:05:37",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
+      "sequencia": "5",
+      "data": "07/08/2026 16:01:38",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
     {
       "sequencia": "4",
       "data": "30/07/2026 11:52:27",
@@ -41,7 +55,12 @@
       "nome": "Aprovação de Projeto - MARIA DE LOURDES OLIVEIRA BORGES FAGUNDES E OUTRO - 50370.pdf",
       "descricao": "Aprovacao de Projeto - MARIA DE LOURDES OLIVEIRA BORGES FAGUNDES E OUTRO - 50370.pdf",
       "data": "11 Jun"
+    },
+    {
+      "nome": "Aprovação de Projeto - MARIA DE LOURDES OLIVEIRA BORGES FAGUNDES E OUTRO  - 50370 ok.pdf",
+      "descricao": "Aprovacao de Projeto - MARIA DE LOURDES OLIVEIRA BORGES FAGUNDES E OUTRO - 50370 ok.pdf",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-31T13:04:31.368500+00:00"
+  "_salvo_em": "2026-08-08T11:40:15.474171+00:00"
 }
