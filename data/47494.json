@@ -2,11 +2,18 @@
   "projeto_id": 47494,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47494&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": "Apto para Análise",
   "numero_licenca": "47602",
   "tipo": "Aprovação de Projeto",
   "autor": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA ( 26602020000126 )",
   "andamentos": [
+    {
+      "sequencia": "14",
+      "data": "10/08/2026 10:33:37",
+      "descricao": "Reencaminhado pelo contribuinte para nova análise.",
+      "situacao": "Encaminhada",
+      "responsavel": "VILA BRASIL ENGENHARIA E PARTICIPACOES SA"
+    },
     {
       "sequencia": "13",
       "data": "23/04/2026 15:36:53",
@@ -118,13 +125,13 @@
     {
       "nome": "PROJETO 1ª REANÁLISE.pdf",
       "descricao": "VER OBSERVAÇÕES EM PRANCHAS",
-      "data": "23 Abr (2 semanas atrás)"
+      "data": "23 Abr"
     },
     {
       "nome": "OS 1772255 PROJETO 47494 PORTO BELVEDERE II SPE EMP IMOBILIARIOS_921_2026.pdf",
       "descricao": "ATENDER DESPACHO 921/2026 - 1ª REANÁLISE",
-      "data": "23 Abr (2 semanas atrás)"
+      "data": "23 Abr"
     }
   ],
-  "_salvo_em": "2026-05-11T01:21:15.574295+00:00"
+  "_salvo_em": "2026-08-11T11:53:02.398371+00:00"
 }

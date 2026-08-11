@@ -2,11 +2,25 @@
   "projeto_id": 50448,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50448&TipoAlvara=2",
-  "situacao": "Apto Para Reanálise",
+  "situacao": "Pendente",
   "numero_licenca": "51360",
   "tipo": "Aprovação de Projeto",
   "autor": "VICENTE PORFIRIO PESSOA ( 03224821191 )",
   "andamentos": [
+    {
+      "sequencia": "10",
+      "data": "10/08/2026 15:51:30",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: PROJETO NÃO APTO. FAVOR ATENDER AO DESPACHO 1 - 1ª ANALISE.",
+      "situacao": "Aguardando",
+      "responsavel": "GLENNE BATISTA BARBOSA"
+    },
+    {
+      "sequencia": "9",
+      "data": "10/08/2026 11:10:50",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "GLENNE BATISTA BARBOSA"
+    },
     {
       "sequencia": "8",
       "data": "13/07/2026 09:51:10",
@@ -68,13 +82,18 @@
     {
       "nome": "Modificação de Projeto Sem Acrescimo - L.A.G PARTICIPACOES LTDA - 50448.pdf",
       "descricao": "Modificacao de Projeto Sem Acrescimo - L.A.G PARTICIPACOES LTDA - 50448.pdf",
-      "data": "2 Jul (11 days ago)"
+      "data": "2 Jul"
     },
     {
       "nome": "Modificação de Projeto Sem Acrescimo - L.A.G PARTICIPACOES LTDA - 50448 ok.pdf",
       "descricao": "Modificacao de Projeto Sem Acrescimo - L.A.G PARTICIPACOES LTDA - 50448 ok.pdf",
-      "data": "10 Jul (3 days ago)"
+      "data": "10 Jul"
+    },
+    {
+      "nome": "OS 1903002 PROJETO 50448 L.A.G PARTICIPACOES LTDA 1.pdf",
+      "descricao": "DESPACHO 1 - 1ª ANALISE",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-13T13:32:30.113914+00:00"
+  "_salvo_em": "2026-08-11T11:53:36.107937+00:00"
 }

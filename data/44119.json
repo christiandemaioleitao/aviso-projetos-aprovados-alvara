@@ -8,6 +8,27 @@
   "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
   "andamentos": [
     {
+      "sequencia": "29",
+      "data": "10/08/2026 17:24:06",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "28",
+      "data": "10/08/2026 17:23:54",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
+      "sequencia": "27",
+      "data": "10/08/2026 17:23:44",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: Laudo apto para revisão de taxa e Projeto apto para aprovação",
+      "situacao": "Encaminhada",
+      "responsavel": "HALINE MOURA JORDAO"
+    },
+    {
       "sequencia": "26",
       "data": "07/08/2026 08:08:29",
       "descricao": "Solicitação recebida",
@@ -219,8 +240,28 @@
     {
       "nome": "OS 1661006 PROJETO 44119 COPAG COMERCIAL DE PEÇAS AGRÍCOLAS LTDA 1772_2026.pdf",
       "descricao": "Despacho de Terceira Reanálise 1772_2026",
-      "data": "4 Ago (3 dias atrás)"
+      "data": "4 Ago (7 dias atrás)"
+    },
+    {
+      "nome": "OS 1661006 PROJETO 44119 COPAG COMERCIAL DE PEÇAS AGRÍCOLAS LTDA.pdf",
+      "descricao": "Laudo apto para liberação de taxa",
+      "data": "ontem"
+    },
+    {
+      "nome": "COPAG-ARQ-PL-01-12-R03.pdf",
+      "descricao": "Projeto apto para aprovação",
+      "data": "ontem"
+    },
+    {
+      "nome": "COPAG-ARQ-PL-02-12-R03.pdf",
+      "descricao": "Projeto apto para aprovação",
+      "data": "ontem"
+    },
+    {
+      "nome": "COPAG-ARQ-PL-03-12-R03.pdf",
+      "descricao": "Projeto apto para aprovação",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-08-07T11:53:12.000199+00:00"
+  "_salvo_em": "2026-08-11T11:52:40.607523+00:00"
 }
