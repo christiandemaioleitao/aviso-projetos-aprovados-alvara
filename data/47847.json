@@ -2,11 +2,25 @@
   "projeto_id": 47847,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=47847&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": "Pendente",
   "numero_licenca": "48089",
   "tipo": "Aprovação de Projeto",
   "autor": "CONSTRUTORA SURYA LTDA ( 07432765000140 )",
   "andamentos": [
+    {
+      "sequencia": "13",
+      "data": "11/08/2026 17:40:18",
+      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER AO DESPACHO. PROJETO NÃO APTO.",
+      "situacao": "Aguardando",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
+    {
+      "sequencia": "12",
+      "data": "11/08/2026 12:59:57",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIVIANE ALMEIDA BASTOS"
+    },
     {
       "sequencia": "11",
       "data": "24/07/2026 17:38:56",
@@ -100,7 +114,12 @@
       "nome": "OS 1791403 PROJETO 47847 BRASIL INCORPORAÇÃO 269 SPE LTDA 1040_2026.pdf",
       "descricao": "ATENDER AO DESPACHO Nº 1040/ 2026 - 2ª ANÁLISE",
       "data": "20 Mai"
+    },
+    {
+      "nome": "OS 1791403 PROJETO 47847 BRASIL INCORPORAÇÃO 269 SPE LTDA 1564_2026.pdf",
+      "descricao": "ATENDER AO DESPACHO Nº 1564/ 2026 - 3ª ANÁLISE",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-07-25T12:07:07.665316+00:00"
+  "_salvo_em": "2026-08-12T11:55:10.190804+00:00"
 }

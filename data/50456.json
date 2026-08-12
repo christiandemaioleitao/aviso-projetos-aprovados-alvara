@@ -8,6 +8,13 @@
   "autor": "AGENCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES ( 03520933000106 )",
   "andamentos": [
     {
+      "sequencia": "2",
+      "data": "11/08/2026 09:29:37",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "CAMILA DA SILVA"
+    },
+    {
       "sequencia": "1",
       "data": "01/07/2026 07:35:03",
       "descricao": "Solicitação Aberta.",
@@ -16,5 +23,5 @@
     }
   ],
   "anexos": [],
-  "_salvo_em": "2026-07-01T13:40:03.431162+00:00"
+  "_salvo_em": "2026-08-12T11:55:59.081060+00:00"
 }

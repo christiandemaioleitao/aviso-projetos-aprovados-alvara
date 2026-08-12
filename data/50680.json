@@ -8,6 +8,20 @@
   "autor": "FRANCINELLI SANTANA CALIL ( 03254587154 )",
   "andamentos": [
     {
+      "sequencia": "8",
+      "data": "11/08/2026 16:25:52",
+      "descricao": "Projeto encaminhado para analista Motivo: Para analise",
+      "situacao": "Encaminhada",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
+      "sequencia": "7",
+      "data": "11/08/2026 16:23:11",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
       "sequencia": "6",
       "data": "16/07/2026 06:55:49",
       "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
@@ -59,8 +73,8 @@
     {
       "nome": "aprovação de projeto ELIESLEY GOULART VIEIRA E OUTRO...pdf",
       "descricao": "aprovacao de projeto ELIESLEY GOULART VIEIRA E OUTRO...pdf",
-      "data": "today"
+      "data": "16 Jul (4 weeks ago)"
     }
   ],
-  "_salvo_em": "2026-07-16T12:46:45.922121+00:00"
+  "_salvo_em": "2026-08-12T11:56:32.937311+00:00"
 }

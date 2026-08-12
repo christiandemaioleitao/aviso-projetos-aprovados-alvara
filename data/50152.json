@@ -2,7 +2,7 @@
   "projeto_id": 50152,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50152&TipoAlvara=2",
-  "situacao": "Auditado Inconsistente",
+  "situacao": "Em Reanálise",
   "numero_licenca": null,
   "tipo": "Aprovação de Projeto",
   "autor": "THAYNARA BORGES COSTA SILVA ( 04099715108 )",
@@ -11,8 +11,8 @@
     {
       "nome": "N1359 - 2026 -  PROCESSO 50152 - 25.06.2026 ANALISE 1.pdf",
       "descricao": "PRIMEIRA ANÁLISE - 1359/2026",
-      "data": "yesterday"
+      "data": "25 Jun"
     }
   ],
-  "_salvo_em": "2026-06-26T13:18:53.125438+00:00"
+  "_salvo_em": "2026-08-12T11:55:25.558543+00:00"
 }
