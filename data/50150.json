@@ -8,6 +8,27 @@
   "autor": "GUSTAVO VERAS PINTO CORDEIRO ( 88700429104 )",
   "andamentos": [
     {
+      "sequencia": "12",
+      "data": "13/08/2026 16:26:27",
+      "descricao": "Laudo anexado, encaminhado para gerência acatar.",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "11",
+      "data": "13/08/2026 16:23:46",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
+      "sequencia": "10",
+      "data": "13/08/2026 16:23:40",
+      "descricao": "Projeto considerado apto. Encaminhado para anexar laudo Motivo: PROJETO ENCAMINHADO À GERÊNCIA PARA LIBERAÇÃO DA TAXA FINAL",
+      "situacao": "Encaminhada",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
       "sequencia": "9",
       "data": "10/08/2026 16:25:25",
       "descricao": "Solicitação recebida",
@@ -81,7 +102,17 @@
       "nome": "Modificação de Projeto Sem Acrescimo - T7 PARTICIPACOES LTDA - 50150 - ok.pdf",
       "descricao": "Modificacao de Projeto Sem Acrescimo - T7 PARTICIPACOES LTDA - 50150 - ok.pdf",
       "data": "9 Jul"
+    },
+    {
+      "nome": "OS 1903001_1ªANÁLISE_PROJETO APTO.pdf",
+      "descricao": "PROJETO ENCAMINHADO PARA APROVAÇÃO",
+      "data": "ontem"
+    },
+    {
+      "nome": "OS 1903001_50150 T7 PARTICIPAÇÕES LTDA_LAUDO TAXA_13-08-2026.pdf",
+      "descricao": "LAUDO DE TAXA FINAL - 13/08/2026",
+      "data": "ontem"
     }
   ],
-  "_salvo_em": "2026-08-11T11:53:16.226316+00:00"
+  "_salvo_em": "2026-08-14T11:53:26.116179+00:00"
 }

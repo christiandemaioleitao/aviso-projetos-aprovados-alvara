@@ -3,10 +3,24 @@
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50706&TipoAlvara=2",
   "situacao": "Apto para Análise",
-  "numero_licenca": null,
+  "numero_licenca": "51987",
   "tipo": "Aprovação de Projeto",
   "autor": "FRANCINELLI SANTANA CALIL ( 03254587154 )",
   "andamentos": [
+    {
+      "sequencia": "9",
+      "data": "14/08/2026 07:29:43",
+      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
+      "situacao": "Encaminhada",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
+    {
+      "sequencia": "8",
+      "data": "14/08/2026 06:58:35",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
+    },
     {
       "sequencia": "7",
       "data": "05/08/2026 19:03:05",
@@ -67,7 +81,12 @@
       "nome": "aprovação de projeto MARIA JULIA PARREIRA.pdf",
       "descricao": "aprovacao de projeto MARIA JULIA PARREIRA.pdf",
       "data": "22 Jun"
+    },
+    {
+      "nome": "aprovação de projeto MARIA JULIA PARREIRA...pdf",
+      "descricao": "aprovacao de projeto MARIA JULIA PARREIRA...pdf",
+      "data": "today"
     }
   ],
-  "_salvo_em": "2026-08-06T13:02:40.730149+00:00"
+  "_salvo_em": "2026-08-14T11:54:13.135230+00:00"
 }

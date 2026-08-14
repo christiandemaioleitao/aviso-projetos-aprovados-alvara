@@ -8,6 +8,13 @@
   "autor": "FR INCORPORADORA LTDA ( 04222898000101 )",
   "andamentos": [
     {
+      "sequencia": "13",
+      "data": "13/08/2026 16:27:19",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
+    },
+    {
       "sequencia": "12",
       "data": "28/07/2026 11:54:45",
       "descricao": "Reencaminhado pelo contribuinte para nova análise.",
@@ -106,8 +113,8 @@
     {
       "nome": "OS 1854854_49417 JARDIM ATLÂNTICO 01 EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA 1404_2026.pdf",
       "descricao": "DESPACHO Nº 1404/2026 - 1ª ANÁLISE",
-      "data": "10 Jul (3 weeks ago)"
+      "data": "10 Jul"
     }
   ],
-  "_salvo_em": "2026-07-29T13:06:14.215833+00:00"
+  "_salvo_em": "2026-08-14T11:53:18.272042+00:00"
 }

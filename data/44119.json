@@ -8,6 +8,13 @@
   "autor": "LUCAS RODRIGUES GARCIA ( 05762587762 )",
   "andamentos": [
     {
+      "sequencia": "30",
+      "data": "13/08/2026 11:49:06",
+      "descricao": "Solicitação recebida",
+      "situacao": "Em Execução",
+      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
+    },
+    {
       "sequencia": "29",
       "data": "10/08/2026 17:24:06",
       "descricao": "Laudo anexado, encaminhado para gerência acatar.",
@@ -240,28 +247,28 @@
     {
       "nome": "OS 1661006 PROJETO 44119 COPAG COMERCIAL DE PEÇAS AGRÍCOLAS LTDA 1772_2026.pdf",
       "descricao": "Despacho de Terceira Reanálise 1772_2026",
-      "data": "4 Ago (7 dias atrás)"
+      "data": "4 Aug (10 days ago)"
     },
     {
       "nome": "OS 1661006 PROJETO 44119 COPAG COMERCIAL DE PEÇAS AGRÍCOLAS LTDA.pdf",
       "descricao": "Laudo apto para liberação de taxa",
-      "data": "ontem"
+      "data": "10 Aug (4 days ago)"
     },
     {
       "nome": "COPAG-ARQ-PL-01-12-R03.pdf",
       "descricao": "Projeto apto para aprovação",
-      "data": "ontem"
+      "data": "10 Aug (4 days ago)"
     },
     {
       "nome": "COPAG-ARQ-PL-02-12-R03.pdf",
       "descricao": "Projeto apto para aprovação",
-      "data": "ontem"
+      "data": "10 Aug (4 days ago)"
     },
     {
       "nome": "COPAG-ARQ-PL-03-12-R03.pdf",
       "descricao": "Projeto apto para aprovação",
-      "data": "ontem"
+      "data": "10 Aug (4 days ago)"
     }
   ],
-  "_salvo_em": "2026-08-11T11:52:40.607523+00:00"
+  "_salvo_em": "2026-08-14T11:53:00.695247+00:00"
 }
