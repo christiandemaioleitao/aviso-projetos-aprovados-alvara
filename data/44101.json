@@ -2,98 +2,11 @@
   "projeto_id": 44101,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=44101&TipoAlvara=2",
-  "situacao": "Pendente",
-  "numero_licenca": "49017",
-  "tipo": "Aprovação de Projeto",
-  "autor": "JOÃO GABRIEL TOMÉ OLIVEIRA ( 01012845192 )",
-  "andamentos": [
-    {
-      "sequencia": "10",
-      "data": "06/08/2026 14:53:18",
-      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO 1776/2026 - 1ª ANÁLISE",
-      "situacao": "Aguardando",
-      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
-    },
-    {
-      "sequencia": "9",
-      "data": "06/08/2026 11:17:18",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "ADRIANA FIGUEIREDO CARVALHO"
-    },
-    {
-      "sequencia": "8",
-      "data": "04/08/2026 17:46:21",
-      "descricao": "Projeto encaminhado para analista Motivo: Para análise",
-      "situacao": "Encaminhada",
-      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
-    },
-    {
-      "sequencia": "7",
-      "data": "04/08/2026 17:44:59",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
-    },
-    {
-      "sequencia": "6",
-      "data": "03/03/2026 09:38:34",
-      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
-      "situacao": "Encaminhada",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "5",
-      "data": "02/03/2026 10:49:06",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "4",
-      "data": "15/01/2026 19:26:14",
-      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
-      "situacao": "Encaminhada",
-      "responsavel": "JOÃO GABRIEL TOMÉ OLIVEIRA"
-    },
-    {
-      "sequencia": "3",
-      "data": "21/07/2025 10:14:54",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendências",
-      "situacao": "Aguardando",
-      "responsavel": "LUCIO DE SOUSA LIBORIO"
-    },
-    {
-      "sequencia": "2",
-      "data": "23/05/2025 15:34:03",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "LUCIO DE SOUSA LIBORIO"
-    },
-    {
-      "sequencia": "1",
-      "data": "25/04/2025 07:32:51",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "SPE RESIDENCIAL CITY 27 EMPREENDIMENTOS LTDA"
-    }
-  ],
-  "anexos": [
-    {
-      "nome": "Aprovação de Projeto - SPE RESIDENCIAL CITY 27 EMPREENDIMENTOS - 44101.pdf",
-      "descricao": "Aprovacao de Projeto - SPE RESIDENCIAL CITY 27 EMPREENDIMENTOS - 44101.pdf",
-      "data": "21/07/2025"
-    },
-    {
-      "nome": "Aprovação de Projeto - SPE RESIDENCIAL CITY 27 EMPREENDIMENTOS LTDA - 44101.pdf",
-      "descricao": "Aprovacao de Projeto - SPE RESIDENCIAL CITY 27 EMPREENDIMENTOS LTDA - 44101.pdf",
-      "data": "3 Mar"
-    },
-    {
-      "nome": "OS 1655545 PROJETO 44101 SPE RESIDENCIAL CITY 27 EMPREENDIMENTO_1776_2026.pdf",
-      "descricao": "ATENDER DESPACHO 1776/2026 - 1ª ANÁLISE",
-      "data": "ontem"
-    }
-  ],
-  "_salvo_em": "2026-08-07T11:53:08.664701+00:00"
+  "situacao": null,
+  "numero_licenca": null,
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:34:53.462139+00:00"
 }

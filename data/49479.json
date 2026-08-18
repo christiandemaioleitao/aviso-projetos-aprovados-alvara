@@ -2,79 +2,11 @@
   "projeto_id": 49479,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=49479&TipoAlvara=2",
-  "situacao": "Apto para Reanálise",
+  "situacao": null,
   "numero_licenca": null,
-  "tipo": "Aprovação de Projeto",
-  "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
-  "andamentos": [
-    {
-      "sequencia": "8",
-      "data": "13/07/2026 18:16:34",
-      "descricao": "Projeto encaminhado para analista Motivo: Para análise",
-      "situacao": "Encaminhada",
-      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
-    },
-    {
-      "sequencia": "7",
-      "data": "13/07/2026 18:16:12",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
-    },
-    {
-      "sequencia": "6",
-      "data": "16/04/2026 06:48:56",
-      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
-      "situacao": "Encaminhada",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "5",
-      "data": "16/04/2026 06:37:45",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "4",
-      "data": "14/04/2026 15:56:43",
-      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
-      "situacao": "Encaminhada",
-      "responsavel": "GPL ENGENHARIA LTDA"
-    },
-    {
-      "sequencia": "3",
-      "data": "06/04/2026 09:58:56",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: documentação",
-      "situacao": "Aguardando",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "2",
-      "data": "06/04/2026 09:55:10",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "1",
-      "data": "01/04/2026 07:34:37",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "JARDIM AMERICA RC240 EMPREENDIMENTO IMOBILIARIO SPE LTDA"
-    }
-  ],
-  "anexos": [
-    {
-      "nome": "alvará demolição JARDIM AMERICA RC240 EMPREENDIMENTO IMOBILIARIO SPE LTDA..pdf",
-      "descricao": "alvara demolicao JARDIM AMERICA RC240 EMPREENDIMENTO IMOBILIARIO SPE LTDA..pdf",
-      "data": "6 Abr"
-    },
-    {
-      "nome": "alvará demolição JARDIM AMERICA RC240 EMPREENDIMENTO IMOBILIARIO SPE LTDA,..pdf",
-      "descricao": "alvara demolicao JARDIM AMERICA RC240 EMPREENDIMENTO IMOBILIARIO SPE LTDA,..pdf",
-      "data": "16 Abr"
-    }
-  ],
-  "_salvo_em": "2026-07-14T12:20:43.529248+00:00"
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:16.928110+00:00"
 }

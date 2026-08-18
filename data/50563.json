@@ -2,65 +2,11 @@
   "projeto_id": 50563,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50563&TipoAlvara=2",
-  "situacao": "Apto para Análise",
-  "numero_licenca": "51478",
-  "tipo": "Aprovação de Projeto",
-  "autor": "PEDRO HENRIQUE DE ALVARENGA ( 70037911104 )",
-  "andamentos": [
-    {
-      "sequencia": "6",
-      "data": "16/07/2026 06:48:16",
-      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
-      "situacao": "Encaminhada",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "5",
-      "data": "16/07/2026 06:29:48",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "4",
-      "data": "26/06/2026 15:56:28",
-      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
-      "situacao": "Encaminhada",
-      "responsavel": "PEDRO HENRIQUE DE ALVARENGA"
-    },
-    {
-      "sequencia": "3",
-      "data": "09/06/2026 12:00:37",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
-      "situacao": "Aguardando",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "2",
-      "data": "01/06/2026 14:55:06",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "1",
-      "data": "23/05/2026 07:36:31",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "RAMON SOUZA BARTILOTE"
-    }
-  ],
-  "anexos": [
-    {
-      "nome": "Aprovação de Projeto - RAMON SOUZA BARTILOTE - 50563.pdf",
-      "descricao": "Aprovacao de Projeto - RAMON SOUZA BARTILOTE - 50563.pdf",
-      "data": "9 Jun"
-    },
-    {
-      "nome": "aprovação de projeto RAMON SOUZA BARTILOTE.pdf",
-      "descricao": "aprovacao de projeto RAMON SOUZA BARTILOTE.pdf",
-      "data": "today"
-    }
-  ],
-  "_salvo_em": "2026-07-16T12:46:38.944622+00:00"
+  "situacao": null,
+  "numero_licenca": null,
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:53.900072+00:00"
 }

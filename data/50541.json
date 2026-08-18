@@ -2,17 +2,11 @@
   "projeto_id": 50541,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50541&TipoAlvara=2",
-  "situacao": "Em Reanálise",
+  "situacao": null,
   "numero_licenca": null,
-  "tipo": "Aprovação de Projeto",
-  "autor": "AUGUSTO ALCANTARA ALVES DE FREITAS E FRANCO ( 03001267194 )",
+  "tipo": null,
+  "autor": null,
   "andamentos": [],
-  "anexos": [
-    {
-      "nome": "LAUDO 1659 - PROJETO 50541.pdf",
-      "descricao": "LAUDO 1659 - PROJETO 50541.pdf",
-      "data": "27 Jul (2 days ago)"
-    }
-  ],
-  "_salvo_em": "2026-07-29T13:06:43.507160+00:00"
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:44.725806+00:00"
 }

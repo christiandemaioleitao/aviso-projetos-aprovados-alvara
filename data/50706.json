@@ -2,91 +2,11 @@
   "projeto_id": 50706,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50706&TipoAlvara=2",
-  "situacao": "Apto para Análise",
-  "numero_licenca": "51987",
-  "tipo": "Aprovação de Projeto",
-  "autor": "FRANCINELLI SANTANA CALIL ( 03254587154 )",
-  "andamentos": [
-    {
-      "sequencia": "9",
-      "data": "14/08/2026 07:29:43",
-      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
-      "situacao": "Encaminhada",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "8",
-      "data": "14/08/2026 06:58:35",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "7",
-      "data": "05/08/2026 19:03:05",
-      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
-      "situacao": "Encaminhada",
-      "responsavel": "FRANCINELLI SANTANA CALIL"
-    },
-    {
-      "sequencia": "6",
-      "data": "22/06/2026 09:03:48",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: ATENDER O DESPACHO",
-      "situacao": "Aguardando",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "5",
-      "data": "22/06/2026 08:26:48",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "4",
-      "data": "15/06/2026 16:00:37",
-      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
-      "situacao": "Encaminhada",
-      "responsavel": "FRANCINELLI SANTANA CALIL"
-    },
-    {
-      "sequencia": "3",
-      "data": "11/06/2026 09:45:09",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
-      "situacao": "Aguardando",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "2",
-      "data": "11/06/2026 08:59:42",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "1",
-      "data": "30/05/2026 07:37:42",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "MARIA JULIA PARREIRA"
-    }
-  ],
-  "anexos": [
-    {
-      "nome": "Aprovação de Projeto - MARIA JULIA PARREIRA - 50706.pdf",
-      "descricao": "Aprovacao de Projeto - MARIA JULIA PARREIRA - 50706.pdf",
-      "data": "11 Jun"
-    },
-    {
-      "nome": "aprovação de projeto MARIA JULIA PARREIRA.pdf",
-      "descricao": "aprovacao de projeto MARIA JULIA PARREIRA.pdf",
-      "data": "22 Jun"
-    },
-    {
-      "nome": "aprovação de projeto MARIA JULIA PARREIRA...pdf",
-      "descricao": "aprovacao de projeto MARIA JULIA PARREIRA...pdf",
-      "data": "today"
-    }
-  ],
-  "_salvo_em": "2026-08-14T11:54:13.135230+00:00"
+  "situacao": null,
+  "numero_licenca": null,
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:59.551645+00:00"
 }

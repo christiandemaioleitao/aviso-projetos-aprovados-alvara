@@ -2,98 +2,11 @@
   "projeto_id": 50344,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50344&TipoAlvara=2",
-  "situacao": "Pendente",
-  "numero_licenca": "51489",
-  "tipo": "Aprovação de Projeto",
-  "autor": "CONSTRUTORA CENTRAL DO BRASIL SA ( 02156313000169 )",
-  "andamentos": [
-    {
-      "sequencia": "10",
-      "data": "30/07/2026 13:59:13",
-      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER AO DESPACHO. PROJETO NÃO APTO.",
-      "situacao": "Aguardando",
-      "responsavel": "VIVIANE ALMEIDA BASTOS"
-    },
-    {
-      "sequencia": "9",
-      "data": "16/07/2026 17:32:07",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "VIVIANE ALMEIDA BASTOS"
-    },
-    {
-      "sequencia": "8",
-      "data": "16/07/2026 14:30:22",
-      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROJETOARQUITETÔNICO",
-      "situacao": "Encaminhada",
-      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
-    },
-    {
-      "sequencia": "7",
-      "data": "16/07/2026 14:28:41",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
-    },
-    {
-      "sequencia": "6",
-      "data": "16/07/2026 11:56:38",
-      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
-      "situacao": "Encaminhada",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "5",
-      "data": "16/07/2026 11:46:53",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "4",
-      "data": "15/07/2026 16:37:08",
-      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
-      "situacao": "Encaminhada",
-      "responsavel": "CONSTRUTORA CENTRAL DO BRASIL SA"
-    },
-    {
-      "sequencia": "3",
-      "data": "22/05/2026 10:47:47",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
-      "situacao": "Aguardando",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "2",
-      "data": "20/05/2026 11:14:48",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "1",
-      "data": "15/05/2026 07:35:09",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "ANDREA CRISTINA MOTA MARQUES COSTA CARMO"
-    }
-  ],
-  "anexos": [
-    {
-      "nome": "Aprovação de Projeto -  ANDREA CRISTINA MOTA MARQUES COSTA CARMO - 50344.pdf",
-      "descricao": "Aprovacao de Projeto - ANDREA CRISTINA MOTA MARQUES COSTA CARMO - 50344.pdf",
-      "data": "22 May"
-    },
-    {
-      "nome": "Aprovação de Projeto - ANDREA CRISTINA MOTA MARQUES COSTA CARMO - 50344.pdf",
-      "descricao": "Aprovacao de Projeto - ANDREA CRISTINA MOTA MARQUES COSTA CARMO - 50344.pdf",
-      "data": "16 Jul (2 weeks ago)"
-    },
-    {
-      "nome": "OS 1884877 PROJETO 50344 ANDREA CRISTINA MOTA MARQUES COSTA CARMO 1558_2026.pdf",
-      "descricao": "ATENDER AO DESPACHO Nº 1558/ 2026 - 1ª ANÁLISE",
-      "data": "yesterday"
-    }
-  ],
-  "_salvo_em": "2026-07-31T13:04:30.837396+00:00"
+  "situacao": null,
+  "numero_licenca": null,
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:33.227176+00:00"
 }

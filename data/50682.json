@@ -2,72 +2,11 @@
   "projeto_id": 50682,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50682&TipoAlvara=2",
-  "situacao": "Apto Para Análise",
+  "situacao": null,
   "numero_licenca": null,
-  "tipo": "Aprovação de Projeto",
-  "autor": "FREDERICO MENDES DA ROCHA ( 86947605172 )",
-  "andamentos": [
-    {
-      "sequencia": "7",
-      "data": "17/06/2026 11:16:52",
-      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
-      "situacao": "Encaminhada",
-      "responsavel": "JOAO PAULO MONTANDON SOUZA"
-    },
-    {
-      "sequencia": "6",
-      "data": "17/06/2026 10:56:39",
-      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
-      "situacao": "Encaminhada",
-      "responsavel": "JOAO PAULO MONTANDON SOUZA"
-    },
-    {
-      "sequencia": "5",
-      "data": "15/06/2026 15:10:10",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "JOAO PAULO MONTANDON SOUZA"
-    },
-    {
-      "sequencia": "4",
-      "data": "15/06/2026 08:57:30",
-      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
-      "situacao": "Encaminhada",
-      "responsavel": "FREDERICO MENDES DA ROCHA"
-    },
-    {
-      "sequencia": "3",
-      "data": "08/06/2026 14:29:46",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
-      "situacao": "Aguardando",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "2",
-      "data": "08/06/2026 08:37:39",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "1",
-      "data": "29/05/2026 07:38:07",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "F. E. PARTICIPACOES LTDA"
-    }
-  ],
-  "anexos": [
-    {
-      "nome": "Alvara de Acréscimo - F. E. PARTICIPACOES LTDA - 50682.pdf",
-      "descricao": "Alvara de Acrescimo - F. E. PARTICIPACOES LTDA - 50682.pdf",
-      "data": "8 Jun (9 dias atrás)"
-    },
-    {
-      "nome": "ALVARÁ DE ACRÉSCIMO - Despacho n. 1450, F. E. PARTICIPACOES LTDA - 50682.pdf",
-      "descricao": "ALVARA DE ACRESCIMO - Despacho n. 1450, F. E. PARTICIPACOES LTDA - 50682.pdf",
-      "data": "hoje"
-    }
-  ],
-  "_salvo_em": "2026-06-17T14:29:46.324482+00:00"
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:36:00.631652+00:00"
 }

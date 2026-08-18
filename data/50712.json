@@ -2,17 +2,11 @@
   "projeto_id": 50712,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50712&TipoAlvara=2",
-  "situacao": "Em Reanálise",
+  "situacao": null,
   "numero_licenca": null,
-  "tipo": "Aprovação de Projeto",
-  "autor": "TIAGO BATISTA DOS SANTOS ( 01808395190 )",
+  "tipo": null,
+  "autor": null,
   "andamentos": [],
-  "anexos": [
-    {
-      "nome": "LAUDO 1664 - PROJETO 50712.pdf",
-      "descricao": "LAUDO 1664 - PROJETO 50712.pdf",
-      "data": "28 Jul (2 semanas atrás)"
-    }
-  ],
-  "_salvo_em": "2026-08-13T11:57:08.599138+00:00"
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:36:00.070986+00:00"
 }

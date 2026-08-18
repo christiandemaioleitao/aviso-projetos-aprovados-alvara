@@ -2,17 +2,11 @@
   "projeto_id": 50508,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50508&TipoAlvara=2",
-  "situacao": "Em Reanálise",
+  "situacao": null,
   "numero_licenca": null,
-  "tipo": "Aprovação de Projeto",
-  "autor": "RAIMUNDO NONATO DOS SANTOS ( 49801708204 )",
+  "tipo": null,
+  "autor": null,
   "andamentos": [],
-  "anexos": [
-    {
-      "nome": "N1364 - 2026 -  PROCESSO 50508 - 26.06.2026 - ANALISE 1.pdf",
-      "descricao": "PRIMEIRA ANÁLISE - 1364/2026",
-      "data": "3 Jul (4 weeks ago)"
-    }
-  ],
-  "_salvo_em": "2026-07-28T12:59:57.525276+00:00"
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:41.339045+00:00"
 }

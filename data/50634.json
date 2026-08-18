@@ -2,112 +2,11 @@
   "projeto_id": 50634,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50634&TipoAlvara=2",
-  "situacao": "Apto para Análise",
-  "numero_licenca": "51267",
-  "tipo": "Aprovação de Projeto",
-  "autor": "CASSIO EDUARDO PEREIRA ( 82055750100 )",
-  "andamentos": [
-    {
-      "sequencia": "12",
-      "data": "27/07/2026 12:06:14",
-      "descricao": "Projeto redistribuido.",
-      "situacao": "Encaminhada",
-      "responsavel": "LUCIO DE SOUSA LIBORIO"
-    },
-    {
-      "sequencia": "11",
-      "data": "24/07/2026 09:56:12",
-      "descricao": "Projeto encaminhado para analista Motivo: Processo Distribuido",
-      "situacao": "Encaminhada",
-      "responsavel": "LUCIO DE SOUSA LIBORIO"
-    },
-    {
-      "sequencia": "10",
-      "data": "24/07/2026 09:55:29",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "LUCIO DE SOUSA LIBORIO"
-    },
-    {
-      "sequencia": "9",
-      "data": "06/07/2026 15:12:44",
-      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
-      "situacao": "Encaminhada",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "8",
-      "data": "06/07/2026 15:02:28",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "7",
-      "data": "24/06/2026 15:24:21",
-      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
-      "situacao": "Encaminhada",
-      "responsavel": "CASSIO EDUARDO PEREIRA"
-    },
-    {
-      "sequencia": "6",
-      "data": "15/06/2026 16:40:39",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
-      "situacao": "Aguardando",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "5",
-      "data": "15/06/2026 16:07:13",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "4",
-      "data": "15/06/2026 13:57:42",
-      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
-      "situacao": "Encaminhada",
-      "responsavel": "CASSIO EDUARDO PEREIRA"
-    },
-    {
-      "sequencia": "3",
-      "data": "15/06/2026 07:00:21",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: atender o despacho",
-      "situacao": "Aguardando",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "2",
-      "data": "15/06/2026 06:31:35",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "1",
-      "data": "02/06/2026 07:36:49",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA"
-    }
-  ],
-  "anexos": [
-    {
-      "nome": "aprovação de projeto  CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA.pdf",
-      "descricao": "aprovacao de projeto CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA.pdf",
-      "data": "15 Jun"
-    },
-    {
-      "nome": "Aprovação de Projeto - CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50634.pdf",
-      "descricao": "Aprovacao de Projeto - CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50634.pdf",
-      "data": "15 Jun"
-    },
-    {
-      "nome": "Modificação de Projeto Sem Acrescimo -  CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50634.pdf",
-      "descricao": "Modificacao de Projeto Sem Acrescimo - CABRAL EMPREENDIMENTOS IMOBILIARIOS LTDA - 50634.pdf",
-      "data": "6 Jul (3 weeks ago)"
-    }
-  ],
-  "_salvo_em": "2026-07-28T13:00:09.105460+00:00"
+  "situacao": null,
+  "numero_licenca": null,
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:58.984407+00:00"
 }

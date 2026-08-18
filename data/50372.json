@@ -2,53 +2,11 @@
   "projeto_id": 50372,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50372&TipoAlvara=2",
-  "situacao": "Apto para Análise",
-  "numero_licenca": "50750",
-  "tipo": "Aprovação de Projeto",
-  "autor": "UNYT ARQUITETURA DE RESULTADOS S/S ( 23784356000169 )",
-  "andamentos": [
-    {
-      "sequencia": "5",
-      "data": "24/07/2026 13:06:13",
-      "descricao": "Projeto encaminhado para analista Motivo: PARA ANÁLISE DO PROEJTO ARQUITETÔNICO",
-      "situacao": "Encaminhada",
-      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
-    },
-    {
-      "sequencia": "4",
-      "data": "24/07/2026 13:04:48",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "ROSANGELA COSTA DOS SANTOS CIRQUEIRA"
-    },
-    {
-      "sequencia": "3",
-      "data": "02/06/2026 11:44:38",
-      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
-      "situacao": "Encaminhada",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "2",
-      "data": "01/06/2026 14:55:06",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "1",
-      "data": "23/05/2026 07:36:18",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "VILA TOSCANA RESIDENCE EMPREENDIMENTOS IMOBILIARIOS LTDA"
-    }
-  ],
-  "anexos": [
-    {
-      "nome": "Aprovação de Projeto - VILA TOSCANA RESIDENCE EMPREENDIMENTOS IMOBILIARIOS LTDA - 50372.pdf",
-      "descricao": "Aprovacao de Projeto - VILA TOSCANA RESIDENCE EMPREENDIMENTOS IMOBILIARIOS LTDA - 50372.pdf",
-      "data": "2 Jun"
-    }
-  ],
-  "_salvo_em": "2026-07-25T12:07:26.197799+00:00"
+  "situacao": null,
+  "numero_licenca": null,
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:39.814452+00:00"
 }

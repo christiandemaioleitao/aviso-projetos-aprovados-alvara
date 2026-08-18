@@ -2,53 +2,11 @@
   "projeto_id": 50507,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50507&TipoAlvara=2",
-  "situacao": "Apto Para Análise",
-  "numero_licenca": "50617",
-  "tipo": "Aprovação de Projeto",
-  "autor": "GPL ENGENHARIA LTDA ( 33636432000142 )",
-  "andamentos": [
-    {
-      "sequencia": "5",
-      "data": "10/08/2026 17:06:24",
-      "descricao": "Projeto encaminhado para analista. Motivo: Para análise.",
-      "situacao": "Encaminhada",
-      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
-    },
-    {
-      "sequencia": "4",
-      "data": "10/08/2026 16:59:55",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
-    },
-    {
-      "sequencia": "3",
-      "data": "26/05/2026 09:26:10",
-      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
-      "situacao": "Encaminhada",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "2",
-      "data": "22/05/2026 10:58:47",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "1",
-      "data": "20/05/2026 07:35:08",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "INCORPORACAO R78 SPE LTDA"
-    }
-  ],
-  "anexos": [
-    {
-      "nome": "Modificação de Projeto Sem Acrescimo - INCORPORACAO R78 SPE LTDA - 50507.pdf",
-      "descricao": "Modificacao de Projeto Sem Acrescimo - INCORPORACAO R78 SPE LTDA - 50507.pdf",
-      "data": "26 Mai"
-    }
-  ],
-  "_salvo_em": "2026-08-11T11:53:37.262087+00:00"
+  "situacao": null,
+  "numero_licenca": null,
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:46.995382+00:00"
 }

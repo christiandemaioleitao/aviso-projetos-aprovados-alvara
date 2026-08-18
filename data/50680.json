@@ -2,79 +2,11 @@
   "projeto_id": 50680,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50680&TipoAlvara=2",
-  "situacao": "Apto para Análise",
-  "numero_licenca": "51480",
-  "tipo": "Aprovação de Projeto",
-  "autor": "FRANCINELLI SANTANA CALIL ( 03254587154 )",
-  "andamentos": [
-    {
-      "sequencia": "8",
-      "data": "11/08/2026 16:25:52",
-      "descricao": "Projeto encaminhado para analista Motivo: Para analise",
-      "situacao": "Encaminhada",
-      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
-    },
-    {
-      "sequencia": "7",
-      "data": "11/08/2026 16:23:11",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
-    },
-    {
-      "sequencia": "6",
-      "data": "16/07/2026 06:55:49",
-      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
-      "situacao": "Encaminhada",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "5",
-      "data": "16/07/2026 06:29:48",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "4",
-      "data": "26/06/2026 15:51:25",
-      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
-      "situacao": "Encaminhada",
-      "responsavel": "FRANCINELLI SANTANA CALIL"
-    },
-    {
-      "sequencia": "3",
-      "data": "15/06/2026 07:14:38",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Atender o despacho",
-      "situacao": "Aguardando",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "2",
-      "data": "15/06/2026 06:31:35",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "1",
-      "data": "03/06/2026 07:35:30",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "ELIESLEY GOULART VIEIRA E OUTRO"
-    }
-  ],
-  "anexos": [
-    {
-      "nome": "aprovação de projeto  ELIESLEY GOULART VIEIRA E OUTRO.pdf",
-      "descricao": "aprovacao de projeto ELIESLEY GOULART VIEIRA E OUTRO.pdf",
-      "data": "15 Jun"
-    },
-    {
-      "nome": "aprovação de projeto ELIESLEY GOULART VIEIRA E OUTRO...pdf",
-      "descricao": "aprovacao de projeto ELIESLEY GOULART VIEIRA E OUTRO...pdf",
-      "data": "16 Jul (4 weeks ago)"
-    }
-  ],
-  "_salvo_em": "2026-08-12T11:56:32.937311+00:00"
+  "situacao": null,
+  "numero_licenca": null,
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:56.602897+00:00"
 }

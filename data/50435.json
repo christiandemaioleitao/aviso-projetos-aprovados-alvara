@@ -2,79 +2,11 @@
   "projeto_id": 50435,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50435&TipoAlvara=2",
-  "situacao": "Pendente",
-  "numero_licenca": "50627",
-  "tipo": "Aprovação de Projeto",
-  "autor": "SPE SAC 003 EMPREENDIMENTOS LTDA ( 58606931000118 )",
-  "andamentos": [
-    {
-      "sequencia": "8",
-      "data": "05/08/2026 17:27:39",
-      "descricao": "Análise do projeto encontrou inconsistências. Encaminhada para o contribuinte Motivo: ATENDER DESPACHO Nº 1409/2026 - 1ª ANÁLISE",
-      "situacao": "Aguardando",
-      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
-    },
-    {
-      "sequencia": "7",
-      "data": "31/07/2026 16:34:23",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "MIRIAN MENDONCA DE CAMPOS CURADO"
-    },
-    {
-      "sequencia": "6",
-      "data": "19/06/2026 18:14:09",
-      "descricao": "Projeto redistribuido.",
-      "situacao": "Encaminhada",
-      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
-    },
-    {
-      "sequencia": "5",
-      "data": "10/06/2026 10:59:23",
-      "descricao": "Projeto encaminhado para analista Motivo: Para análise",
-      "situacao": "Encaminhada",
-      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
-    },
-    {
-      "sequencia": "4",
-      "data": "10/06/2026 10:57:08",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "VIRGINIA INACIO MATHIAS COSTA BEZERRA"
-    },
-    {
-      "sequencia": "3",
-      "data": "26/05/2026 14:26:49",
-      "descricao": "Documentação conforme. Encaminhado para análise de projetos.",
-      "situacao": "Encaminhada",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "2",
-      "data": "25/05/2026 15:59:43",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "1",
-      "data": "19/05/2026 07:35:02",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "SPE SAC 003 EMPREENDIMENTOS LTDA"
-    }
-  ],
-  "anexos": [
-    {
-      "nome": "Aprovação de Projeto -  SPE SAC 003 EMPREENDIMENTOS LTDA - 50435.pdf",
-      "descricao": "Aprovacao de Projeto - SPE SAC 003 EMPREENDIMENTOS LTDA - 50435.pdf",
-      "data": "26 Mai"
-    },
-    {
-      "nome": "OS 1886751_50435 SPE SAC 003 EMPREENDIMENTOS LTDA 1409_2026.pdf",
-      "descricao": "DESPACHO Nº 1409/2026 - 1ª ANÁLISE",
-      "data": "ontem"
-    }
-  ],
-  "_salvo_em": "2026-08-06T13:02:14.695688+00:00"
+  "situacao": null,
+  "numero_licenca": null,
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:36.855253+00:00"
 }

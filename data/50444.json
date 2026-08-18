@@ -2,17 +2,11 @@
   "projeto_id": 50444,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50444&TipoAlvara=2",
-  "situacao": "Em Reanálise",
+  "situacao": null,
   "numero_licenca": null,
-  "tipo": "Aprovação de Projeto",
-  "autor": "ROBERTA FERREIRA CARDOSO ( 91839173149 )",
+  "tipo": null,
+  "autor": null,
   "andamentos": [],
-  "anexos": [
-    {
-      "nome": "N1378 - 2026 -  PROCESSO 50444 - 01.07.2026 ANALISE 1.pdf",
-      "descricao": "N1378 - 2026 - PROCESSO 50444 - 01.07.2026 ANALISE 1.pdf",
-      "data": "2 Jul (7 dias atrás)"
-    }
-  ],
-  "_salvo_em": "2026-07-09T13:53:21.600079+00:00"
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:37.257088+00:00"
 }

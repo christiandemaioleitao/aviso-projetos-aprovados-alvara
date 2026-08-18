@@ -2,11 +2,11 @@
   "projeto_id": 50450,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50450&TipoAlvara=2",
-  "situacao": "Aguardando Pagamento Taxa Final",
+  "situacao": null,
   "numero_licenca": null,
-  "tipo": "Aprovação de Projeto",
-  "autor": "MAGEN CONSTRUTORA LTDA ( 23562830000108 )",
+  "tipo": null,
+  "autor": null,
   "andamentos": [],
   "anexos": [],
-  "_salvo_em": "2026-06-05T16:50:25.535601+00:00"
+  "_salvo_em": "2026-08-18T11:35:38.887036+00:00"
 }

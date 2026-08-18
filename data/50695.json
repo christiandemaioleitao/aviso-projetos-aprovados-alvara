@@ -2,91 +2,11 @@
   "projeto_id": 50695,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50695&TipoAlvara=2",
-  "situacao": "Pendente",
+  "situacao": null,
   "numero_licenca": null,
-  "tipo": "Aprovação de Projeto",
-  "autor": "JULIANA ALVES RIBEIRO ( 02746461102 )",
-  "andamentos": [
-    {
-      "sequencia": "9",
-      "data": "17/08/2026 06:50:42",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: ATENDER O DESPACHO",
-      "situacao": "Aguardando",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "8",
-      "data": "17/08/2026 06:32:09",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "7",
-      "data": "06/08/2026 06:12:35",
-      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
-      "situacao": "Encaminhada",
-      "responsavel": "JULIANA ALVES RIBEIRO"
-    },
-    {
-      "sequencia": "6",
-      "data": "13/07/2026 15:21:47",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: Resolver pendencias",
-      "situacao": "Aguardando",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "5",
-      "data": "13/07/2026 15:05:28",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "4",
-      "data": "23/06/2026 15:52:25",
-      "descricao": "Reencaminhado para conferência de documentação pelo contribuinte.",
-      "situacao": "Encaminhada",
-      "responsavel": "JULIANA ALVES RIBEIRO"
-    },
-    {
-      "sequencia": "3",
-      "data": "18/06/2026 06:59:43",
-      "descricao": "Encaminhado para o contribuinte devido as pendências de documentação Motivo: ATENDER O DESPACHO",
-      "situacao": "Aguardando",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "2",
-      "data": "18/06/2026 06:10:00",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "FLORISVALDO BARBOSA DOS SANTOS JUNIOR"
-    },
-    {
-      "sequencia": "1",
-      "data": "10/06/2026 07:35:33",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "HERISSOM ANTONIO CARDOSO ALMEIDA"
-    }
-  ],
-  "anexos": [
-    {
-      "nome": "aprovação de projeto   HERISSOM ANTONIO CARDOSO ALMEIDA.pdf",
-      "descricao": "aprovacao de projeto HERISSOM ANTONIO CARDOSO ALMEIDA.pdf",
-      "data": "18 Jun"
-    },
-    {
-      "nome": "Aprovação de Projeto - HERISSOM ANTONIO CARDOSO ALMEIDA - 50695.pdf",
-      "descricao": "Aprovacao de Projeto - HERISSOM ANTONIO CARDOSO ALMEIDA - 50695.pdf",
-      "data": "13 Jul"
-    },
-    {
-      "nome": "aprovação de projeto HERISSOM ANTONIO CARDOSO ALMEIDA.pdf",
-      "descricao": "aprovacao de projeto HERISSOM ANTONIO CARDOSO ALMEIDA.pdf",
-      "data": "hoje"
-    }
-  ],
-  "_salvo_em": "2026-08-17T11:36:21.849838+00:00"
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
+  "anexos": [],
+  "_salvo_em": "2026-08-18T11:35:58.357395+00:00"
 }

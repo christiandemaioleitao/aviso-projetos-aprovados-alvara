@@ -2,26 +2,11 @@
   "projeto_id": 50456,
   "tipo_alvara": 2,
   "url": "https://www10.goiania.go.gov.br/alvarafacil/AcompanhaAprovacaoProjeto.aspx?ProjetoId=50456&TipoAlvara=2",
-  "situacao": "Apto para Análise",
+  "situacao": null,
   "numero_licenca": null,
-  "tipo": "Aprovação de Projeto",
-  "autor": "AGENCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES ( 03520933000106 )",
-  "andamentos": [
-    {
-      "sequencia": "2",
-      "data": "11/08/2026 09:29:37",
-      "descricao": "Solicitação recebida",
-      "situacao": "Em Execução",
-      "responsavel": "CAMILA DA SILVA"
-    },
-    {
-      "sequencia": "1",
-      "data": "01/07/2026 07:35:03",
-      "descricao": "Solicitação Aberta.",
-      "situacao": "Aberta",
-      "responsavel": "ESTADO DE GOIAS"
-    }
-  ],
+  "tipo": null,
+  "autor": null,
+  "andamentos": [],
   "anexos": [],
-  "_salvo_em": "2026-08-12T11:55:59.081060+00:00"
+  "_salvo_em": "2026-08-18T11:35:41.109462+00:00"
 }
